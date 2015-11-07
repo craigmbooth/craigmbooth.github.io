@@ -1,0 +1,109 @@
+* {
+padding: 0;
+margin: 0;
+}
+
+body {
+font: 1.2em "Arvo" sans-serif;
+background-image: url(grass.jpg);
+background-repeat: repeat;
+}
+
+a {
+text-decoration: none;
+color: #003a73;
+}
+
+#wrap
+{
+margin: 20px auto;
+width: 1024px;
+padding: 10px;
+background-color: #fff;
+border-radius: 15px;
+-moz-border-radius: 15px;
+}
+
+
+#header
+{
+height : 90px;
+background-color : #fff;
+background-image: url(nfl.gif);
+background-repeat: no-repeat;
+background-position: left;
+background-size: contain;
+text-align:center;
+}
+
+#header h1 { padding-left: 10px; padding-top: 12px; font-size: 36px; color: #31799F; }
+#header h1 a { font-size: 36px; color: #003a73; text-decoration: none;}
+#header h2 { padding-left: 10px; padding-top: 0px; font-size: 14px; color: #ccc; }
+
+#content {
+text-align: left;
+margin-top: 5px;
+padding: 20px;
+padding-left: 50px;
+padding-right: 50px;
+font-size: 16px;
+}
+
+#content h2 {
+font-size: 22px; color : #444;
+padding: 20px 0 10px 0;
+}
+
+#footer {
+margin-top: 25px;
+clear: both;
+text-align: center;
+color: #31799F;
+font-size:14px;
+background-color:#fff;
+padding:2px;
+}
+
+#footer a{
+color: #FF0000;
+}
+.meta {
+padding-bottom:2px;
+font-size: 10px;
+color:#999999;
+font:Arial, Helvetica, sans-serif;
+}
+
+#bottom {
+	font-size:14px;
+	padding: 10px 0 0 0;
+}
+
+#bottomleft {
+width:45%;
+float:left;
+background:#fff;
+padding-bottom:10px;
+padding-left:50px;
+}
+
+
+#bottomright {
+width:45%;
+float:right;
+background:#fff;
+padding-bottom:10px;
+padding-right:50px;
+}
+
+#bottom p {
+margin-bottom: 10px;
+}
+
+#divider {
+text-align: center;
+font-size : 11px;
+padding:2px;
+font-weight: bold;
+font-family:Arial, Helvetica, sans-serif;
+}

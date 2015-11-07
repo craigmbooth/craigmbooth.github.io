@@ -1,0 +1,28 @@
+[{
+ series: { lines:  {show: false},
+           points: {show: true}, 
+           shadowSize: 0 
+         },
+
+ xaxis: { zoomRange: [0.1, 100], 
+          panRange: [1940, 2010],
+          min: 1990,
+          max: 2010
+        },
+		 
+ yaxis: { zoomRange: [0.1, 10],
+          panRange: [10, 1000],
+          min: 20,
+          max: 140
+        },
+
+ zoom: { interactive: true
+       },
+
+ pan: { interactive: true
+      },
+
+ legend: { show: true,
+           noColumns: 2
+         }
+}]

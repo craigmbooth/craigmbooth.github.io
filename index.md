@@ -24,12 +24,12 @@ Currently my main software engineering / data engineering interests are centered
   </div>
   <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 front-box">
     <h4>Projects</h4>
-    <a href="projects"><i class="fa fa-terminal fa-5x"></i></a>
+    <a href="projects/"><i class="fa fa-terminal fa-5x"></i></a>
     <p>I sometimes build data visualization projects, read about them here</p>
   </div>
   <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 front-box">
     <h4>Publications</h4>
-    <a href="astrophysics/publications.html"><span class="front-box-icon"><i class="fa fa-align-left fa-5x"></i></span></a>
+    <a href="astrophysics/publications/"><span class="front-box-icon"><i class="fa fa-align-left fa-5x"></i></span></a>
     <p>I used to publish on computational astrophysics, here is a list of my papers.</p>
   </div>
   <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 front-box">
@@ -39,7 +39,7 @@ Currently my main software engineering / data engineering interests are centered
   </div>
   <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 front-box">
     <h4>Visualizations</h4>
-    <a href="astrophysics/visualizations"><i class="fa fa-video-camera fa-5x"></i></a>
+    <a href="astrophysics/visualizations/"><i class="fa fa-video-camera fa-5x"></i></a>
     <p>I like to make movies from my cosmological simulations.</p>
   </div>
 </div>
