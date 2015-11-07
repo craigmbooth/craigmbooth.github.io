@@ -1,0 +1,55 @@
+# Site wide configuration
+
+title: Craig M. Booth
+locale: en_US
+description: Craig's Home on the Web
+logo: site-logo.png
+search: true
+url: http://www.craigmbooth.com
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile",
+          "Rakefile.rb", "tmp", "less", "test", "spec", "Gruntfile.js",
+          "package.json", "node_modules", "Gemfile", "Gemfile.lock",
+          "LICENSE", "README.md", "vendor"]
+
+# Site owner
+owner:
+  name: Craig Booth
+  avatar: bio-photo.jpg
+  email: craigmbooth@gmail.com
+  disqus-shortname: craigmbooth
+  twitter: craigmbooth
+  facebook: c.m.booth
+  github: craigmbooth
+  linkedin: #username
+  stackexchange: #url
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
