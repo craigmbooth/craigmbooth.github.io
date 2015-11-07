@@ -50,7 +50,7 @@ Currently my main software engineering / data engineering interests are centered
 {% for post in site.posts limit:2 %}
   <li>
     <article>
-      <a href="{{ site.url }}{{ post.url }}">
+      <a href="{{ post.url }}">
         {{ post.title }}
         <span class="entry-date">
           <time datetime="{{ post.date | date_to_xmlschema }}">

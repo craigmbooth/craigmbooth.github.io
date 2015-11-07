@@ -13,7 +13,7 @@ This page contains a list of all of the posts on this blog.  If you know what yo
 {% for post in site.posts limit:100 %}
   <li>
     <article>
-      <a href="{{ site.url }}{{ post.url }}">
+      <a href="{{ post.url }}">
         {{ post.title }}
         <span class="entry-date">
           <time datetime="{{ post.date | date_to_xmlschema }}">
