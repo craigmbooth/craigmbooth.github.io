@@ -1,0 +1,22 @@
+# Site navigation links
+
+- title: Home
+  url: /
+
+- title: About
+  url: /about/
+
+- title: Projects
+  url: /projects/
+
+- title: Astrophysics
+  url: /astrophysics/
+
+- title: Contact
+  url: /contact/
+
+- title: Blog
+  url: /blog/
+
+- title: Search
+  url: /search/

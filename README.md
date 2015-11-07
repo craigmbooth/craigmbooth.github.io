@@ -1,2 +1,0 @@
-# craigmbooth.com
-My Homepage
