@@ -17,7 +17,7 @@ I've found myself for the first time in a situation where I've very suddenly nee
 
 # What is SELinux
 
-SELinux is an example of a Manadatory Access Control (MAC) system.  This is as opposed to the traditional Linux access control system, which is a Discretionary Access Control system (DAC).  In a DAC there is nothing to prevent a user from ``chmod a+rwx -R *`` everything they own.  In a MAC, if there is a policy in place then even if you change the DAC then access will be stopped.
+SELinux is an example of a Mandatory Access Control (MAC) system.  This is as opposed to the traditional Linux access control system, which is a Discretionary Access Control system (DAC).  In a DAC there is nothing to prevent a user from ``chmod a+rwx -R *`` everything they own.  In a MAC, if there is a policy in place then even if you change the DAC then access will be stopped.
 
 ## Policies
 
@@ -38,7 +38,7 @@ Files, processes, ports, etc. are all labeled with an SELinux context.  For file
 
 For the targeted policy, `user`, `role` and `level` are unimportant.  We worry only about type.  For the mls policy, all of these could be used.
 
-As an example, consider the Apache web server.  If you look at the apache executable's SELinux context, you see the type is ``httpd_exec_t``.  You see this with ``ls -Z``.  Similarly, the config directory is labeled ``httpd_config_t``, the logfile dir is ``httpd_log_t``, the init script is ``httpd_initrc_exec_t``, the ports the webserver is running on are lebeled with ``httpd_port_t``.  The ``_t`` should be read as type.
+As an example, consider the Apache web server.  If you look at the Apache executable's SELinux context, you see the type is ``httpd_exec_t``.  You see this with ``ls -Z``.  Similarly, the config directory is labeled ``httpd_config_t``, the log file dir is ``httpd_log_t``, the init script is ``httpd_initrc_exec_t``, the ports the web server is running on are labeled with ``httpd_port_t``.  The ``_t`` should be read as type.
 
 Labeling is simply a logical way of grouping things together.  When the web server runs, its process is labeled ``httpd_t``, which you can see with ``ps -Z``
 
@@ -54,7 +54,7 @@ The ``semanage`` command can manage some aspects of SELinux without requiring re
 
 ## Interacting With Labels
 
-The ``-Z`` argument is accepted by many commands (ls, id, ps, netstat, etc).  On the filesystem I can create labels with ``-Z`` passed to ``cp`` and ``mkdir``.  There are also some tools for interacting directly with contexts, which will be covered later (chcon, restorecon, semanage)
+The ``-Z`` argument is accepted by many commands (ls, id, ps, netstat, etc).  On the file system I can create labels with ``-Z`` passed to ``cp`` and ``mkdir``.  There are also some tools for interacting directly with contexts, which will be covered later (chcon, restorecon, semanage)
 
 In general a file inherits the context of its parent directory (unless a policy defines a rule like "if an application in foo_t creates a file in a directory labeled bar_t, transition it so the label is created with baz_t").  RPMs can also set contexts as part of the installation.
 
@@ -69,19 +69,19 @@ An error means that something is wrong.  Turning off SELinux in response to this
 
 ## SELinux Booleans
 
-Booleans are on/off switches for SELinux.  From simple stuff like "do we allow the FTP server access to home directories" to reallay arcane and esoteric settings.  There are a ton of these booleans that are predefined.
+Booleans are on/off switches for SELinux.  From simple stuff like "do we allow the FTP server access to home directories" to really arcane and esoteric settings.  There are a ton of these Booleans that are predefined.
 
-To see all the booleans
+To see all the Booleans
 
     getsebool -a
 
-To se a boolean
+To see a Boolean
 
     setsebool [-P] <name> 0/1
 
-The -P makes it permanant.  Note that to help debug this, install setroubleshoot and setroubleshoot-server (then restart auditd), they will make lfe about a million times easier when troubleshooting policies.
+The -P makes it permanent.  Note that to help debug this, install `setroubleshoot` and `setroubleshoot-server` (then restart auditd), they will make life about a million times easier when troubleshooting policies.
 
-To see what booleans are set, check out /etc/selinux/targeted/modules/active, there is a file called "booleans.local" with any custom changes made on the system.  Note that the file in this directory is NOT configuration, it is reporting.  Changing the contents of this file will not affect anything, it will just be overwritten at some point.
+To see what Booleans are set, check out /etc/selinux/targeted/modules/active, there is a file called "booleans.local" with any custom changes made on the system.  Note that the file in this directory is NOT configuration, it is reporting.  Changing the contents of this file will not affect anything, it will just be overwritten at some point.
 
 ## Restorecon
 
@@ -93,7 +93,7 @@ This function uses information from ``/etc/selinux/targeted/contexts/files/file_
 
 ## Enabling SELinux
 
-To enable SELinux, edit `/etc/selinux/config` and set `SELINUX=permissive`.  Do not set enfircing because it will likely hang at boot time.  Then, create a file in the root of the filesystem called `.autorelabel`, reboot and the system will relabel the filesystem.  This could take quite a while.
+To enable SELinux, edit `/etc/selinux/config` and set `SELINUX=permissive`.  Do not set enforcing because it will likely hang at boot time.  Then, create a file in the root of the file system called `.autorelabel`, reboot and the system will relabel the file system.  This could take quite a while.
 
 # Real World Examples
 
@@ -103,7 +103,9 @@ A user wants to host a website from inside their homedir.  You go into Apache's 
 
 Check the usual suspects (`/var/log/httpd/*`) and everything is 403ing.  Not too helpful, we knew that.  Take a look at `/var/log/messages` and
 
-    setroubleshoot:  SELinux is preventing /usr/bin/httpd from getattr access on the directory /home/fred.  Fomr complete selinux messages, run [a command].  This command will tell you the issues that happened, and frequently give you suggestions to fix them.
+    setroubleshoot:  SELinux is preventing /usr/bin/httpd from getattr access on the directory /home/fred.  For complete selinux messages, run [a command].
+
+This command will tell you the issues that happened, and frequently give you suggestions to fix them.
 
 ## Apache In Other Directories
 
@@ -119,7 +121,7 @@ Or, easier, if you know you want to make one thing look like another, just use `
 
 General point:  If you're getting permission denied in weird places, even when you have fixed permissions, you should check selinux in /var/log/messages.
 
-If you jsut want to put everything in a directory into the context you'd expect it to have use ``restorecon``
+If you just want to put everything in a directory into the context you'd expect it to have use ``restorecon``
 
     restorecon -vR /var/www/html
 
@@ -139,7 +141,7 @@ This command just sets the defaults, we then need to run restorecon.
 
 ## Creating Policy Modules For a New App
 
-In the case that setting booleans and modules is not enough, you need to create a policy.  The best way to begin doing this is to set SELinux to permissive, then run the application through all its functionality and look through the logfiles for all of the errors.
+In the case that setting Booleans and modules is not enough, you need to create a policy.  The best way to begin doing this is to set SELinux to permissive, then run the application through all its functionality and look through the log files for all of the errors.
 
     setenforce 0
 
