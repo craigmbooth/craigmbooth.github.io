@@ -28,4 +28,28 @@ These movies show a face-on view of a simulated Milky Way type galaxy.  The colo
 
 ## The OWLS 25 Mpc/h Region
 
+### Group Galaxies
+
+These movies correspond to a region with a comoving size of 3Mpc/h. By redshift zero the main object in this volume will become a halo of mass 10<sup>14</sup> M <sub>sun</sub>, this movie stops at redshift 2. Click each section for the movies.
+
+<div class="row">
+  <div class="col-sm-4 col-md-4">
+    <a href="../videos/25mpc-object1-combined.avi">
+      <img src="../videos/25mpc-object1-combined.png">
+    </a>
+  </div>
+  <div class="col-sm-8">
+     The image to the left links to a move showing all of the density, temperature, metallicity and stellar distribution.  The links below go to the individual movies
+
+     <ul>
+       <li><a href="../videos/25mpc-object1-dens.avi">Density</a></li>
+       <li><a href="../videos/25mpc-object1-temp.avi">Temperature</a></li>
+       <li><a href="../videos/25mpc-object1-mett.avi">Metallicity</a></li>
+       <li><a href="../videos/25mpc-object1-star.avi">Stars</a></li>
+     </ul>
+  </div>
+</div>
+
+### A Slice From The Entire Volume
+
 TODO(cbooth):  Finish porting this page from the HTML (Written Nov 2015)
