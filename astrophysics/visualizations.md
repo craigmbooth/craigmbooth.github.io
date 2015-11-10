@@ -5,4 +5,27 @@ image:
   feature: astrophysics_header.jpg
 ---
 
-TODO(cbooth):  Port this page over from the HTML
+I have generated a number of nice structure formation movies from our simulations. This page contains all the structure formation movies I generated for the OWLS project (Schaye et al. 2010).  My other movies, inluding other types of OWLS movies and older visualizations are on my <a href="./other-movies">Other Movies</a> page. Feel free to use any of these movies in talks and the like.  If you see something in one of the movies that raises any questions, or would like any additional information then feel free to email me.
+
+If you have issues with playback, I recommend downloading <a href="http://www.videolan.org/vlc/index.html">VLC</a> (Mac, Windows, Linux) or <a href="http://perian.org/">Perian</a> (Mac).
+
+## Simulations of the Milky Way
+
+These movies show a face-on view of a simulated Milky Way type galaxy.  The colours show the gas density.  The movies run for a total of 2 Gyr, and are relatively high resolution (800x800 pixels).  I generally use these on the first page of a presentation to make the titles more interesting and accordingly have provided two versions:  one with a black background and one in white.
+
+<div class="row">
+  <div class="col-sm-6">
+    <a href="../videos/mw_face_white.avi">
+      <img src="../videos/mw_light_frame.jpg">
+    </a>
+  </div>
+  <div class="col-sm-6">
+    <a href="../videos/mw_face_black.avi">
+      <img src="../videos/mw_dark_frame.jpg">
+    </a>
+  </div>
+</div>
+
+## The OWLS 25 Mpc/h Region
+
+TODO(cbooth):  Finish porting this page from the HTML (Written Nov 2015)

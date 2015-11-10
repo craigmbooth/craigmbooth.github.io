@@ -26,9 +26,9 @@ In RHEL there are generally two SELinux policies:
    * "targeted" -- If there is a policy for a process it is managed by SELinux, everything else can run fine.  There are 100's of policies predefined for different processes
    * "mls" -- Can be very complex, can apply policies to all processes.
 
-You can tell what your system should be running by looking in ``/etc/selinux/config``, you can also check via ``/usr/sbin/sestatus``.  This will tell you what policy should be loaded, and whether SELinux is running in permissive (log things only), or enforcing mode (block inappropriate access).
+For the purposes of this document we will consider only the targeted policy.  You can tell what your system should be running by looking in ``/etc/selinux/config``, you can also check via ``/usr/sbin/sestatus``.  This will tell you what policy should be loaded, and whether SELinux is running in permissive (log things only), or enforcing mode (block inappropriate access).
 
-There are a couple of concepts that we need
+There are a couple of concepts that we need:  Labeling and type enforcement
 
 ## Labeling
 
@@ -101,9 +101,9 @@ To enable SELinux, edit `/etc/selinux/config` and set `SELINUX=permissive`.  Do 
 
 A user wants to host a website from inside their homedir.  You go into Apache's httpd.conf and allow this, but you're getting disallowed errors, even after changing permissions on the homedir.
 
-Check the usual suspects (/var/log/httpd/*) and everything is 403ing.  Not too helpful, we knew that.  Take a look at /var/log/messages and
+Check the usual suspects (`/var/log/httpd/*`) and everything is 403ing.  Not too helpful, we knew that.  Take a look at `/var/log/messages` and
 
-    setroubleshoot:  SELinux is preventing /usr/bin/httpd gtom getattr access on the directory /home/fred.  Fomr complete selinux messages, run [a command].  This command will tell you the issues that happened, and frequently give you suggestions to fix them.
+    setroubleshoot:  SELinux is preventing /usr/bin/httpd from getattr access on the directory /home/fred.  Fomr complete selinux messages, run [a command].  This command will tell you the issues that happened, and frequently give you suggestions to fix them.
 
 ## Apache In Other Directories
 
@@ -121,10 +121,9 @@ General point:  If you're getting permission denied in weird places, even when y
 
 If you jsut want to put everything in a directory into the context you'd expect it to have use ``restorecon``
 
-   restorecon -vR /var/www/html
+    restorecon -vR /var/www/html
 
 This will tell you exactly what it changed.
-
 
 ## Creating a Web Directory Somewhere Nonstandard
 
