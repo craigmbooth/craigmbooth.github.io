@@ -19,40 +19,40 @@ In chapter 4 this statistical model is applied to the simulation of isolated dis
   <div class="col-xs-12 col-md-6">
     <h5>Front Matter</h5>
     <p>Title pages, lists of figures, captions and tables, and declaration.</p>
-    <a href="cmb_thesis_front.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"></i> Download Front Matter</span></a>
+    <a href="thesis/cmb_thesis_front.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"></i> Download Front Matter</span></a>
   </div>
   <div class="col-xs-12 col-md-6">
     <h5>Chapter 1</h5>
     <p>An overview of cosmological physics, and the physics of the interstellar medium as relevant to this thesis.</p>
-    <a href="cmb_thesis_chap1.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"> Download Chapter 1</i></span></a>
+    <a href="thesis/cmb_thesis_chap1.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"> Download Chapter 1</i></span></a>
   </div>
   <div class="col-xs-12 col-md-6">
     <h5>Chapter 2</h5>
     <p>We introduce the techniques of numerical cosmology with a special focus on those used in this work.</p>
-    <a href="cmb_thesis_chap2.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"> Download Chapter 2</i></span></a>
+    <a href="thesis/cmb_thesis_chap2.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"> Download Chapter 2</i></span></a>
   </div>
   <div class="col-xs-12 col-md-6">
     <h5>Chapter 3</h5>
     <p>In this chapter we develop a statistical model of the interstellar medium and demonstrate the model properties on small scales.</p>
-    <a href="cmb_thesis_chap3.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"> Download Chapter 3</i></span></a>
+    <a href="thesis/cmb_thesis_chap3.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"> Download Chapter 3</i></span></a>
   </div>
   <div class="col-xs-12 col-md-6">
     <h5>Chapter 4</h5>
     <p>As a first test of the statistical model we show the formation of a disk collapsing out of a dark matter halo and compare its properties to observations</p>
-    <a href="cmb_thesis_chap4.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"></i> Download Chapter 4</span></a>
+    <a href="thesis/cmb_thesis_chap4.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"></i> Download Chapter 4</span></a>
   </div>
   <div class="col-xs-12 col-md-6">
     <h5>Chapter 5</h5>
     <p>In this chapter we discuss the properties of colliding galaxies and how the interstellar medium evolves with time.</p>
-    <a href="cmb_thesis_chap5.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"></i> Download Chapter 5</span></a>
+    <a href="thesis/cmb_thesis_chap5.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"></i> Download Chapter 5</span></a>
   </div>
   <div class="col-xs-12 col-md-6">
     <h5>Chapter 6</h5>
     <p>The model is applied to fully cosmological simulations and compared to other prescriptions in the literature, comparing favourably.</p>
-    <a href="cmb_thesis_chap6.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"></i> Download Chapter 6</span></a>
+    <a href="thesis/cmb_thesis_chap6.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"></i> Download Chapter 6</span></a>
   </div>
   <div class="col-xs-12 col-md-6">
     <h5>Bibliography</h5>
     <p>List of references and acknowledgements</p>
-    <a href="cmb_thesis_biblio.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"></i> Download Bibliography</span></a>
+    <a href="thesis/cmb_thesis_biblio.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"></i> Download Bibliography</span></a>
   </div>

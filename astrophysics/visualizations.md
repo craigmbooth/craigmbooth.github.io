@@ -28,6 +28,28 @@ These movies show a face-on view of a simulated Milky Way type galaxy.  The colo
 
 ## The OWLS 25 Mpc/h Region
 
+### A Slice From The Entire Volume
+
+A slice through the 25Mpc<i>/h</i> OWLS simulation.  The slice is 1Mpc/<i>h</i> thick and the movie runs from a redshift of 20 down to redshift two.
+
+<div class="row">
+  <div class="col-sm-6">
+    <a href="videos/25mpc-projection-dens.avi">
+      <img src="videos/25mpc-projection-dens.png">
+    </a>
+  </div>
+  <div class="col-sm-6">
+    A slice through the 25Mpc/<i>h</i> OWLS simulation.  The slice is 2Mpc/<i>h</i> thick and the movie runs from a redshift of 20 down to redshift zero. The video to the left shows density, other available projections:
+    <ul>
+      <li><a href="videos/25mpc-projection-temp.avi">Temperature</a></li>
+      <li><a href="videos/25mpc-projection-mett.avi">Metallicity</a></li>
+    </ul>
+    A video combining all projections is here:
+    <a href=""><img src="videos/25mpc-projection-combined.png"></a>
+  </div>
+</div>
+
+
 ### Group Galaxies
 
 These movies correspond to a region with a comoving size of 3Mpc/h. By redshift zero the main object in this volume will become a halo of mass 10<sup>14</sup> M <sub>sun</sub>, this movie stops at redshift 2. Click each section for the movies.
@@ -49,12 +71,6 @@ These movies correspond to a region with a comoving size of 3Mpc/h. By redshift 
      </ul>
   </div>
 </div>
-
-### A Slice From The Entire Volume
-
-A slice through the 25Mpc<i>/h</i> OWLS simulation.  The slice is 1Mpc/<i>h</i> thick and the movie runs from a redshift of 20 down to redshift two.
-
-TODO(cbooth):  Finish porting this section from the HTML (Written Nov 2015)
 
 ## The OWLS 100 Mpc/h Volume
 
