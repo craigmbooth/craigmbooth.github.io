@@ -11,7 +11,7 @@ url: http://www.craigmbooth.com
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: rouge
+highlighter: pygments
 sass:
   sass_dir: _sass
   style: compressed
