@@ -8,7 +8,7 @@ image:
 ## Old AMR Simulations
 
 <div class="row">
-  <div class="col-sm-4>
+  <div class="col-sm-4">
     <a href="videos/amr_frames.avi"><img src="videos/amr_frames.jpg"></a>
   </div>
   <div class="col-sm-8">
