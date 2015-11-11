@@ -54,10 +54,36 @@ These movies correspond to a region with a comoving size of 3Mpc/h. By redshift 
 
 A slice through the 25Mpc<i>/h</i> OWLS simulation.  The slice is 1Mpc/<i>h</i> thick and the movie runs from a redshift of 20 down to redshift two.
 
+TODO(cbooth):  Finish porting this section from the HTML (Written Nov 2015)
+
 ## The OWLS 100 Mpc/h Volume
 
 ### The Formation of a Galaxy Cluster
 
+<div class="row">
+  <div class="col-sm-6">
+    This movie shows the formation of a cluster of galaxies down to redshift zero. The two panels show density and metallicity. This movie was encoded using a different encoder than most of the others on this page. If you cannot get it to play you may need to install the <a href="http://www.xvidmovies.com/codec">XViD codec</a>, or can download the <a href="../videos/100mpc-object1-combined.mpg">.mpg file</a>
+  </div>
+  <div class="col-sm-6">
+    <a href="../videos/100mpc-object1-combined.avi"><img src="../videos/100mpc-object1-combined.png"></a>
+  </div>
+</div>
+
 ### A Slice From the Entire Volume
 
-TODO(cbooth):  Finish porting this page from the HTML (Written Nov 2015)
+<div class="row">
+  <div class="col-sm-6">
+    <a href="../videos/100mpc-projection-dens.avi">
+      <img src="../videos/100mpc-projection-dens.png">
+    </a>
+  </div>
+  <div class="col-sm-6">
+    A slice through the 100Mpc/<i>h</i> OWLS simulation.  The slice is 2Mpc/<i>h</i> thick and the movie runs from a redshift of 20 down to redshift zero. The video to the left shows density, other available projections:
+    <ul>
+      <li><a href="../videos/100mpc-projection-temp.avi">Temperature</a></li>
+      <li><a href="../videos/100mpc-projection-mett.avi">Metallicity</a></li>
+    </ul>
+    A video combining all projections is here:
+    <a href=""><img src="../videos/100mpc-projection-combined.png"></a>
+  </div>
+</div>
