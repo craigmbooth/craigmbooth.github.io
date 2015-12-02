@@ -6,7 +6,7 @@ image:
 ---
 
 ## Overview
-Thank you for signing up for SQL Bootcamp. I’m looking forward to an interesting and informative weekend building new skills together.  **Please come to the class with MYSQL and MySQL Workbench already installed on your computer**
+Thank you for signing up for SQL Bootcamp. I’m looking forward to an interesting and informative weekend building new skills together.  **Please come to the class with MySQL and MySQL Workbench already installed on your computer**
 
 ## File Downloads
 
@@ -18,6 +18,12 @@ This site will always contain the most up to date versions of the files related 
    * SQL files that we will need during the bootcamp
      * [load_data.sql](sql_bootcamp.sql)
      * [world.sql](world.sql)
+
+We also provide some one-page SQL cheatsheets with succinct summaries of the concepts we'll encounter in class.  These files will be added to the website at the relevant points during the workshop
+
+   * Cheatsheet 1:  Create, Read, Update, Delete
+   * Cheatsheet 2:  Select, Sort, Group, Aggregate
+   * Cheatsheet 3:  Combine, Embed, Optimize, Normalize
 
 ## Resources
 
