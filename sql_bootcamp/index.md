@@ -13,8 +13,8 @@ Thank you for signing up for SQL Bootcamp. I’m looking forward to an interesti
 This site will always contain the most up to date versions of the files related to this bootcamp
 
    * [The welcome email](README_FIRST.pdf)
-   * [Installation instructions for installing MySQL and MySQL Workbench for Mac OSX](MySQL Installation Mac.pdf)
-   * [Installation instructions for installing MySQL and MySQL Workbench for Windows](MySQL Installation Windows.pdf)
+   * [Instructions for installing MySQL and MySQL Workbench for Mac OSX](MySQL Installation Mac.pdf)
+   * [Instructions for installing MySQL and MySQL Workbench for Windows](MySQL Installation Windows.pdf)
    * SQL files that we will need during the bootcamp
      * [load_data.sql](sql_bootcamp.sql)
      * [world.sql](world.sql)
