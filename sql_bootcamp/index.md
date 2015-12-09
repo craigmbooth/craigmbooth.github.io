@@ -21,9 +21,9 @@ This site will always contain the most up to date versions of the files related 
 
 We also provide some one-page SQL cheatsheets with succinct summaries of the concepts we'll encounter in class.  These files will be added to the website at the relevant points during the workshop
 
-   * Cheatsheet 1:  Create, Read, Update, Delete
-   * Cheatsheet 2:  Select, Sort, Group, Aggregate
-   * Cheatsheet 3:  Combine, Embed, Optimize, Normalize
+   * Cheatsheet 1:  [Create, Read, Update, Delete](SQLBootcampCheatsheet1.pdf)
+   * Cheatsheet 2:  [Select, Sort, Group, Aggregate](SQLBootcampCheatsheet2.pdf)
+   * Cheatsheet 3:  [Combine, Embed, Optimize, Normalize](SQLBootcampCheatsheet3.pdf)
 
 ## Resources
 
