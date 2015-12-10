@@ -15,6 +15,9 @@ This site will always contain the most up to date versions of the files related 
    * [The welcome email](README_FIRST.pdf)
    * [Instructions for installing MySQL and MySQL Workbench for Mac OSX](MySQL Installation Mac.pdf)
    * [Instructions for installing MySQL and MySQL Workbench for Windows](MySQL Installation Windows.pdf)
+
+We will import some pre-made databases during the workshop.  Note that these links will become live closer to the time of the workshop:
+
    * SQL files that we will need during the bootcamp
      * [load_data.sql](sql_bootcamp.sql)
      * [world.sql](world.sql)
