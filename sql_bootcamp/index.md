@@ -19,8 +19,8 @@ This site will always contain the most up to date versions of the files related 
 We will import some pre-made databases during the workshop.  Note that these links will become live closer to the time of the workshop:
 
    * SQL files that we will need during the bootcamp
-     * [load_data.sql](sql_bootcamp.sql)
-     * [world.sql](world.sql)
+     * [sql_bootcamp.sql](sql_bootcamp.sql) -- This file will install all of the databases we'll be using during the bootcamp
+     * [world.sql](https://dev.mysql.com/doc/index-other.html) -- This link leads to the page on mysql.com where you can download world.sql.  `world.sql` is a standard training database that contains information on countries and their languages.  We'll use it in a couple of exercises and quizzes.
 
 We also provide some one-page SQL cheatsheets with succinct summaries of the concepts we'll encounter in class.  These files will be added to the website at the relevant points during the workshop
 
