@@ -20,7 +20,7 @@ We will import some pre-made databases during the workshop.  Note that these lin
 
    * SQL files that we will need during the bootcamp
      * [load_data.sql](load_data.sql) -- This file will install all of the databases we'll be using during the bootcamp
-     * [world.sql](https://dev.mysql.com/doc/index-other.html) -- This link leads to the page on mysql.com where you can download world.sql.  `world.sql` is a standard training database that contains information on countries and their languages.  We'll use it in a couple of exercises and quizzes.
+     * [world.sql](https://dev.mysql.com/doc/index-other.html) -- This link leads to the page on mysql.com where you can download world.sql.  `world.sql` is a standard training database that contains information on countries and their languages.  We'll use it in a couple of more advanced exercises and quizzes.
 
 We also provide some one-page SQL cheatsheets with succinct summaries of the concepts we'll encounter in class.  These files will be added to the website at the relevant points during the workshop
 
@@ -36,3 +36,4 @@ The following are the resources for further learning that I recommend during the
    * [The OurSQL Podcast](www.oursql.com):  Over 200 episodes (around 20 minutes each), explaining different aspects of MySQL.
    * [MySQL Statements chart](http://www.visibone.com/sql/mysqlstatchart_1180.jpg):  An image that contains all of the MySQL statements.  Read each statement from left to right, things with a white background are ANSI SQL, blue background is MySQL specific.  Very confusing at first glance, but stick with it and there's a lot in here.
    * [SQLFiddle.com](http://www.sqlfiddle.com): A website with an interactive SQL terminal.  Specify some tables and do some queries, all in your browser.  Supports MySQL and other SQL dialects.
+   * [codeschool.com](http://www.codeschool.com):  Code School has an introductory Try SQL course, which is free.  If you would like to get some more reps in in an interactive SQL environment, this could help cement the concepts we covered in class.
