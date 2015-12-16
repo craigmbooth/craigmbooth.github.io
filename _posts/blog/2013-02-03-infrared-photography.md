@@ -24,9 +24,9 @@ This bit of the negative blocks out almost all visible light, but lets through I
 I found that in order to get good photographs the camera needed long exposure times (and therefore needed to be supported on a solid base to avoid blurring. Foliage, in particular, looks ghostly since leaves reflect strongly in the IR. Here are a few of my pictures:
 
 <figure class="third">
-  <a href="/images/ir_photography/irp4.jpg"><img src="../images/ir_photography/irp4.jpg" alt="image"></a>
-  <a href="/images/ir_photography/irp5.jpg"><img src="../images/ir_photography/irp5.jpg" alt="image"></a>
-  <a href="/images/ir_photography/irp6.jpg"><img src="../images/ir_photography/irp6.jpg" alt="image"></a>
+  <a href="/images/ir_photography/irp4.jpg"><img src="/images/ir_photography/irp4.jpg" alt="image"></a>
+  <a href="/images/ir_photography/irp5.jpg"><img src="/images/ir_photography/irp5.jpg" alt="image"></a>
+  <a href="/images/ir_photography/irp6.jpg"><img src="/images/ir_photography/irp6.jpg" alt="image"></a>
 </figure>
 
 Unfortunately light was slipping in from both sides of the filter and I didn’t notice this until it was too late!)
