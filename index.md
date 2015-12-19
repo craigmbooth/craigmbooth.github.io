@@ -3,6 +3,8 @@ layout: page
 title: Welcome!
 excerpt: "Craig M. Booth's Homepage"
 search_omit: true
+image:
+  feature: headers/main_header.png
 ---
 
 I am a software engineer, data scientist and expat currently living in Chicago, IL.  In the past I was an astrophysicist, working on high performance computing simulations of galaxy formation.  Currently, I design and build web-scale systems at [Narrative Science](http://www.narrativescience.com).
