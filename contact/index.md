@@ -13,5 +13,5 @@ formkeep test...
   <input type="email" name="email" placeholder="Your Email">
   <input type="text" name="name" placeholder="Your Name">
   <input type="hidden" name="utf8" value="✓">
-  <button type="submit">Submit</button>
+  <button type="submita">Submit</button>
 </form>
