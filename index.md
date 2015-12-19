@@ -9,8 +9,6 @@ I am a software engineer, data scientist and expat currently living in Chicago, 
 
 Currently my main software engineering / data engineering interests are centered around designing scalable infrastructure and cloud architectures, while my main data science focus is on the analytics of sports data.
 
-[Talk to me!](contact/)
-
 <div class="row">
   <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 front-box">
     <h4>Who Am I?</h4>
