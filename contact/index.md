@@ -7,7 +7,7 @@ image:
   feature: contact_header.jpg
 ---
 
-If you want to send me a quick message, please fill in the form.  There are also links to various social netorks on this page.  Always feel free to reach out to me on any of those platforms.
+If you want to send me a quick message, please fill in the form.  There are also links to various social networks on this page.  Always feel free to reach out to me on any of those platforms.
 
 <div class="row">
   <div class="col-xs-12 col-md-6">
