@@ -5,7 +5,7 @@ image:
   feature: astrophysics_header.jpg
 ---
 
-This page contains a list of my publications, including refereed publications, conference proceedings, a poster given as part of a public outreach effort and, finally, my PhD thesis.  For quick reference, first author papers have <mark class="highlight">maroon</mark> titles.
+This page contains a list of my publications, including refereed publications, conference proceedings, a poster given as part of a public outreach effort and, finally, my PhD thesis.  For quick reference, first author papers are <mark class="highlight">highlighted</mark>.
 
 My PhD thesis is available on this page and this list is available with citation statistics from <a href="http://scholar.google.com/citations?user=6FNQpXEAAAAJ">my Google Scholar page</a>.
 
