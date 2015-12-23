@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: "Introducing statsninja.io"
+title: "Introducing statsninja.io"
 modified:
 categories: blog
 excerpt: "My personalized baseball statistics website"

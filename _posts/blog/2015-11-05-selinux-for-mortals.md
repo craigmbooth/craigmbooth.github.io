@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: "SELinux For Mere Mortals"
+title: "SELinux For Mere Mortals"
 modified:
 categories: blog
 excerpt: "A very short guide to SELinux"
