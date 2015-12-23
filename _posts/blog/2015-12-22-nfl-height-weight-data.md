@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: "Football Height and Weight Data Release"
+title: "NFL Height and Weight Data Release"
 modified:
 categories: blog
 excerpt: "Making public the data I used for the height-weight charts"
