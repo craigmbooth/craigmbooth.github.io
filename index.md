@@ -14,32 +14,32 @@ Currently my main software engineering / data engineering interests are centered
 <div class="row">
   <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 front-box">
     <h4>Who Am I?</h4>
-    <a href="about/"><i class="fa fa-user fa-5x"></i></a>
+    <a href="{{ site.url }}/about/"><i class="fa fa-user fa-5x"></i></a>
     <p>A very brief sketch of who I am and what I do for a living</p>
   </div>
   <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 front-box">
     <h4>Contact Me</h4>
-    <a href="contact/"><i class="fa fa-envelope-o fa-5x"></i></a>
+    <a href="{{ site.url }}/contact/"><i class="fa fa-envelope-o fa-5x"></i></a>
     <p>Feel free to get in contact with me, either on- or off- line.</p>
   </div>
   <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 front-box">
     <h4>Projects</h4>
-    <a href="projects/"><i class="fa fa-terminal fa-5x"></i></a>
+    <a href="{{ site.url }}/projects/"><i class="fa fa-terminal fa-5x"></i></a>
     <p>I sometimes build data visualization projects, read about them here</p>
   </div>
   <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 front-box">
     <h4>Publications</h4>
-    <a href="astrophysics/publications/"><span class="front-box-icon"><i class="fa fa-align-left fa-5x"></i></span></a>
+    <a href="{{ site.url }}/astrophysics/publications.html"><span class="front-box-icon"><i class="fa fa-align-left fa-5x"></i></span></a>
     <p>I used to publish on computational astrophysics, here is a list of my papers.</p>
   </div>
   <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 front-box">
     <h4>Writing</h4>
-    <a href="blog/"><span class="front-box-icon"><i class="fa fa-pencil fa-5x"></i></span></a>
+    <a href="{{ site.url }}/blog/"><span class="front-box-icon"><i class="fa fa-pencil fa-5x"></i></span></a>
     <p>I like to write about data, software and life</p>
   </div>
   <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 front-box">
     <h4>Visualizations</h4>
-    <a href="astrophysics/visualizations/"><i class="fa fa-video-camera fa-5x"></i></a>
+    <a href="{{ site.url }}/astrophysics/visualizations.html"><i class="fa fa-video-camera fa-5x"></i></a>
     <p>I like to make movies from my cosmological simulations.</p>
   </div>
 </div>
