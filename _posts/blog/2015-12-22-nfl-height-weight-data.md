@@ -5,6 +5,8 @@ modified:
 categories: blog
 excerpt: "Making public the data I used for the height-weight charts"
 tags: [data, nfl]
+noshare: false
+nocomments: false
 image:
 feature:
 ---
