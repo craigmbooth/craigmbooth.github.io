@@ -4,8 +4,9 @@ title: Craig M. Booth
 locale: en_US
 description: Craig's Home on the Web
 logo: site-logo.png
-search: true
+search: false
 url: http://www.craigmbooth.com
+comments:    true
 
 # Jekyll configuration
 
@@ -24,6 +25,7 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..2
   enable_coderay: false
+
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile",
