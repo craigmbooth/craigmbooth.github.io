@@ -37,3 +37,7 @@ The following are the resources for further learning that I recommend during the
    * [MySQL Statements chart](http://www.visibone.com/sql/mysqlstatchart_1180.jpg):  An image that contains all of the MySQL statements.  Read each statement from left to right, things with a white background are ANSI SQL, blue background is MySQL specific.  Very confusing at first glance, but stick with it and there's a lot in here.
    * [SQLFiddle.com](http://www.sqlfiddle.com): A website with an interactive SQL terminal.  Specify some tables and do some queries, all in your browser.  Supports MySQL and other SQL dialects.
    * [codeschool.com](http://www.codeschool.com):  Code School has an introductory Try SQL course, which is free.  If you would like to get some more reps in in an interactive SQL environment, this could help cement the concepts we covered in class.
+
+## Help Center
+
+Fingers crossed, you will not need this, but [here](ResettingRootPassword.pdf) are instructions on how to manually reset the root password in a MySQL installation in the case that you forget it.
