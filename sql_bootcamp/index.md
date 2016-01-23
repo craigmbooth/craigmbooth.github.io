@@ -33,7 +33,7 @@ We also provide some one-page SQL cheatsheets with succinct summaries of the con
 The following are the resources for further learning that I recommend during the class
 
    * [The MySQL 5.0 Certification Study Guide](http://www.amazon.com/MySQL-5-0-Certification-Study-Guide/dp/0672328127):  This book has been around for a while, but is still the most concise summary of MySQL concepts I've ever read.  You can pick up a used copy on Amazon for a couple of bucks.
-   * [The OurSQL Podcast](www.oursql.com):  Over 200 episodes (around 20 minutes each), explaining different aspects of MySQL.
+   * [The OurSQL Podcast](http://www.oursql.com):  Over 200 episodes (around 20 minutes each), explaining different aspects of MySQL.
    * [MySQL Statements chart](http://www.visibone.com/sql/mysqlstatchart_1180.jpg):  An image that contains all of the MySQL statements.  Read each statement from left to right, things with a white background are ANSI SQL, blue background is MySQL specific.  Very confusing at first glance, but stick with it and there's a lot in here.
    * [SQLFiddle.com](http://www.sqlfiddle.com): A website with an interactive SQL terminal.  Specify some tables and do some queries, all in your browser.  Supports MySQL and other SQL dialects.
    * [codeschool.com](http://www.codeschool.com):  Code School has an introductory Try SQL course, which is free.  If you would like to get some more reps in in an interactive SQL environment, this could help cement the concepts we covered in class.
