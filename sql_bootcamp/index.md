@@ -19,14 +19,15 @@ This site will always contain the most up to date versions of the files related 
 We will import some pre-made databases during the workshop.  Note that these links will become live closer to the time of the workshop:
 
    * SQL files that we will need during the bootcamp
-     * [load_data.sql](load_data.sql) -- This file will install all of the databases we'll be using during the bootcamp
+     * [load_data.sql](resources/load_data.sql) -- This file will install all of the databases we'll be using during the bootcamp
      * [world.sql](https://dev.mysql.com/doc/index-other.html) -- This link leads to the page on mysql.com where you can download world.sql.  `world.sql` is a standard training database that contains information on countries and their languages.  We'll use it in a couple of more advanced exercises and quizzes.
+     * [simple_stored_procedure.sql](resources/simple_stored_procedure.sql) -- A simple SQL file contianing some examples of simple stored procedures
 
 We also provide some one-page SQL cheatsheets with succinct summaries of the concepts we'll encounter in class.  These files will be added to the website at the relevant points during the workshop
 
-   * Cheatsheet 1:  [Create, Read, Update, Delete](SQLBootcampCheatsheet1.pdf)
-   * Cheatsheet 2:  [Select, Sort, Group, Aggregate](SQLBootcampCheatsheet2.pdf)
-   * Cheatsheet 3:  [Combine, Embed, Optimize, Normalize](SQLBootcampCheatsheet3.pdf)
+   * Cheatsheet 1:  [Create, Read, Update, Delete](resources/SQLBootcampCheatsheet1.pdf)
+   * Cheatsheet 2:  [Select, Sort, Group, Aggregate](resources/SQLBootcampCheatsheet2.pdf)
+   * Cheatsheet 3:  [Combine, Embed, Optimize, Normalize](resources/SQLBootcampCheatsheet3.pdf)
 
 ## Resources
 
