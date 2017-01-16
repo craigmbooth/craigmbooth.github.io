@@ -30,4 +30,4 @@ I hoped that given so much carefully collected data it would be possible to add 
 
 I hope this visualization is helpful in some way to somebody else.  I have certainly enjoyed exploring it by myself: seeing how the systematic error bars on the measurements produced by each community have come down in time, or how different techniques started off with wildly different answers before converging towards the same result.
 
-Here is [The Interactive Hubble Parameter Plot](http://www.craigmbooth.com/hubble/)
+Here is [The Interactive Hubble Parameter Plot](http://www.craigmbooth.com/projects/hubble/)
