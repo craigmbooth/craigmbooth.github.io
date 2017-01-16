@@ -29,7 +29,7 @@ Currently my main software engineering / data engineering interests are centered
   </div>
   <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 front-box">
     <h4>Publications</h4>
-    <a href="{{ site.url }}/astrophysics/publications.html"><span class="front-box-icon"><i class="fa fa-align-left fa-5x"></i></span></a>
+    <a href="{{ site.url }}/astrophysics/publications/"><span class="front-box-icon"><i class="fa fa-align-left fa-5x"></i></span></a>
     <p>I used to publish on computational astrophysics, here is a list of my papers.</p>
   </div>
   <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 front-box">
@@ -39,7 +39,7 @@ Currently my main software engineering / data engineering interests are centered
   </div>
   <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 front-box">
     <h4>Visualizations</h4>
-    <a href="{{ site.url }}/astrophysics/visualizations.html"><i class="fa fa-video-camera fa-5x"></i></a>
+    <a href="{{ site.url }}/astrophysics/visualization/s"><i class="fa fa-video-camera fa-5x"></i></a>
     <p>I like to make movies from my cosmological simulations.</p>
   </div>
 </div>
@@ -47,7 +47,7 @@ Currently my main software engineering / data engineering interests are centered
 ## My Most Recent Blog Posts
 
 <ul class="post-list">
-{% for post in site.posts limit:2 %}
+{% for post in site.posts limit:3 %}
   <li>
     <article>
       <a href="{{ post.url }}">
