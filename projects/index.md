@@ -48,7 +48,7 @@ This page contains links to a bunch of cool projects I've built, largely related
   </div>
 </div>
 
-<--
+<!--
 <div class="row">
   <div class="col-md-4">
     <a href="hubble/"><img src="images/hubble.png"></a>
