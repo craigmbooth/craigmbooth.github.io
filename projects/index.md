@@ -41,7 +41,7 @@ This page contains links to a bunch of cool projects I've built, largely related
 <div class="row">
   <div class="col-md-8">
     <h4>Nix Dependency Visualizer</h4>
-    <p>I wrote a tool for software developers who use the <a href="https://nixos.org/nix">Nix</a> package manager, <i>nix-visualize</i>.  This tool looks at your software and draws a tree of its dependencies, your dependencies dependencies, your dependencies dependencies dependencies, and so on, all the way down to the operating system.</p>
+    <p>I wrote a tool for software developers who use the <a href="https://nixos.org/nix">Nix</a> package manager, <i>nix-visualize</i>.  This tool looks at your software and draws a tree of its dependencies, its dependencies dependencies, its dependencies dependencies dependencies, and so on, all the way down to the operating system.</p>
   </div>
   <div class="col-md-4">
     <a href="https://github.com/craigmbooth/nix-dependency-visualizer"><img src="images/nv.png"></a>
