@@ -40,7 +40,7 @@ image:
 
 <div class="row">
   <div class="col-md-8">
-  <p>I occasionally teach a two-day workshop on SQL.  Designed for people with no database experience, this course takes you from the building blocks of databases, through being able to confidently write complex SQL queries.  I developed all of the course materials for this bootcamp (the student handouts are available <a href="{{ site.url }}/sql_bootcamp/">here</a>).  On the first day, we cover the following topics:</p>
+  <p>I occasionally teach a two-day workshop on SQL.  Designed for people with no database experience, this course takes you from the building blocks of databases, through being able to confidently write complex SQL queries.  I developed all of the course materials for this bootcamp (the student handouts are available <a href="{{ site.url }}/sql_bootcamp/">here</a>).  The course is very interacting and students are writing SQL queries throughout the day.  On the first day, we cover the following topics:</p>
 
   <ol>
   <li>Basic DB concepts (the client, the server, the table, the row, the column)</li>
@@ -48,11 +48,14 @@ image:
   <li>Getting data from your database (select)</li>
   <li>Creating a new table (create table)</li>
   <li>Aggregating data (group by and basic aggregation functions)</li>
+  <li>Filtering groups (having)</li>
+  <li>combining queries (subqueries)</li>
   </ol>
 
   <p>And on the second day we cover the following:</p>
 
   <ol>
+  <li>Linking tables together (inner join, left join, right join, outer join)</li>
   <li>Well designed databases (normal forms)</li>
   <li>Making databases faster (indexes)</li>
   <li>An introduction to data projects with SQL</li>
