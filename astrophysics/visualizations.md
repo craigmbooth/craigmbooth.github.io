@@ -15,13 +15,13 @@ These movies show a face-on view of a simulated Milky Way type galaxy.  The colo
 
 <div class="row">
   <div class="col-sm-6">
-    <a href="videos/mw_face_white.avi">
-      <img src="videos/mw_light_frame.jpg">
+    <a href="mw_face_white.avi">
+      <img src="mw_light_frame.jpg">
     </a>
   </div>
   <div class="col-sm-6">
-    <a href="videos/mw_face_black.avi">
-      <img src="videos/mw_dark_frame.jpg">
+    <a href="mw_face_black.avi">
+      <img src="mw_dark_frame.jpg">
     </a>
   </div>
 </div>
@@ -34,18 +34,18 @@ A slice through the 25Mpc<i>/h</i> OWLS simulation.  The slice is 1Mpc/<i>h</i> 
 
 <div class="row">
   <div class="col-sm-6">
-    <a href="videos/25mpc-projection-dens.avi">
-      <img src="videos/25mpc-projection-dens.png">
+    <a href="25mpc-projection-dens.avi">
+      <img src="25mpc-projection-dens.png">
     </a>
   </div>
   <div class="col-sm-6">
     A slice through the 25Mpc/<i>h</i> OWLS simulation.  The slice is 2Mpc/<i>h</i> thick and the movie runs from a redshift of 20 down to redshift zero. The video to the left shows density, other available projections:
     <ul>
-      <li><a href="videos/25mpc-projection-temp.avi">Temperature</a></li>
-      <li><a href="videos/25mpc-projection-mett.avi">Metallicity</a></li>
+      <li><a href="25mpc-projection-temp.avi">Temperature</a></li>
+      <li><a href="25mpc-projection-mett.avi">Metallicity</a></li>
     </ul>
     A video combining all projections is here:
-    <a href=""><img src="videos/25mpc-projection-combined.png"></a>
+    <a href=""><img src="25mpc-projection-combined.png"></a>
   </div>
 </div>
 
@@ -55,18 +55,18 @@ These movies correspond to a region with a comoving size of 3Mpc/h. By redshift 
 
 <div class="row">
   <div class="col-sm-4 col-md-4">
-    <a href="videos/25mpc-object1-combined.avi">
-      <img src="videos/25mpc-object1-combined.png">
+    <a href="25mpc-object1-combined.avi">
+      <img src="25mpc-object1-combined.png">
     </a>
   </div>
   <div class="col-sm-8">
      The image to the left links to a move showing all of the density, temperature, metallicity and stellar distribution.  The links below go to the individual movies
 
      <ul>
-       <li><a href="videos/25mpc-object1-dens.avi">Density</a></li>
-       <li><a href="videos/25mpc-object1-temp.avi">Temperature</a></li>
-       <li><a href="videos/25mpc-object1-mett.avi">Metallicity</a></li>
-       <li><a href="videos/25mpc-object1-star.avi">Stars</a></li>
+       <li><a href="25mpc-object1-dens.avi">Density</a></li>
+       <li><a href="25mpc-object1-temp.avi">Temperature</a></li>
+       <li><a href="25mpc-object1-mett.avi">Metallicity</a></li>
+       <li><a href="25mpc-object1-star.avi">Stars</a></li>
      </ul>
   </div>
 </div>
@@ -77,10 +77,10 @@ These movies correspond to a region with a comoving size of 3Mpc/h. By redshift 
 
 <div class="row">
   <div class="col-sm-6">
-    This movie shows the formation of a cluster of galaxies down to redshift zero. The two panels show density and metallicity. This movie was encoded using a different encoder than most of the others on this page. If you cannot get it to play you may need to install the <a href="http://www.xvidmovies.com/codec">XViD codec</a>, or can download the <a href="videos/100mpc-object1-combined.mpg">.mpg file</a>
+    This movie shows the formation of a cluster of galaxies down to redshift zero. The two panels show density and metallicity. This movie was encoded using a different encoder than most of the others on this page. If you cannot get it to play you may need to install the <a href="http://www.xvidmovies.com/codec">XViD codec</a>, or can download the <a href="100mpc-object1-combined.mpg">.mpg file</a>
   </div>
   <div class="col-sm-6">
-    <a href="videos/100mpc-object1-combined.avi"><img src="videos/100mpc-object1-combined.png"></a>
+    <a href="100mpc-object1-combined.avi"><img src="100mpc-object1-combined.png"></a>
   </div>
 </div>
 
@@ -88,17 +88,17 @@ These movies correspond to a region with a comoving size of 3Mpc/h. By redshift 
 
 <div class="row">
   <div class="col-sm-6">
-    <a href="videos/100mpc-projection-dens.avi">
-      <img src="videos/100mpc-projection-dens.png">
+    <a href="100mpc-projection-dens.avi">
+      <img src="100mpc-projection-dens.png">
     </a>
   </div>
   <div class="col-sm-6">
     A slice through the 100Mpc/<i>h</i> OWLS simulation.  The slice is 2Mpc/<i>h</i> thick and the movie runs from a redshift of 20 down to redshift zero. The video to the left shows density, other available projections:
     <ul>
-      <li><a href="videos/100mpc-projection-temp.avi">Temperature</a></li>
-      <li><a href="videos/100mpc-projection-mett.avi">Metallicity</a></li>
+      <li><a href="100mpc-projection-temp.avi">Temperature</a></li>
+      <li><a href="100mpc-projection-mett.avi">Metallicity</a></li>
     </ul>
     A video combining all projections is here:
-    <a href=""><img src="videos/100mpc-projection-combined.png"></a>
+    <a href=""><img src="100mpc-projection-combined.png"></a>
   </div>
 </div>
