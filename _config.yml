@@ -11,6 +11,7 @@ comments:    true
 # Jekyll configuration
 
 permalink:   /:categories/:title/
+relative_permalinks: false
 markdown:    kramdown
 highlighter: pygments
 sass:
@@ -44,7 +45,7 @@ owner:
   github: craigmbooth
   linkedin: craigmbooth
   stackexchange: #url
-  instagram: #username
+  instagram: craigmbooth
   flickr: #username
   tumblr: #username
   pinterest: #username
