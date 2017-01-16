@@ -26,10 +26,11 @@ I spent a decade (2003-2013) working in theoretical astrophysics and high perfor
 ## What Do I Look Like?
 
 <figure class="third">
+  <a href="../images/craigjp.jpg"><img src="../images/craigjp-150x150.jpg" alt="Tokyo, 2016"></a>
   <a href="../images/craigfl.jpg"><img src="../images/craigfl-150x150.jpg" alt="image"></a>
   <a href="../images/craigny.jpg"><img src="../images/craigny-150x150.jpg" alt="image"></a>
   <a href="../images/craigams2.jpg"><img src="../images/craigams2-150x150.jpg" alt="image"></a>
   <a href="../images/craigams.jpg"><img src="../images/craigams-150x150.jpg" alt="image"></a>
   <a href="../images/craignot.jpg"><img src="../images/craignot-150x150.jpg" alt="image"></a>
-<figcaption>From top-left to bottom-right: Florida, Nov. 2012; New York, Dec. 2010; Amsterdam, Jun. 2011; Amsterdam, Aug. 2009; Nottingham Sep. 1982</figcaption>
+<figcaption>From top-left to bottom-right: Tokyo, Nov 2016; Florida, Nov. 2012; New York, Dec. 2010; Amsterdam, Jun. 2011; Amsterdam, Aug. 2009; Nottingham Sep. 1982</figcaption>
 </figure>
