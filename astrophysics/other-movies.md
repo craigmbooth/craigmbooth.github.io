@@ -9,7 +9,7 @@ image:
 
 <div class="row">
   <div class="col-sm-4">
-    <a href="videos/amr_frames.avi"><img src="videos/amr_frames.jpg"></a>
+    <a href="amr_frames.avi"><img src="videos/amr_frames.jpg"></a>
   </div>
   <div class="col-sm-8">
     During my PhD I worked, amongst other things, on running structure formation simulations with the adaptive mesh refinement code FLASH. This is one movie that arose from this project, and shows the formation of a galaxy group down to redshift 1.2. The colours represent the gas density in the box averaged along the line of sight. From top left to bottom right the redshifts of the simulation outputs are 16, 6, 3.5, 2.4, 1.7, 1.2.
