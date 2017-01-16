@@ -38,17 +38,17 @@ This page contains links to a bunch of cool projects I've built, largely related
   </div>
 </div>
 
-<!--
 <div class="row">
   <div class="col-md-8">
-    <h4>Sentiment Analysis on 250,000 Geotagged Chicago Tweets</h4>
-    <p></p>
+    <h4>Nix Dependency Visualizer</h4>
+    <p>I wrote a tool for software developers who use the <a href="https://nixos.org/nix">Nix</a> package manager, <i>nix-visualize</i>.  This tool looks at your software and draws a tree of its dependencies, your dependencies dependencies, your dependencies dependencies dependencies, and so on, all the way down to the operating system.</p>
   </div>
   <div class="col-md-4">
-    <a href="hubble/"><img src="images/hubble.png"></a>
+    <a href="https://github.com/craigmbooth/nix-dependency-visualizer"><img src="images/nv.png"></a>
   </div>
 </div>
 
+<--
 <div class="row">
   <div class="col-md-4">
     <a href="hubble/"><img src="images/hubble.png"></a>
