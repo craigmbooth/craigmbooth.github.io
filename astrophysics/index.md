@@ -8,19 +8,19 @@ image:
 <div class="row">
   <div class="col-lg-3 col-sm-6 front-box">
     <h4>Publications</h4>
-    <a href="publications.html"><span class="front-box-icon"><i class="fa fa-align-left fa-5x"></i></span></a>
+    <a href="astrophysics/publications"><span class="front-box-icon"><i class="fa fa-align-left fa-5x"></i></span></a>
   </div>
   <div class="col-lg-3 col-sm-6 front-box">
     <h4>Ph. D Thesis</h4>
-    <a href="thesis.html"><span class="front-box-icon"><i class="fa fa-book fa-5x"></i></span></a>
+    <a href="astrophysics/thesis"><span class="front-box-icon"><i class="fa fa-book fa-5x"></i></span></a>
   </div>
   <div class="col-lg-3 col-sm-6 front-box">
     <h4>Visualizations</h4>
-    <a href="visualizations.html"><i class="fa fa-video-camera fa-5x"></i></a>
+    <a href="astrophysics/visualizations"><i class="fa fa-video-camera fa-5x"></i></a>
   </div>
   <div class="col-lg-3 col-sm-6 front-box">
     <h4>Talks</h4>
-    <a href="talks.html"><i class="fa fa-volume-up fa-5x"></i></a>
+    <a href="astrophysics/talks"><i class="fa fa-volume-up fa-5x"></i></a>
   </div>
 </div>
 
