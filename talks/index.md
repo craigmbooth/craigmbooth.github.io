@@ -26,12 +26,13 @@ image:
 
    <p>The word ‘obligation’ is important here. Personally I tend to avoid confrontation, and in my old line of work would need to be cajoled pretty heavily into participating in big group discussions, but I did take this advice on board, even though it was initially something that I had to force myself to do, heart pounding. I have to say that having this obligation has made me a much better engineer, and by not allowing myself to check out of meetings that aren’t directly relevant to my own immediate interests has made me more well rounded.</p>
 
-   <p>The obligation to dissent is especially critical in a small company where, say, five engineers may be responsible for the design and implementation of entire products. It is absolutely the responsibility of every engineer to understand, at least at a high level, the decisions that are being made. You can’t be an expert on everything, but you should at least know enough to be able to critically analyze and discuss what your peers are saying.  The goals of this half-day session are:
+   <p>The obligation to dissent is especially critical in a small company where, say, five engineers may be responsible for the design and implementation of entire products. It is absolutely the responsibility of every engineer to understand, at least at a high level, the decisions that are being made. You can’t be an expert on everything, but you should at least know enough to be able to critically analyze and discuss what your peers are saying.  The goals of this half-day session are:</p>
 
    <ol>
    <li>Survey the landscape of Big Data, and show the basic concepts and tradeoffs that need to be made. Do I need to be accurate? or fast? Do I need to be consistent? or accessible?</li>
    <li>Understand how the rising volumes of data are going to affect everybody. Focus on what we will all need to do to keep running in the face of ever growing data requirements.</li>
    </ol>
+
   </div>
 </div>
 
