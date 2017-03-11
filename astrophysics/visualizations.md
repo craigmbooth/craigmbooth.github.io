@@ -5,7 +5,7 @@ image:
   feature: astrophysics_header.jpg
 ---
 
-I have generated a number of nice structure formation movies from our simulations. This page contains all the structure formation movies I generated for the OWLS project (Schaye et al. 2010).  My other movies, inluding other types of OWLS movies and older visualizations are on my <a href="./other-movies.html">Other Movies</a> page. Feel free to use any of these movies in talks and the like.  If you see something in one of the movies that raises any questions, or would like any additional information then feel free to email me.
+I have generated a number of nice structure formation movies from our simulations. This page contains all the structure formation movies I generated for the OWLS project (Schaye et al. 2010).  My other movies, inluding other types of OWLS movies and older visualizations are on my <a href="/astrophysics/other-movies">Other Movies</a> page. Feel free to use any of these movies in talks and the like.  If you see something in one of the movies that raises any questions, or would like any additional information then feel free to email me.
 
 If you have issues with playback, I recommend downloading <a href="http://www.videolan.org/vlc/index.html">VLC</a> (Mac, Windows, Linux) or <a href="http://perian.org/">Perian</a> (Mac).
 
