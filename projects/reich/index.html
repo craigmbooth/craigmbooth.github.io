@@ -1,0 +1,106 @@
+<html>
+  <head>
+    <title>Zelda Phase</title>
+    <style>
+
+      @font-face {
+        font-family: "PS";
+        src: url("./PressStart2P.ttf") format("truetype");
+      }
+
+      .black {
+         font-family: "PS";
+         text-align: center;
+         color: white;
+         background-color: black;
+      }
+
+      .ralign {
+        text-align: right;
+      }
+
+      .modal div {
+        color: #666666;
+        text-align: left;
+      }
+
+      .vcenter {
+          display: inline-block;
+          vertical-align: middle;
+          float: none;
+      }
+
+      .modal-content  {
+          -webkit-border-radius: 0px !important;
+          -moz-border-radius: 0px !important;
+          border-radius: 0px !important;
+      }
+
+      a:link {color: #BBBBBB;}
+      a:visited {color: #BBBBBB;}
+      a:hover {color: #BBBBBB;}
+      a:active {color: #BBBBBB;}
+    </style>
+
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.0.3/howler.min.js"></script>
+  </head>
+
+  <body class="black">
+    <div class="container-fluid black">
+      <div class="row">
+        <div class="col-md-2 black"></div>
+        <div class="col-md-8 black">
+          <h1>Steve Reich Is Playing Zelda</h1>
+        </div>
+        <div class="col-md-2 black"></div>
+      </div>
+      <div class="row">
+        <div class="col-md-4 black"></div>
+        <div class="col-md-4 black vcenter">
+          <img src="sr.png" width="100%">
+        </div>
+        <div class="col-md-4 black"></div>
+      </div>
+      <div class="row ralign">
+        <a href="#" data-toggle="modal" data-target="#myModal">
+          What is this?
+        </a>
+      </div>
+
+      <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="exampleModalLabel">Zelda Phase</h5>
+            </div>
+            <div class="modal-body">
+              <p><a href="https://www.youtube.com/watch?v=i0345c6zNfM">Piano Phase</a> is minimalist composition by American composer <a href="https://en.wikipedia.org/wiki/Steve_Reich">Steve Reich</a>, written in 1967 for two pianos.  The two pianos have identical lines of music, which begin by playing synchronously, but slowly become out of phase with one another when one of them slightly speeds up.</p>
+
+              <p><a href="https://en.wikipedia.org/wiki/The_Legend_of_Zelda_(video_game)">The Legend of Zelda</a> is a most excellent game.  The sound being looped on this page is the <a href="https://www.youtube.com/watch?v=9d3qCPcMgH4">fragment</a> that plays when a puzzle in the game is solved.</p>
+            </div>
+            <div class="modal-footer">
+              <p><a href="http://www.craigmbooth.com">Craig M. Booth, 2017</a></p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+    var sound = new Howl({
+      src: ['ReichZelda.ogg'],
+      autoplay: true,
+      loop: true
+    });
+    sound.play()
+    </script>
+
+
+  </body>
+</html>
