@@ -7,7 +7,7 @@ image:
   feature: headers/main_header.png
 ---
 
-I am a software engineer, data scientist and expat currently living in Chicago, IL.  In the past I was an astrophysicist, working on high performance computing simulations of galaxy formation.  Currently, I design and build web-scale systems at [Narrative Science](http://www.narrativescience.com).
+I am a software engineer, data scientist and American citizen currently living in Chicago, IL.  In the past I was an astrophysicist, working on high performance computing simulations of galaxy formation.  Currently, I design and build web-scale systems at [Narrative Science](http://www.narrativescience.com).
 
 Currently my main software engineering / data engineering interests are centered around designing scalable infrastructure and cloud architectures, while my main data science focus is on the analytics of sports data.
 
