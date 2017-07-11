@@ -30,7 +30,7 @@ shift of being on-call for our product and the engineer who helped me
 through it.  Here is the relevant piece of the story
 
 <figure>
-  <a href="/images/blog/p2plearning/oncall_story.png""><img src="/images/blog/p2plearning/oncall_story.png" alt="image"></a>
+  <img src="/images/blog/p2plearning/oncall_story.png" alt="image">
 </figure>
 
 Eric, the engineer who was available to help me through this oncall
