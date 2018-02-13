@@ -34,7 +34,7 @@ This page contains links to a bunch of cool projects I've built, largely related
   </div>
   <div class="col-md-8">
     <h4>Measurement of the Hubble Parameter</h4>
-    <p>I did a literature survey of measurements of the Hubble constant (the number that describes how fast the Universe id expanding) and plotted the results on an interactive graph to show how our inderstanding of the Universe has evolved.</p>
+    <p>I did a literature survey of measurements of the Hubble constant (the number that describes how fast the Universe is expanding) and plotted the results on an interactive graph to show how our understanding of the Universe has evolved.</p>
   </div>
 </div>
 
