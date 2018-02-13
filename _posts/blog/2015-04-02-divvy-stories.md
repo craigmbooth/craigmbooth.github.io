@@ -37,3 +37,7 @@ In order to make the app more dynamic, we designed the left-side of the page to 
 I really think that our app showcases the Divvy data in a unique way, and by using the English language, we're able to communicate a lot of insight in a single page.  You can try out the app [here](http://divvy.narrativescience.com)
 
 We are finalists in the 2015 data challenge, in the Most Creative category. [I'd love it if you voted for us here](http://www.redeyechicago.com/news/redeye-divvy-data-challenge-2015-voting-20150330-htmlstory.html)!
+
+*Update:  We won.  Here is the page that was published in the Red Eye*
+
+![Picture from the Red Eye](/images/blog/divvy-stories/newspaper.jpg)
