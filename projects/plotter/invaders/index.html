@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>Exhaustive Invaders</title>
+    <meta name="description" content="">
+    <meta name="author" content="Craig M. Booth">
+    <meta name="viewport" content="width=device-width">
+
+    <link rel="stylesheet" href="../static/css/normalize.css">
+    <link rel="stylesheet" href="../static/themes/classic/galleria.classic.css">
+    <link rel="stylesheet" href="../static/css/style.css">
+
+
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1><a href="../">Pen Plotter Experiments</a></h1>
+
+        <nav id="menu">
+          <ul>
+            <li><a href="http://craigmbooth.com">Back to craigmbooth.com</a></li>
+          </ul>
+        </nav>
+
+        <h2><a href=".">Exhaustive Invaders</a></h2>
+        <hr>
+      </header>
+
+      <div id="main" role="main">
+
+        <div class="icons">
+          <a id="fullscreen"><img src="../static/img/fullscreen.png"
+            title="Fullscreen" alt="Fullscreen" /></a>
+        </div>
+        <div id="gallery">
+              <a href="invaders_1.jpg">
+                <img src="thumbnails/invaders_1.tn.jpg" alt="invaders_1.jpg"
+                    data-title="invaders_1.jpg"
+                    data-description="              <div class='film-meta'>
+<abbr title='film speed'>91</abbr> <abbr title='exposure'>1/120</abbr> <abbr title='aperture'>2.0</abbr> <abbr title='focal length'>4.0</abbr>               </div>
+                <a title='location' href='https://www.openstreetmap.org/?mlat=41.864417&amp;mlon=-87.6254509722&amp;zoom=12&amp;layers=M' target='_blank' class='map'
+                >N41.864417
+                 W87.625451</a>
+                <abbr title='camera make and model'>motorola moto x4</abbr>
+                <abbr title='date'>Mon 30 Apr 2018 06:55:17 AM </abbr>
+"
+ />
+              </a>
+              <a href="invaders_2.jpg">
+                <img src="thumbnails/invaders_2.tn.jpg" alt="invaders_2.jpg"
+                    data-title="invaders_2.jpg"
+                    data-description="              <div class='film-meta'>
+<abbr title='film speed'>56</abbr> <abbr title='exposure'>1/60</abbr> <abbr title='aperture'>2.0</abbr> <abbr title='focal length'>4.0</abbr>               </div>
+                <a title='location' href='https://www.openstreetmap.org/?mlat=41.864417&amp;mlon=-87.6254509722&amp;zoom=12&amp;layers=M' target='_blank' class='map'
+                >N41.864417
+                 W87.625451</a>
+                <abbr title='camera make and model'>motorola moto x4</abbr>
+                <abbr title='date'>Mon 30 Apr 2018 06:55:06 AM </abbr>
+"
+ />
+              </a>
+              <a href="invaders_3.jpg">
+                <img src="thumbnails/invaders_3.tn.jpg" alt="invaders_3.jpg"
+                    data-title="invaders_3.jpg"
+                    data-description="              <div class='film-meta'>
+<abbr title='film speed'>53</abbr> <abbr title='exposure'>1/60</abbr> <abbr title='aperture'>2.0</abbr> <abbr title='focal length'>4.0</abbr>               </div>
+                <a title='location' href='https://www.openstreetmap.org/?mlat=41.864417&amp;mlon=-87.6254509722&amp;zoom=12&amp;layers=M' target='_blank' class='map'
+                >N41.864417
+                 W87.625451</a>
+                <abbr title='camera make and model'>motorola moto x4</abbr>
+                <abbr title='date'>Mon 30 Apr 2018 06:55:12 AM </abbr>
+"
+ />
+              </a>
+              <a href="invaders_full.jpg">
+                <img src="thumbnails/invaders_full.tn.jpg" alt="invaders_full.jpg"
+                    data-title="invaders_full.jpg"
+                    data-description="              <div class='film-meta'>
+<abbr title='film speed'>84</abbr> <abbr title='exposure'>1/120</abbr> <abbr title='aperture'>2.0</abbr> <abbr title='focal length'>4.0</abbr>               </div>
+                <a title='location' href='https://www.openstreetmap.org/?mlat=41.864417&amp;mlon=-87.6254509722&amp;zoom=12&amp;layers=M' target='_blank' class='map'
+                >N41.864417
+                 W87.625451</a>
+                <abbr title='camera make and model'>motorola moto x4</abbr>
+                <abbr title='date'>Mon 30 Apr 2018 06:54:48 AM </abbr>
+"
+ />
+              </a>
+        </div>
+
+
+        <div id="description">
+          <p>A digital camera has a fixed number of pixels, and each pixel can be one of a fixed number of colors. There are therefore a finite number of possible images. Every picture that camera can take is drawn from a finite set.</p>
+<p>Now, imagine you had a black and white camera with a resolution of just 3x4 pixels.</p>
+<p>Here is every possible picture that camera could take. There are 4096 of them, and the pen plotter drew that entire reality</p>
+        </div>
+      </div>
+
+      <footer>
+        <p>&copy; Craig M. Booth -           Generated by <a href="https://github.com/saimn/sigal">sigal</a>
+</p>
+      </footer>
+    </div>
+
+    <script src="../static/jquery-3.3.1.min.js"></script>
+    <script src="../static//galleria.min.js"></script>
+    <script src="../static/themes/classic/galleria.classic.min.js"></script>
+    <script src="../static/plugins/history/galleria.history.min.js"></script>
+    <script>
+
+    Galleria.configure({
+        imageCrop: false,
+        transition: "fade"
+    });
+    Galleria.run("#gallery");
+
+
+    Galleria.ready(function() {
+        this.attachKeyboard({
+            right: this.next,
+            left: this.prev,
+            /* Toggle fullscreen display on press of 'f' key */
+            0x46: this.toggleFullscreen,
+        });
+
+        var gallery = this;
+        $('#fullscreen').click(function() {
+          gallery.toggleFullscreen();
+        });
+
+        $('.icons').appendTo(this.$('container'));
+
+     });
+
+    </script>
+  </body>
+</html>
