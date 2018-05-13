@@ -9,6 +9,17 @@ image:
 This page contains links to a bunch of cool projects I've built, largely related to data analysis and visualization.  I hope you like them!
 
 <div class="row">
+  <div class="col-md-8">
+    <h4>HP7475A Pen Plotter Art</h4>
+    <p>I figured out how to drive an old-school pen plotter from the 1980s and used ot to make various pieces of algorithmic art.</p> 
+  </div>
+  <div class="col-md-4">
+    <a href="plotter"><img src="images/plotter.jpg"></a>
+  </div>  
+</div>
+
+
+<div class="row">
   <div class="col-md-4">
     <a href="interactive-nfl-stats"><img src="images/statsalyzer.png"></a>
   </div>
