@@ -7,9 +7,9 @@ image:
   feature: headers/main_header.png
 ---
 
-I am a software engineer, data scientist and expat currently living in Chicago, IL.  In the past I was an astrophysicist, working on high performance computing simulations of galaxy formation.  Currently, I design and build web-scale systems at [Narrative Science](http://www.narrativescience.com).
+I am a software engineer, data scientist and expat currently living in Chicago, IL.  In the past I was an astrophysicist, working on high performance computing simulations of galaxy formation.  Currently, I head up the engineering team at edtech startup  [Packback](https://packback.co), and was previously director of engineering at [Narrative Science](https://www.narrativescience.com)
 
-Currently my main software engineering / data engineering interests are centered around designing scalable infrastructure and cloud architectures, while my main data science focus is on the analytics of sports data.
+Right now, my main software engineering interests are centered around algorithmic art and designing scalable infrastructure and cloud architectures.
 
 <div class="row">
   <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 front-box">

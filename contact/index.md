@@ -10,18 +10,19 @@ image:
 If you want to send me a quick message, please fill in the form.  There are also links to various social networks on this page.  Always feel free to reach out to me on any of those platforms.
 
 <div class="row">
+
   <div class="col-xs-12 col-md-6">
     <h3>Contact Form</h3>
     <table>
-      <form accept-charset="UTF-8" action="https://formkeep.com/f/49c7017ff85c" method="POST">
+      <form accept-charset="UTF-8" action="https://formspree.io/craigmbooth+contactform@gmail.com" method="POST">
         <input type="hidden" name="utf8" value="✓">
         <tr><td>Name:<br><input type="text" name="name" placeholder="Your Name"></td></tr>
         <tr><td>Email address:<br><input type="email" name="email" placeholder="Your Email"></td></tr>
         <tr><td>Message:<br><textarea name="message" cols="42" rows="9"></textarea></td></tr>
-        <tr><td><input type="submit" value="Send Message" style="font-weight:bold"></td></tr>
+        <tr><td><input type="submit" value="Send Message" name="submit" style="font-weight:bold"></td></tr>
       </form>
     </table>
-    </div>
+  </div>
 
   <div class="col-xs-12 col-md-6">
     <h3>Find Me Online</h3>
