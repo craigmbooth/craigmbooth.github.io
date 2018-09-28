@@ -5,7 +5,7 @@ locale: en_US
 description: Craig's Home on the Web
 logo: site-logo.png
 search: false
-url: http://www.craigmbooth.com
+url: https://www.craigmbooth.com
 comments:    true
 
 # Jekyll configuration
