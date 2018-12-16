@@ -18,9 +18,9 @@ I remember reading a Malcolm Gladwell book, Outliers, and learning about an idea
 
 This argument feels very compelling to me, but it always puzzled me that I have seen it discussed in a large number of places, but it is always in the context of hockey.  Surely in the US, too, there is a cutoff date for school children to join teams, and surely the same things must hold true in football and basketball and baseball.
 
-[sports-reference.com](http://www.sports-reference.com) has a database of the birth dates for all of the sportsmen they track, so built a little web spider to collate this data for tens of thousands of players.  Here's what I found:
+[sports-reference.com](https://www.sports-reference.com) has a database of the birth dates for all of the sportsmen they track, so built a little web spider to collate this data for tens of thousands of players.  Here's what I found:
 
-[![download](/images/blog/relative-age/download.png)](/images/blog/relative-age/download.png)
+[![download]({{ site.url }}/images/blog/relative-age/download.png)]({{ site.url }}/images/blog/relative-age/download.png)
 
 So, each chart shows the number of players born per month, and the red line shows the number of players you would expect if they were distributed evenly throughout the year (this line is not perfectly flat because different months have different numbers of days).
 

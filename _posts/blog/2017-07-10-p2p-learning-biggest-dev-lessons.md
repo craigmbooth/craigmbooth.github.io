@@ -16,7 +16,7 @@ delightful.  This happened recently and this time around it was being
 interviewed about how I've learned about software development from
 other engineers at Narrative Science.  The interview is available to
 read
-[here](http://www.builtinchicago.org/2017/06/15/what-devs-learn-each-other).
+[here](https://www.builtinchicago.org/2017/06/15/what-devs-learn-each-other).
 The first question was
 
 > What is the most important thing you've learned from a colleague?

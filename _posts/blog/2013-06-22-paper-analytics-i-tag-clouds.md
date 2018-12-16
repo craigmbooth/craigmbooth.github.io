@@ -9,7 +9,7 @@ image:
 feature:
 ---
 
-Last night I put together a little python script to extract the text from the PDFs of each of my published papers and perfom some simple cleaning on the output.  I fed the results of this script into [Wordle](http://www.wordle.net) to generate tag clouds for each of the papers and get a look at how my use of language has changed over time.
+Last night I put together a little python script to extract the text from the PDFs of each of my published papers and perfom some simple cleaning on the output.  I fed the results of this script into [Wordle](https://www.wordle.net) to generate tag clouds for each of the papers and get a look at how my use of language has changed over time.
 
 I find it interesting that I can so easily identify how my scientific interests have changed over the years.  During my PhD I worked on simulations of the interstellar medium and this shows up pretty clearly in the wordclouds for my two PhD thesis papers (molecular, fountain, clouds, ISM).  Then, with my move to Leiden I started working on black holes and the next three papers pretty clearly show this (BH, mBH, accretion, AGN), and also published a paper on metal absorption lines in the intergalactic medium.  Interestingly enough, this metal-line paper out of all of them, seems to have a very even distribution of words, which is in contrast to my most recent paper where I apparently used the word 'feedback' more than everything else combined.
 
