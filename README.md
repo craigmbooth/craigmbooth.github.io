@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/craigmbooth/craigmbooth.github.io/tree/master.svg?style=svg)](https://circleci.com/gh/craigmbooth/craigmbooth.github.io/tree/master)
+
 # Quickstart
 
 ``jekyll build`` builds the site and puts it in `_site`.  ``jekyll serve`` will serve it on port 4000
@@ -8,4 +10,4 @@ Add a new file to ``_posts/blog/*.md`` and rebuild.
 
 ## Uploading
 
-Check out craigmbooth.github.com and this repo.  Build the site in this repo, go to the root of craigmbooth.github.com and cp -r the contents of _site/ into that repo.  Then push.
+Pushing to the master branch triggers automated rebuilds.  The CI badge above comes from running ``ci.sh``, which you can do locally.
