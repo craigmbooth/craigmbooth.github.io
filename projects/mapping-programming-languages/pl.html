@@ -6,15 +6,13 @@
   <head>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
     <meta http-equiv="content-type" content="text/html/xml; charset=utf-8"/>
-    <meta name="author" content="Richard Milton, Centre for Advanced Spatial Analysis (CASA), University College London (UCL)">
-    <meta name="description" content="Page automatically created by GMapImageCutter created by CASA">
     <meta name="keywords" content="Google, Maps, Image, Images, Tile, Cutter, GMapImageCutter, GMapCreator">
     <title>Picture Viewer</title>
 
     <style type="text/css">
     </style>
 
-    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false"></script>
 
     <script type="text/javascript">
     //<![CDATA[
@@ -137,19 +135,7 @@
         map = new google.maps.Map(document.getElementById("map"), myOptions);
 	gmicMapType = new GMICMapType();
         map.mapTypes.set("ImageCutter",gmicMapType);
-
-/////////////////////////////////////////////////////////////////////////////////////
-//Add any markers here e.g.
-//      var marker = new google.maps.Marker({
-//          map:map,
-//          position: new google.maps.LatLng(x,y),
-//          title: "My Marker"
-//      });
-/////////////////////////////////////////////////////////////////////////////////////
-
     }
-
-
     //]]>
     </script>
 
@@ -157,23 +143,7 @@
 
   <body onresize="resizeMapDiv()" onload="load()">
 
-    <div id="map"></div>
-
-
-<!-- Start of StatCounter Code for Default Guide -->
-<script type="text/javascript">
-var sc_project=2579478; 
-var sc_invisible=1; 
-var sc_security="e3a72eb1"; 
-</script>
-<script type="text/javascript"
-src="http://www.statcounter.com/counter/counter.js"></script>
-<noscript><div class="statcounter"><a title="web analytics"
-href="http://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="http://c.statcounter.com/2579478/0/e3a72eb1/1/"
-alt="web analytics"></a></div></noscript>
-<!-- End of StatCounter Code -->
+  <div id="map"></div>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
