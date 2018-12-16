@@ -14,14 +14,14 @@ This page contains links to a bunch of cool projects I've built, largely related
     <p>I figured out how to drive an old-school pen plotter from the 1980s and used ot to make various pieces of algorithmic art.</p> 
   </div>
   <div class="col-md-4">
-    <a href="plotter"><img src="images/plotter.jpg"></a>
+    <a href="plotter"><img src="images/plotter.jpg" alt="Cover for pen plotter project"></a>
   </div>  
 </div>
 
 
 <div class="row">
   <div class="col-md-4">
-    <a href="interactive-nfl-stats"><img src="images/statsalyzer.png"></a>
+    <a href="interactive-nfl-stats"><img src="images/statsalyzer.png" alt="Cover for NFL project"></a>
   </div>
   <div class="col-md-8">
     <h4>NFL Statsalyzer</h4>
@@ -35,13 +35,13 @@ This page contains links to a bunch of cool projects I've built, largely related
     <p>I used a web spider to crawl stack overflow for every tagged question. I then used this data to construct a huge graph showing how all of the different tags are related. In essence forming a topographical map of how all of computing is interrelated. I then put this map into a zoomable, Google maps style interface.</p>
   </div>
   <div class="col-md-4">
-    <a href="mapping-programming-languages"><img src="images/mapofsoftware.png"></a>
+    <a href="mapping-programming-languages"><img src="images/mapofsoftware.png" alt="Cover for map project"></a>
   </div>
 </div>
 
 <div class="row">
   <div class="col-md-4">
-    <a href="hubble/"><img src="images/hubble.png"></a>
+    <a href="hubble/"><img src="images/hubble.png" alt="Cover for hubble project"></a>
   </div>
   <div class="col-md-8">
     <h4>Measurement of the Hubble Parameter</h4>
@@ -55,7 +55,7 @@ This page contains links to a bunch of cool projects I've built, largely related
     <p>I wrote a tool for software developers who use the <a href="https://nixos.org/nix">Nix</a> package manager, <i>nix-visualize</i>.  This tool looks at your software and draws a tree of its dependencies, its dependencies dependencies, its dependencies dependencies dependencies, and so on, all the way down to the operating system.</p>
   </div>
   <div class="col-md-4">
-    <a href="https://github.com/craigmbooth/nix-dependency-visualizer"><img src="images/nv.png"></a>
+    <a href="https://github.com/craigmbooth/nix-dependency-visualizer"><img src="images/nv.png" alt="Cover for Nix Visualizer project"></a>
   </div>
 </div>
 
