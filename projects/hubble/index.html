@@ -3,7 +3,7 @@
  <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Hubble Parameter Measurements</title>
-    <link href="style.css" rel="stylesheet" type="text/css"></link>
+    <link href="style.css" rel="stylesheet" type="text/css">
     <!--[if IE]><script language="javascript" type="text/javascript" src="./flot/excanvas.js"></script><![endif]-->
     <script language="javascript" type="text/javascript" src="./flot/jquery.js"></script>
     <script language="javascript" type="text/javascript" src="./flot/jquery.flot.js"></script>
@@ -14,7 +14,6 @@
  </head>
 
  <body>
-
 
  <div id="header">
  <h2>Hubble Parameter Measurements</h2>
@@ -30,12 +29,12 @@
 
  <p id="clickdata"></p>
 
- <p>The data used in this plot is taken from the excellent and comprehensive list of Hubble parameter determinations maintained on <a href="https://www.cfa.harvard.edu/~dfabricant/huchra/hubble/">John Huchra's</a> homepage.  After 2010 the datapoints come from my own quick search of the literature, if I've missed anything please feel free to <a href="http://www.craigmbooth.com/contact/">contact me</a> and I'll add it.</p>
+ <p>The data used in this plot is taken from the excellent and comprehensive list of Hubble parameter determinations maintained on <a href="https://www.cfa.harvard.edu/~dfabricant/huchra/hubble/">John Huchra's</a> homepage.  After 2010 the datapoints come from my own quick search of the literature, if I've missed anything please feel free to <a href="https://www.craigmbooth.com/contact/">contact me</a> and I'll add it.</p>
 
  </div>
 
  <div id="footer">
- Visualization by Craig Booth, 2013. Powered by <a href="http://www.flotcharts.org">jquery.flot.js</a>, with data adapted from <a href="https://www.cfa.harvard.edu/~dfabricant/huchra/hubble/">John Huchra's homepage</a>
+ Visualization by Craig Booth, 2013. Powered by <a href="https://www.flotcharts.org">jquery.flot.js</a>, with data adapted from <a href="https://www.cfa.harvard.edu/~dfabricant/huchra/hubble/">John Huchra's homepage</a>
  </div>
 
 <!-- Beginning of settings for plot -->
@@ -101,22 +100,6 @@ $.getJSON("hubble.json", function(data) {
 
     }); /* End of getJSON */	
 </script>
-
-
-<!-- Start of StatCounter Code for Default Guide -->
-<script type="text/javascript">
-var sc_project=2579478; 
-var sc_invisible=1; 
-var sc_security="e3a72eb1"; 
-</script>
-<script type="text/javascript"
-src="http://www.statcounter.com/counter/counter.js"></script>
-<noscript><div class="statcounter"><a title="web analytics"
-href="http://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="http://c.statcounter.com/2579478/0/e3a72eb1/1/"
-alt="web analytics"></a></div></noscript>
-<!-- End of StatCounter Code -->
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
