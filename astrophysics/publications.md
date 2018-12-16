@@ -50,6 +50,6 @@ My PhD thesis is available on this page and this list is available with citation
 <ol>
   <li>
   <em>Cosmic cookery: Growing galaxies in a computer</em><br />
-  As part of the Durham team presenting our work at the Royal Society Summer Science Exhibition (2005), I designed a poster that stretches a cooking metaphor well past breaking point.
+  As part of the Durham team presenting our work at the Royal Society Summer Science Exhibition (2005), I designed a poster that stretches a cooking metaphor well past breaking point. [<a href="rs05poster.pdf">ADS</a>]
   </li>
 </ol>
