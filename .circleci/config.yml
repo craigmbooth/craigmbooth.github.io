@@ -10,7 +10,7 @@ jobs:
       - checkout
       - run:
           name: Which bundler?
-          command: bundle -v
+          command: ls && gem install bundler && bundle -v
       - run:
           name: Bundle Install
           command: bundle check || bundle install
