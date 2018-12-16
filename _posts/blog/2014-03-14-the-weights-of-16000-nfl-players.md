@@ -10,10 +10,10 @@ feature:
 date: 2014-03-14
 ---
 
-There have been a large number of news reports about concussions in the NFL, and how it's "today's monster players" laying down big hits on one another that lead to this danger.  I decided to go into the numbers and take a look at this form myself.  Here's a graph showing the median weight of NFL players over time. This data was comes from about 16,000 players collected from [pro-football-reference.com](http://www.pro-football-reference.com)
+There have been a large number of news reports about concussions in the NFL, and how it's "today's monster players" laying down big hits on one another that lead to this danger.  I decided to go into the numbers and take a look at this form myself.  Here's a graph showing the median weight of NFL players over time. This data was comes from about 16,000 players collected from [pro-football-reference.com](https://www.pro-football-reference.com)
 
-<a href="/images/blog/nfl_weights/weights_all.png">
-  <img src="/images/blog/nfl_weights/weights_all.png" alt="The weights of NFL players since 1950">
+<a href="{{ site.url }}/images/blog/nfl_weights/weights_all.png">
+  <img src="{{ site.url }}/images/blog/nfl_weights/weights_all.png" alt="The weights of NFL players since 1950">
 </a>
 
 There are a bunch on interesting features in this graph:
@@ -27,38 +27,38 @@ There are a bunch on interesting features in this graph:
 Of course, this is only a small fraction of the story and the following gallery contains both the heights and BMIs of these same players, along with the weights broken down by position to show the scatter.  Enjoy!
 
 <figure class="third">
-  <a href="/images/blog/nfl_weights/weight_QB.png">
-    <img src="/images/blog/nfl_weights/weight_QB.png" alt="image">
+  <a href="{{ site.url }}/images/blog/nfl_weights/weight_QB.png">
+    <img src="{{ site.url }}/images/blog/nfl_weights/weight_QB.png" alt="QBs">
   </a>
-  <a href="/images/blog/nfl_weights/weight_LB.png">
-    <img src="/images/blog/nfl_weights/weight_LB.png" alt="image">
+  <a href="{{ site.url }}/images/blog/nfl_weights/weight_LB.png">
+    <img src="{{ site.url }}/images/blog/nfl_weights/weight_LB.png" alt="Linebackers">
   </a>
-  <a href="/images/blog/nfl_weights/weight_G.png">
-    <img src="/images/blog/nfl_weights/weight_G.png" alt="image">
+  <a href="{{ site.url }}/images/blog/nfl_weights/weight_G.png">
+    <img src="{{ site.url }}/images/blog/nfl_weights/weight_G.png" alt="Guards">
   </a>
-  <a href="/images/blog/nfl_weights/weight_RB.png">
-    <img src="/images/blog/nfl_weights/weight_RB.png" alt="image">
+  <a href="{{ site.url }}/images/blog/nfl_weights/weight_RB.png">
+    <img src="{{ site.url }}/images/blog/nfl_weights/weight_RB.png" alt="running backs">
   </a>
-  <a href="/images/blog/nfl_weights/weight_T.png">
-    <img src="/images/blog/nfl_weights/weight_T.png" alt="image">
+  <a href="{{ site.url }}/images/blog/nfl_weights/weight_T.png">
+    <img src="{{ site.url }}/images/blog/nfl_weights/weight_T.png" alt="Tackles">
   </a>
-  <a href="/images/blog/nfl_weights/weight_C.png">
-    <img src="/images/blog/nfl_weights/weight_C.png" alt="image">
+  <a href="{{ site.url }}/images/blog/nfl_weights/weight_C.png">
+    <img src="{{ site.url }}/images/blog/nfl_weights/weight_C.png" alt="Corners">
   </a>
-  <a href="/images/blog/nfl_weights/weight_TE.png">
-    <img src="/images/blog/nfl_weights/weight_TE.png" alt="image">
+  <a href="{{ site.url }}/images/blog/nfl_weights/weight_TE.png">
+    <img src="{{ site.url }}/images/blog/nfl_weights/weight_TE.png" alt="Tight ends">
   </a>
-  <a href="/images/blog/nfl_weights/weight_WR.png">
-    <img src="/images/blog/nfl_weights/weight_WR.png" alt="image">
+  <a href="{{ site.url }}/images/blog/nfl_weights/weight_WR.png">
+    <img src="{{ site.url }}/images/blog/nfl_weights/weight_WR.png" alt="image">
   </a>
-  <a href="/images/blog/nfl_weights/weight_K.png">
-    <img src="/images/blog/nfl_weights/weight_K.png" alt="image">
+  <a href="{{ site.url }}/images/blog/nfl_weights/weight_K.png">
+    <img src="{{ site.url }}/images/blog/nfl_weights/weight_K.png" alt="image">
   </a>
-  <a href="/images/blog/nfl_weights/bmi_all.png">
-    <img src="/images/blog/nfl_weights/bmi_all.png" alt="image">
+  <a href="{{ site.url }}/images/blog/nfl_weights/bmi_all.png">
+    <img src="{{ site.url }}/images/blog/nfl_weights/bmi_all.png" alt="image">
   </a>
-  <a href="/images/blog/nfl_weights/heights_all.png">
-    <img src="/images/blog/nfl_weights/heights_all.png" alt="image">
+  <a href="{{ site.url }}/images/blog/nfl_weights/heights_all.png">
+    <img src="{{ site.url }}/images/blog/nfl_weights/heights_all.png" alt="image">
   </a>
 </figure>
 
@@ -127,5 +127,5 @@ And here are the lightest quarterbacks playing in the NFL on a year-to-year basi
 
 This post was picked up in a few locations, including:
 
-*   [Deadspin](http://regressing.deadspin.com/how-have-the-weights-of-nfl-positions-changed-over-time-1545701731)
-*   [The Washington Post](http://www.washingtonpost.com/blogs/early-lead/wp/2014/05/29/why-johnny-manziels-weight-matters-more-than-height-or-vegas-trips/?tid=up_next)
+*   [Deadspin](https://regressing.deadspin.com/how-have-the-weights-of-nfl-positions-changed-over-time-1545701731)
+*   [The Washington Post](https://www.washingtonpost.com/blogs/early-lead/wp/2014/05/29/why-johnny-manziels-weight-matters-more-than-height-or-vegas-trips/?tid=up_next)
