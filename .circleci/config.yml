@@ -1,0 +1,21 @@
+version: 2 # use CircleCI 2.0
+jobs:
+  build:
+    parallelism: 1
+    docker:
+      - image: circleci/ruby:2.4.2-jessie-node
+        environment:
+          EXAMPLE: 3
+    steps:
+      - checkout
+      - run:
+          name: Which bundler?
+          command: bundle -v
+      - run:
+          name: Bundle Install
+          command: bundle check || bundle install
+      - run:
+          name: Validate HTML
+          command: ./ci.sh
+      - store_test_results:
+          path: test_results
