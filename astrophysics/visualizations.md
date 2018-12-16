@@ -7,7 +7,7 @@ image:
 
 I have generated a number of nice structure formation movies from our simulations. This page contains all the structure formation movies I generated for the OWLS project (Schaye et al. 2010).  My other movies, inluding other types of OWLS movies and older visualizations are on my <a href="/astrophysics/other-movies">Other Movies</a> page. Feel free to use any of these movies in talks and the like.  If you see something in one of the movies that raises any questions, or would like any additional information then feel free to email me.
 
-If you have issues with playback, I recommend downloading <a href="http://www.videolan.org/vlc/index.html">VLC</a> (Mac, Windows, Linux) or <a href="http://perian.org/">Perian</a> (Mac).
+If you have issues with playback, I recommend downloading <a href="https://www.videolan.org/vlc/index.html">VLC</a> (Mac, Windows, Linux) or <a href="https://perian.org/">Perian</a> (Mac).
 
 ## Simulations of the Milky Way
 
@@ -16,12 +16,12 @@ These movies show a face-on view of a simulated Milky Way type galaxy.  The colo
 <div class="row">
   <div class="col-sm-6">
     <a href="mw_face_white.avi">
-      <img src="mw_light_frame.jpg">
+      <img src="mw_light_frame.jpg" alt="Milky Way simulation light">
     </a>
   </div>
   <div class="col-sm-6">
     <a href="mw_face_black.avi">
-      <img src="mw_dark_frame.jpg">
+      <img src="mw_dark_frame.jpg" alt="Milky Way simulation dark">
     </a>
   </div>
 </div>
@@ -35,7 +35,7 @@ A slice through the 25Mpc<i>/h</i> OWLS simulation.  The slice is 1Mpc/<i>h</i> 
 <div class="row">
   <div class="col-sm-6">
     <a href="25mpc-projection-dens.avi">
-      <img src="25mpc-projection-dens.png">
+      <img src="25mpc-projection-dens.png" alt="Image from cosmological simulation">
     </a>
   </div>
   <div class="col-sm-6">
@@ -45,7 +45,7 @@ A slice through the 25Mpc<i>/h</i> OWLS simulation.  The slice is 1Mpc/<i>h</i> 
       <li><a href="25mpc-projection-mett.avi">Metallicity</a></li>
     </ul>
     A video combining all projections is here:
-    <a href=""><img src="25mpc-projection-combined.png"></a>
+    <a href=""><img src="25mpc-projection-combined.png" alt="Image from cosmological simulation"></a>
   </div>
 </div>
 
@@ -56,7 +56,7 @@ These movies correspond to a region with a comoving size of 3Mpc/h. By redshift 
 <div class="row">
   <div class="col-sm-4 col-md-4">
     <a href="25mpc-object1-combined.avi">
-      <img src="25mpc-object1-combined.png">
+      <img src="25mpc-object1-combined.png" alt="Image from cosmological simulation">
     </a>
   </div>
   <div class="col-sm-8">
@@ -77,10 +77,10 @@ These movies correspond to a region with a comoving size of 3Mpc/h. By redshift 
 
 <div class="row">
   <div class="col-sm-6">
-    This movie shows the formation of a cluster of galaxies down to redshift zero. The two panels show density and metallicity. This movie was encoded using a different encoder than most of the others on this page. If you cannot get it to play you may need to install the <a href="http://www.xvidmovies.com/codec">XViD codec</a>, or can download the <a href="100mpc-object1-combined.mpg">.mpg file</a>
+    This movie shows the formation of a cluster of galaxies down to redshift zero. The two panels show density and metallicity. This movie was encoded using a different encoder than most of the others on this page. If you cannot get it to play you may need to install the <a href="https://www.xvidmovies.com/codec">XViD codec</a>, or can download the <a href="100mpc-object1-combined.mpg">.mpg file</a>
   </div>
   <div class="col-sm-6">
-    <a href="100mpc-object1-combined.avi"><img src="100mpc-object1-combined.png"></a>
+    <a href="100mpc-object1-combined.avi"><img src="100mpc-object1-combined.png" alt="Image from cosmological simulation"></a>
   </div>
 </div>
 
@@ -89,7 +89,7 @@ These movies correspond to a region with a comoving size of 3Mpc/h. By redshift 
 <div class="row">
   <div class="col-sm-6">
     <a href="100mpc-projection-dens.avi">
-      <img src="100mpc-projection-dens.png">
+      <img src="100mpc-projection-dens.png" alt="Image from cosmological simulation">
     </a>
   </div>
   <div class="col-sm-6">
@@ -99,6 +99,6 @@ These movies correspond to a region with a comoving size of 3Mpc/h. By redshift 
       <li><a href="100mpc-projection-mett.avi">Metallicity</a></li>
     </ul>
     A video combining all projections is here:
-    <a href=""><img src="100mpc-projection-combined.png"></a>
+    <a href=""><img src="100mpc-projection-combined.png" alt="Image from cosmological simulation"></a>
   </div>
 </div>

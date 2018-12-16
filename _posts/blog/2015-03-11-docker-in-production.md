@@ -9,15 +9,15 @@ image:
 feature:
 ---
 
-Earlier this year, I attended the DevOps Days Chicago conference and one of the talks that stuck with me was by [Bridget Kromhout](http://bridgetkromhout.com/), who stepped up at the start of the conference and gave a great talk, demystifying a bit of DevOps jargon for the rest of us (unicorns? pigs? goats in silos? cats? I don't even know).
+Earlier this year, I attended the DevOps Days Chicago conference and one of the talks that stuck with me was by [Bridget Kromhout](https://bridgetkromhout.com/), who stepped up at the start of the conference and gave a great talk, demystifying a bit of DevOps jargon for the rest of us (unicorns? pigs? goats in silos? cats? I don't even know).
 
 Earlier this week, we were lucky enough to have Orbitz host a meetup, where Bridget would return and give us a warts and all discussion of what it was like to have been running Docker in production since version 0.something, back when the Docker website proudly sported a message telling you not to use Docker in production.
 
 I took a lot of notes, but rather than rehashing the entire talk I thought it would be fun just to run through five interesting things I learned
 
 <figure class="half">
-<a href="/images/blog/docker-meetup/meetup.jpg"><img src="/images/blog/docker-meetup/meetup.jpg"></a>
-<a href="/images/blog/docker-meetup/meetup2.jpg"><img src="/images/blog/docker-meetup/meetup2.jpg"></a>
+<a href="{{ site.url }}/images/blog/docker-meetup/meetup.jpg"><img src="{{ site.url }}/images/blog/docker-meetup/meetup.jpg" alt="Picture from the meetup"></a>
+<a href="{{ site.url }}/images/blog/docker-meetup/meetup2.jpg"><img src="{{ site.url }}/images/blog/docker-meetup/meetup2.jpg" alt="Picture from the meetup"></a>
 </figure>
 
 ## The Distributed, Private Docker Registry

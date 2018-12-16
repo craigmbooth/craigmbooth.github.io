@@ -9,13 +9,13 @@ image:
 feature:
 ---
 
-One of the things I'm very happy that my employer, [Narrative Science](http://www.narrativescience.com), has done is put me in contact with the Chicago tech community.  Through them, I have taught an occasional session at the [Startup Institute](http://startupinstitute.com). The Startup Institute is a great program that takes people who are interested in getting jobs in tech startups and turns them into very, very able employees.  I've been nothing but impressed by all of my interactions with the Startup Institute students.
+One of the things I'm very happy that my employer, [Narrative Science](https://www.narrativescience.com), has done is put me in contact with the Chicago tech community.  Through them, I have taught an occasional session at the [Startup Institute](https://startupinstitute.com). The Startup Institute is a great program that takes people who are interested in getting jobs in tech startups and turns them into very, very able employees.  I've been nothing but impressed by all of my interactions with the Startup Institute students.
 
 In the past I have taught, as an Adjunct Instructor, a course on Big Data to the Startup Institute's cohort of back end engineers.  This coming April, I'm going to take on a slightly different challenge and teach the same session to front end developers.  This requires some refocusing of the material and I thought I'd write down a few of the ideas I've had around refactoring this backend-heavy material into something that is more widely applicable.
 
 ## Goal of the Session:  The Obligation to Dissent
 
-Shortly after I first started working at a startup, I read the book [How Google Works](http://www.amazon.com/How-Google-Works-Eric-Schmidt-ebook/dp/B00HUU13Y0).  A very readable summary of how Google operates as a company, how they are structured, and their culture.
+Shortly after I first started working at a startup, I read the book [How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt-ebook/dp/B00HUU13Y0).  A very readable summary of how Google operates as a company, how they are structured, and their culture.
 
 One part of the book stood out to me, and changed how I approached my work was this:
 

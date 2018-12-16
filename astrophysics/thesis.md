@@ -5,7 +5,7 @@ image:
   feature: astrophysics_header.jpg
 ---
 
-I submitted my PhD thesis at Durham University in January 2007. It is titled <em>"Simulating Molecular Cloud Regulated Star Formation in Galaxies"</em>. A scanned version is available from [Durham eTheses](http://etheses.dur.ac.uk/2610/), or sections can be retrieved individually from these links:
+I submitted my PhD thesis at Durham University in January 2007. It is titled <em>"Simulating Molecular Cloud Regulated Star Formation in Galaxies"</em>. A scanned version is available from <a href="http://etheses.dur.ac.uk/2610/" data-proofer-ignore>Durham eTheses</a>, or sections can be retrieved individually from these links:
 
 ## Abstract
 

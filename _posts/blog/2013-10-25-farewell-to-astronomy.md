@@ -9,9 +9,9 @@ image:
 feature:
 ---
 
-Recently I took the decision to shift my life onto a new track and accepted a job offer outside of astrophysics.  Given that leaving academia has long been a frequent source of conversation among the postdocs and PhD students I interact with on a daily basis I thought that --- inspired by Marcel Haas' article titled [Leaving the field, becoming an extronomer](http://marcelhaas.com/extronomer.html) --- I'd write a few words about why I'm leaving, and where I'm going.
+Recently I took the decision to shift my life onto a new track and accepted a job offer outside of astrophysics.  Given that leaving academia has long been a frequent source of conversation among the postdocs and PhD students I interact with on a daily basis I thought that --- inspired by Marcel Haas' article titled [Leaving the field, becoming an extronomer](https://www.marcelhaas.com/index.php/2018/03/30/leaving-the-field-becoming-an-extronomer/) --- I'd write a few words about why I'm leaving, and where I'm going.
 
-Jessica Kirkpatrick has written a lot about the difference between academia and industry ([Astronomer to data scientist](http://womeninastronomy.blogspot.com/2013/01/datascience.html#more), [Astronomy vs. data science](http://womeninastronomy.blogspot.com/2013/01/astroVdatascience.html)) and I'd encourage anybody who is interested to read those articles.  They reflect my feelings about academia more coherently than I can myself.  Therefore, I'm only going to cover my personal circumstances and say that as much as I love doing science for a living, I do feel that I'll be just as fulfilled elsewhere.
+Jessica Kirkpatrick has written a lot about the difference between academia and industry ([Astronomer to data scientist](https://womeninastronomy.blogspot.com/2013/01/datascience.html#more), [Astronomy vs. data science](https://womeninastronomy.blogspot.com/2013/01/astroVdatascience.html)) and I'd encourage anybody who is interested to read those articles.  They reflect my feelings about academia more coherently than I can myself.  Therefore, I'm only going to cover my personal circumstances and say that as much as I love doing science for a living, I do feel that I'll be just as fulfilled elsewhere.
 
 ### Where have I been?
 
@@ -29,10 +29,10 @@ A while ago I filled out a LinkedIn profile with all of the computer and data-an
 
 However, a few weeks ago I received one of these emails from a recruiter on behalf of a company called Narrative Science, with the description that Narrative Science was born out of Northwestern University and _"Our artificial intelligence platform automatically analyzes data and produces narratives that are contextually relevant, actionable and tailored to any audience."_  Basically, they turn tables full of data into stories written in the English language.  Narrative Science made a bit of a splash a few years ago with software that takes the play-by-play from a baseball game and turns it into an article in English.  Here are various articles about that (written by humans):
 
-*   [In Case You Wondered, a Real Human Wrote This Column](http://www.nytimes.com/2011/09/11/business/computer-generated-articles-are-gaining-traction.html?pagewanted=all&_r=0) (The New York Times)
-*   [Can the Computers at Narrative Science Replace Paid Writers?](http://www.theatlantic.com/entertainment/archive/2012/04/can-the-computers-at-narrative-science-replace-paid-writers/255631/) (The Atlantic)
-*   [Can an Algorithm Write a Better News Story Than a Human Reporter?](http://www.wired.com/gadgetlab/2012/04/can-an-algorithm-write-a-better-news-story-than-a-human-reporter/all/) (Wired)
-*   [Can an Algorithm Replace Stock Analysts?](http://www.businessweek.com/articles/2013-07-12/can-an-algorithm-replace-stock-analysts?__hstc=173523388.7373ae052586e7038d56528c60e34926.1374014113522.1374531684733.1374534068177.5&__hssc=173523388.3.1374534068177#r=hpt-ls) (Businessweek)
+*   [In Case You Wondered, a Real Human Wrote This Column](https://www.nytimes.com/2011/09/11/business/computer-generated-articles-are-gaining-traction.html?pagewanted=all&_r=0) (The New York Times)
+*   [Can the Computers at Narrative Science Replace Paid Writers?](https://www.theatlantic.com/entertainment/archive/2012/04/can-the-computers-at-narrative-science-replace-paid-writers/255631/) (The Atlantic)
+*   [Can an Algorithm Write a Better News Story Than a Human Reporter?](https://www.wired.com/gadgetlab/2012/04/can-an-algorithm-write-a-better-news-story-than-a-human-reporter/all/) (Wired)
+*   [Can an Algorithm Replace Stock Analysts?](https://www.businessweek.com/articles/2013-07-12/can-an-algorithm-replace-stock-analysts?__hstc=173523388.7373ae052586e7038d56528c60e34926.1374014113522.1374531684733.1374534068177.5&__hssc=173523388.3.1374534068177#r=hpt-ls) (Businessweek)
 
 They have since widened scope to try and write stories in a huge number of subject domains, and the problems they're trying to solve in changing _'data'_ into _'stories'_ sounded both challenging and incredibly interesting.  I agreed to an interview.
 

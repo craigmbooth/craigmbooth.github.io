@@ -25,7 +25,7 @@ Since it’s a ground-up rewrite, I also decided to revisit my decision to use W
    * PHP.
    * Wordpress seems to update every couple of weeks, and some updates are incompatible with some plugins, and I've manually edited some plugins and those updates cause them to break and then I'm sad and hacking on PHP code that I don't understand on a Tuesday night.
 
-In the end I settled on one of the more lightweight, flat frameworks, [Jekyll](http://jekyllrb.com), somewhere where I can just write in Markdown, use a simple templating language and then type 'jekyll build' and have a static site drop out the other side.  Outside of that I can just be involved with trying to write the best frontend code that I can.
+In the end I settled on one of the more lightweight, flat frameworks, [Jekyll](https://jekyllrb.com), somewhere where I can just write in Markdown, use a simple templating language and then type 'jekyll build' and have a static site drop out the other side.  Outside of that I can just be involved with trying to write the best frontend code that I can.
 
 For posterity's sake, here are some screencaptures of the old site, before they're lost to the depths of the Internet
 

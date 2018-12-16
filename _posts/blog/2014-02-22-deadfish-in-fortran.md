@@ -9,7 +9,7 @@ image:
 feature:
 ---
 
-Yesterday I was idly browsing the [esoteric programming languages wiki](http://esolangs.org/wiki/Main_Page), and stumbled over the language Deadfish, so named because
+Yesterday I was idly browsing the [esoteric programming languages wiki](https://esolangs.org/wiki/Main_Page), and stumbled over the language Deadfish, so named because
 
 > Deadfish was originally going to be called fishheads as programming in this language is like eating raw fish heads. However, due to the limiting features of the language, programming in this language became like eating (and having to smell) dead, rotting fish heads, an experience not often generally considered pleasurable.
 
@@ -47,6 +47,5 @@ c Deadfish interpreter in FORTRAN 77
       END DO
       END
 {% endhighlight %}
-
 
 No idea why I made that.  What a  iisiiiisiiiiiiiioiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiioiiioodddddddddodddddddoiiiiiiiiiiodddddddo idea.
