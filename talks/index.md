@@ -13,7 +13,7 @@ image:
 
 <div class="row">
   <div class="col-md-4">
-    <img src="sui.png">
+    <img src="sui.png" alt="StartUp Institute logo">
   </div>
   <div class="col-md-8">
   <p>In 2015 and 2016 I was an adjunct instructor at the Startup Institute where I taught a half day class on Big Data.  Now, half a day is not sufficient for a technical deep dive, so my aims were somewhat broader</p>
@@ -63,6 +63,6 @@ image:
 
   </div>
   <div class="col-md-4">
-    <img src="ga.png">
+    <img src="ga.png" alt="General Assembly logo">
   </div>
 </div>
