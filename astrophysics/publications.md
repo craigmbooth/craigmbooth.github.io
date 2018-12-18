@@ -7,7 +7,8 @@ image:
 
 This page contains a list of my publications, including refereed publications, conference proceedings, a poster given as part of a public outreach effort and, finally, my PhD thesis.  For quick reference, first author papers are <mark class="highlight">highlighted</mark>.
 
-My PhD thesis is available on this page and this list is available with citation statistics from <a href="https://scholar.google.com/citations?user=6FNQpXEAAAAJ">my Google Scholar page</a>.
+<!-- No idea whay but the Google Scholar page 403s when htmlproofer tries to go there -->
+My PhD thesis is available on this page and this list is available with citation statistics from <a href="https://scholar.google.com/citations?user=6FNQpXEAAAAJ" data-proofer-ignore>my Google Scholar page</a>.
 
 <h2> Refereed Publications </h2>
 <ol reversed>
