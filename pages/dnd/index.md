@@ -75,4 +75,29 @@ Suddenly, all is black...
 
 ### Episode 5:  Welcome to Saltmarsh
 
-After an indeterminate amount of time floating in the blackness, the party wakes up in a room covered in machinery, to the sound of a familiar voice, Till, 
+After an indeterminate amount of time floating in the blackness, the party wakes up in a room covered in machinery, to the sound of a familiar voice, Till.  While taking a couple of days reast and relaxation in Till's place, the party manages to stitch together a partial accounting of what is going on:
+
+   * By forcing the Minor Death through the door, the party destroyed the wandering crypt, the pendant, and also the town of Mulmaster
+   * The people here have been searching for, and trying to destroy, five artifacts.  Thus far this is the first time one has been successfully destroyed.
+   * These five artifacts pop up throughout history, and wherever they do, the historical record reveals the bloodshed follows quickly.
+   * The party learns something about Till.  She is in some way linked to the artifacts, there are five of her (Till and Zora, who the team has met so far), and each is in some way tied to one of the artifacts.
+
+At this point, Till's organization announces that they have a lead on another of the atrtifacts, a glove that in some way makes the wearer very powerful.  The artifact is apparently in he town of Saltmarsh, and has been found by a group of smugglers called the Zhentarim cartel.  The party is sent in to destroy the glove.  In order to cut down the long travel times, the party is put into a "metal bullet" and hurled via catapult high into the air, splashing down in the waters outside of Saltmarsh.
+
+The party asks around the Saltmarsh for the Zhentarim cartel, they learn that most people are concerned about the camp of lizard men outside of the city stockpiling weapons, but also quickly get a lead on a house in the docks, where the Zhentarims live, although worryingly, nobody has seen any of them for a few days now.  After a stop at a curiously purple shop, named Old Xoblob's, the team goes to the house.
+
+Trying to creep in, the party find a number of bird-like creatures, and they kill all but one.  The bird is only able to speak by repeating phrases that it has heard in the past, and tries to tell the team what happened with various permutations of:
+
+   * “No time to loot the place, just get it to the boss”
+   * “Who are you?  This shouldn’t be happening”
+   * “I can’t find it!  I can’t find it!  Give me the glove”
+   
+Unable to decipher much of what the bird had to say, the party turned to a ledger that was out on a table.  It contained references to a glove, and also a schedule for deliveries, that mentioned the lizard men would be coming to collect some things on the following night.
+
+The party decided to bluff that they had the glove and parlay with the lizard men.  Most of the party holed up in the house, and Varis went out to meet the lizard men at the appointed time.  Faced by upwards of 20 lizard men, Varis ran with the bluff, and all seemed to be going well until he mentioned the glove, which the lizardman pointed out very matter of factly that they already had!
+
+Then, suddenly, an explosion.  Dozens of purple-clad, armed men came bursting from the shadows.  The lizard men and the purple army seemed pretty evenly matched, and the party was thrust into the middle of a raging street battle...
+
+### Episode 6:  TBD
+
+
