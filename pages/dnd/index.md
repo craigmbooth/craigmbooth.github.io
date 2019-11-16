@@ -57,8 +57,22 @@ The party returns to Zora's house, ready to head underground and face the wander
 
 ### Episode 4:  The Wandering Crypt
 
+The party enters the hut that appeared in Zora's garden, noting an inscription in a foreign language, "Seekers of knowledge are welcome; seekers of wealth beware!".  The inside of the hut looks like a normal peasant hut, but on closer inspection, a rug leads down to a hidden cellar.
 
+Gehenna wisely ignored some treasure that was on open display, and the party opened up a trapdoor which led down a long, vertical hole.  Upon lowering themselves into the tunnel the party were surprised to find that gravity flipped 90 degrees and they were walking on the walls.  The tunnel led out to a kitchen with a roaring fireplace and a door.  The party couldn't extinguish the fire, but flipped a cauldron over and were able to pass through.
+
+Everybody who passed through the door ended up in a different landscape, and went searching for exits.  Every time somebody passed through an exit, they ended up back where they started until Akta realized that finding an exit that looks like somebody else's exit would bring them together.  When everybody was in the same landscape, the scenery vanished, leaving only a door to the kitchen and one to the conservatory.
+
+Entering the conservatory, the party found a glass domed room, full of obsidian plants, and a giant cat toying with an unconscious human.  After discovering the magical effects of all the plants in the room, the party conned the cat into eating some plants that shrunk it to a tiny size, and Kolybelka (the human who was just been toyed with by the cat) kept her, naming her Peppercat.
+
+In the corner of the conservatory was a table, containing a replica of the hut.  The party ate some of those same leaves, shrunk down and entered the hut, finding a room full of skeletons frozen in place, in poses that looked like they were executing people.  In front of each skeleton was a card.  When the cards were touched, the corresponding skeleton would begin to move slowly towards whoever had moved it.
+
+After a series of unfortunate events, Gehenna ended up with a skeleton moving after him at the point where the card was destroyed.  Unable to stop the skeleton, the team fled deeper into the dungeon, where they found the center of the wandering crypt.  An old man, overgrown with trees, told them that the way to destroy the crypt, and the pendant, was related to the kitchen and to the skeleton that was following the team.
+
+The team retreated to the kitchen, opening the other door, which always opened on a dark, red tunnel.  Whoever opened the door could not enter, but others could, causing gastro-intestinal distress to whoever had opened the door.  The party figured out that the door was a portal into the innards of whoever opened it.  By hiding behind the door when the minor death entered the room, the party were able to con it into opening the door and forcing its way through the magical barrier inside, creating an impossible situation.
+
+Suddenly, all is black...
 
 ### Episode 5:  Welcome to Saltmarsh
 
-The party wakes up in a room covered in machinery
+After an indeterminate amount of time floating in the blackness, the party wakes up in a room covered in machinery, to the sound of a familiar voice, Till, 
