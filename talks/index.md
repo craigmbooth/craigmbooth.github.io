@@ -40,7 +40,7 @@ image:
 
 <div class="row">
   <div class="col-md-8">
-  <p>I occasionally teach a two-day workshop on SQL.  Designed for people with no database experience, this course takes you from the building blocks of databases, through being able to confidently write complex SQL queries.  I developed all of the course materials for this bootcamp (the student handouts are available <a href="{{ site.url }}/sql_bootcamp/">here</a>).  The course is very interacting and students are writing SQL queries throughout the day.  On the first day, we cover the following topics:</p>
+  <p>I occasionally teach a two-day workshop on SQL.  Designed for people with no database experience, this course takes you from the building blocks of databases, through being able to confidently write complex SQL queries.  I developed all of the course materials for this bootcamp (the student handouts are available <a href="{{ site.url }}/pages/sql_bootcamp/">here</a>).  The course is very interacting and students are writing SQL queries throughout the day.  On the first day, we cover the following topics:</p>
 
   <ol>
   <li>Basic DB concepts (the client, the server, the table, the row, the column)</li>
