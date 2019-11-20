@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Storytelling With Pantone Colors (a one hour creative project)"
+title: "Storytelling With Pantone Colors"
 modified:
 categories: "blog"
 excerpt: "Writing a story using only the names of Pantone colors"
