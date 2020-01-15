@@ -98,6 +98,9 @@ The party decided to bluff that they had the glove and parlay with the lizard me
 
 Then, suddenly, an explosion.  Dozens of purple-clad, armed men came bursting from the shadows.  The lizard men and the purple army seemed pretty evenly matched, and the party was thrust into the middle of a raging street battle...
 
-### Episode 6:  TBD
+### Episode 6:  Under Siege
 
+<figure class="half">
+  <a href="saltmarsh_manor.png"><img src="saltmarsh_manor.png" alt="The manor in the city of Saltmarsh"></a>
+</figure>
 
