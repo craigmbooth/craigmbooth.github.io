@@ -11,8 +11,12 @@ image:
    * [Gehenna](https://www.dndbeyond.com/profile/craigmbooth/characters/9817137): Dragonborn Ranger; Hunter (Davo)
    * [Keth](https://www.dndbeyond.com/profile/craigmbooth/characters/12844059): Human Barbarian; Path of the Berserker (Dan)
    * [Kolybelka](https://www.dndbeyond.com/profile/craigmbooth/characters/15188549): Human Rogue; Assassin (Sasha)
-   * [Merlock](https://www.dndbeyond.com/profile/craigmbooth/characters/10604375): Halfling Bard (Billy)
+   * [Rhogar of Clan Kerrylon](https://www.dndbeyond.com/profile/craigmbooth/characters/21719936): Dragonborn Warlock (Justin)
    * [Varis](https://www.dndbeyond.com/profile/craigmbooth/characters/11643474): Half Elf Druid; Circle of the Moon (Austin)
+
+### Retired Characters
+
+   * [Merlock](https://www.dndbeyond.com/profile/craigmbooth/characters/10604375): Halfling Bard (Billy)
 
 ## Overview
 
