@@ -98,9 +98,21 @@ The party decided to bluff that they had the glove and parlay with the lizard me
 
 Then, suddenly, an explosion.  Dozens of purple-clad, armed men came bursting from the shadows.  The lizard men and the purple army seemed pretty evenly matched, and the party was thrust into the middle of a raging street battle...
 
-### Episode 6:  Under Siege
+### Episode 6:  House Under Siege
 
 <figure class="half">
   <a href="saltmarsh_manor.png"><img src="saltmarsh_manor.png" alt="The manor in the city of Saltmarsh"></a>
 </figure>
+
+The party finds itself caught up in a raging street battle between the lizard men and the local government.  It becomes readily apparent that the government -- observing that they are the group of people inside of the Zhentarim cartel hideout -- have mistaken the party for the Zhentarim cartel themselves.
+
+Over the course of a few minutes, it becomes clear that the governmental forces are going to be the victors and the party turns its attention to making it clear to the government forces that they're on the same side.  Via a few botched persuasion rolls, Akta climbing out of a window, and Gehenna murdering the heck out of some lizards, the party finally calms down the police to the point where they're actually willing to talk.
+
+Akta gets in front of the officer in charge, and he agrees to take them to the governers mansion to discuss what is going on and how they can help.  After being led to a sitting room in the mansion (map pictured), the party is introduced to the governer, who explains to the party that the lizard folks have started amassing a large array of weaponry, and that if the party is willing to go and "take care of the threat", that there will be gold in it for them.  The party asks where the lizardfolk hide out.  The governer describes a route out into the seas to the north of the city, down a small river, and into a cave.  He also outfits the party with a small boat.
+
+The party sets off immediately, and follows the first part of the route with few problems, but while traveling down the river, Varis notices smoke in the distance.  Upon drawing closer, it turns out to be a raiding ship, full of orcs and goblins, who are closing the distance very quickly.  At the fornt of the boat is an orc shaman who begins to chant, and summons a large tentacle monster to try and sink the party's ships.
+
+The party engages in long-range combat with the orcs, casting an illusion that cuases the orc boat to turn off course, and ultimately they manage to slip past.  The party finds the cave, and sails down the river into it.  After about half a mile, they spot a rickety jetty up ahead and pull up the boat...
+
+
 
