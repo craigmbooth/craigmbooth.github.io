@@ -29,7 +29,7 @@ The PDF itself is 386 pages of instruction.  Approximately the first half of it 
 
 After this introductory material, you get on to the meat of the course:  Compromising wireless networks.  To do this, you need to put together a home lab by purchasing a suitable wireless card (must be able to do packet injection) and a router.  Largely following the course recommendations, I got a [D-Link DIR-615 Wireless-N Router](https://smile.amazon.com/gp/product/B000QD7B6W/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), and a [Alfa AWUS036NHA - Wireless B/G/N USB Adaptor](https://smile.amazon.com/gp/product/B004Y6MIXS/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 
-<figure class="half">
+<figure class="full">
   <img src="{{ site.url }}/images/oswp/oswp_equipment.png" alt="Pictures of the required equipment"></a>
 </figure>
 
@@ -67,10 +67,12 @@ In the end, I got through the course in 3-4 weeks of just taking on a chapter wh
 
 Which is a really fun way to learn, since you’re immediately applying every concept that you pick up.  Overall, the learning process was very enjoyable for me, although I can’t speak to the quality of the videos since I didn’t watch any but the introductory one.
 
-<figure class="half">
+<figure class="full">
   <a href=""><img src="{{ site.url }}/images/oswp/oswp_screenshot.png" alt="Some terminals"></a>
 </figure>
-
+<figcaption>
+A few terminals working on a WEP password.
+</figcaption>
 
 ##  The Exam
 
