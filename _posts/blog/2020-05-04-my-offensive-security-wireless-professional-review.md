@@ -29,10 +29,13 @@ The PDF itself is 386 pages of instruction.  Approximately the first half of it 
 
 After this introductory material, you get on to the meat of the course:  Compromising wireless networks.  To do this, you need to put together a home lab by purchasing a suitable wireless card (must be able to do packet injection) and a router.  Largely following the course recommendations, I got a [D-Link DIR-615 Wireless-N Router](https://smile.amazon.com/gp/product/B000QD7B6W/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), and a [Alfa AWUS036NHA - Wireless B/G/N USB Adaptor](https://smile.amazon.com/gp/product/B004Y6MIXS/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 
-
+<figure class="half">
+  <img src="{{ site.url }}/images/oswp/oswp_equipment.png" alt="Pictures of the required equipment"></a>
+</figure>
 
 The course is designed to be taught using [Backtrack linux](https://www.backtrack-linux.org/)  I decided not to go through the hassle of installing Backtrack linux anywhere, and instead just did the course on my Ubuntu 18 laptop.  I had very little issue with this, a basic apt-get install of aircrack-ng worked for everything in the course.  The only thing I struggled with was getting the WiFi card into monitor mode, since so many pieces of software had their fingers in that part of the pie.  I ended up having to kill enough daemons and remember (and sometimes repeat) enough commands that I just wrote functions to do it for me.  Maybe these will be useful for somebody one day:
 
+{% highlight bash %}
 monitor-mode-on () {
     local channel=$1
     local adapter="wlx00c0ca9876b6"
@@ -54,15 +57,19 @@ monitor-mode-off () {
     sudo service network-manager start
 }
 
+{% endhighlight %}
+
 In the end, I got through the course in 3-4 weeks of just taking on a chapter when I felt like I had spare time in the evening.  Each chapter has the same structure:
 
-Introduce a concept
-Get you to set up your lab so you can practice it.
+   * Introduce a concept
+   * Get you to set up your lab network in a vulnerable configuration
+   * Walk you through getting the Wifi key for a network in that configuration
 
 Which is a really fun way to learn, since you’re immediately applying every concept that you pick up.  Overall, the learning process was very enjoyable for me, although I can’t speak to the quality of the videos since I didn’t watch any but the introductory one.
 
-
-Random screeenshot.   5 points to whoever can tell me what I’m doing in these 4 terminals
+<figure class="half">
+  <a href=""><img src="{{ site.url }}/images/oswp/oswp_screenshot.png" alt="Some terminals"></a>
+</figure>
 
 
 ##  The Exam
@@ -73,16 +80,20 @@ As for the difficulty of the exam: if you have done the exercises in the PDF, yo
 
 That said, to prepare myself I did a bit of exam-specific work.  It is public knowledge that the exam is “crack some Wifi networks”.  With that in mind, I spent 20 minutes the night before the exam just writing out a flowchart of what I could try, given the skils I learned in the course:  
 
-IF it’s a WPA2 network, do X
-ELSE IF it’s a WEP network and there clients connected to it, do Y
-Else if there are no clients, do Z...
-etc. etc.
+   * IF it’s a WPA2 network, do X
+   * ELSE IF it’s a WEP network and there clients connected to it, do Y
+   * Else if there are no clients, do Z...
+   * etc. etc.
 
 When I started my exam I first looked at traffic to all three networks, identified which paths I would be taking down the flowchart, and so had a pretty good plan of attack put together in the first few minutes.
 
 At that point, it was just executing on things I knew.  I tripped up a couple of times due to inaccurate typing, but got the last password within 50 minutes of starting.  I then spent another hour writing the report, and re-cracking one of the networks just to make sure I got all the juciest screenshots. 
 
-AAAAAAAAAAAA
+A few days later, I got back the "We are happy to inform you that you have successfully completed..." email.
+
+<figure class="half">
+  <a href="https://www.youracclaim.com/badges/1ec73a2f-164b-47e1-b039-a1529929f6e4"><img src="{{ site.url }}/images/oswp/oswp_logo.png" alt="Link to certification"></a>
+</figure>
 
 ## Concluding Thoughts
 
