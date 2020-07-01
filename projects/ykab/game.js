@@ -45,11 +45,19 @@ function update_visible() {
     */
 
     // Blank out the map and make the player's current position visible
-    for (i=0; i<SIZE; i++) {
-        for (j=0; j<SIZE; j++) {
+    for (i=1; i<SIZE-1; i++) {
+        for (j=1; j<SIZE-1; j++) {
             map.visible[i][j] = TILE_NOT_VISIBLE;
         }
     }
+
+    for (i=0; i<SIZE; i++) {
+        map.visible[0][i] = TILE_VISIBLE;
+        map.visible[SIZE-1][i] = TILE_VISIBLE;
+        map.visible[i][0] = TILE_VISIBLE;
+        map.visible[i][SIZE-1] = TILE_VISIBLE;        
+    }
+    
     map.visible[player.x][player.y] = TILE_VISIBLE
 
     // Fire beams left and right, marking things visible until we hit a wall
