@@ -9,6 +9,16 @@ image:
 This page contains links to a bunch of cool projects I've built, largely related to data analysis and visualization.  I hope you like them!
 
 <div class="row">
+  <div class="col-md-4">
+    <a href="ykab"><img src="images/ykab.png" alt="Cover for YKAB project"></a>
+  </div>
+  <div class="col-md-8">
+    <h4>You Killed a Bear</h4>
+    <p>YKAB is a simple maze-escape game written with the micro-framework <a href="https://24a2.routley.io/">24a2</a>.  This is an exercise in seeing if I could create an entertaining game on a simple grid of 24 x 24 pixels.</p>
+  </div>
+</div>
+
+<div class="row">
   <div class="col-md-8">
     <h4>HP7475A Pen Plotter Art</h4>
     <p>I figured out how to drive an old-school pen plotter from the 1980s and used ot to make various pieces of algorithmic art.</p> 
