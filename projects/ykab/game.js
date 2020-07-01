@@ -144,7 +144,7 @@ function update(game) {
     if (player.blood_loss < 750) {
         stage = "Stg. 1 (Pale skin)"
     } else if (player.blood_loss < 1500) {
-        stage = "Stg. 2 (Slight anxiety, restless)"
+        stage = "Stg. 2 (Anxiety, restless)"
     } else if (player.blood_loss < 2000) {
         stage = "Stg. 3 (Confused mental status)"
     } else {
