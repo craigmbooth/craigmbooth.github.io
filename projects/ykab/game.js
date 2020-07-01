@@ -162,7 +162,7 @@ function update(game) {
 
 function onKeyPress(direction) {
 
-    player.blood_loss += 10;
+    player.blood_loss += 12;
     
     if (direction == Direction.Up) {
         if (map.maze[player.x][player.y-1] === 1) {
@@ -189,11 +189,13 @@ function onKeyPress(direction) {
 
 
 let config = {
-  create: create,
-  update: update,
-  onKeyPress: onKeyPress,
+    create: create,
+    update: update,
+    onKeyPress: onKeyPress,
+    containerId: "thegame"
 };
 
-
-let game = new Game(config);
-game.run();
+window.onload = function(){
+    let game = new Game(config);
+    game.run();
+}
