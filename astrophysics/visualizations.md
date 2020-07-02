@@ -5,7 +5,7 @@ image:
   feature: astrophysics_header.jpg
 ---
 
-I have generated a number of nice structure formation movies from our simulations. This page contains all the structure formation movies I generated for the OWLS project (Schaye et al. 2010).  My other movies, inluding other types of OWLS movies and older visualizations are on my <a href="/astrophysics/other-movies">Other Movies</a> page. Feel free to use any of these movies in talks and the like.  If you see something in one of the movies that raises any questions, or would like any additional information then feel free to email me.
+I have generated a number of nice structure formation movies from our simulations. This page contains all the structure formation movies I generated for the OWLS project (Schaye et al. 2010).  My other movies, inluding other types of OWLS movies and older visualizations are on my <a href="/astrophysics/other-movies/">Other Movies</a> page. Feel free to use any of these movies in talks and the like.  If you see something in one of the movies that raises any questions, or would like any additional information then feel free to email me.
 
 If you have issues with playback, I recommend downloading <a href="https://www.videolan.org/vlc/index.html">VLC</a> (Mac, Windows, Linux) or <a href="https://perian.org/">Perian</a> (Mac).
 
@@ -45,7 +45,7 @@ A slice through the 25Mpc<i>/h</i> OWLS simulation.  The slice is 1Mpc/<i>h</i> 
       <li><a href="25mpc-projection-mett.avi">Metallicity</a></li>
     </ul>
     A video combining all projections is here:
-    <a href=""><img src="25mpc-projection-combined.png" alt="Image from cosmological simulation"></a>
+    <a href="/astrophysics/visualizations/25mpc-projection-combined.avi"><img src="25mpc-projection-combined.png" alt="Image from cosmological simulation"></a>
   </div>
 </div>
 
@@ -99,6 +99,6 @@ These movies correspond to a region with a comoving size of 3Mpc/h. By redshift 
       <li><a href="100mpc-projection-mett.avi">Metallicity</a></li>
     </ul>
     A video combining all projections is here:
-    <a href=""><img src="100mpc-projection-combined.png" alt="Image from cosmological simulation"></a>
+    <a href="/astrophysics/visualizations/100mpc-projection-combined.avi"><img src="100mpc-projection-combined.png" alt="Image from cosmological simulation"></a>
   </div>
 </div>

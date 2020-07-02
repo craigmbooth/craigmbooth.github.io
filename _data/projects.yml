@@ -2,13 +2,13 @@
   description: YKAB is a simple maze-escape game written with the micro-framework <a href="https://24a2.routley.io/">24a2</a>.  This is an exercise in seeing if I could create an entertaining game on a simple grid of 24 x 24 pixels.
   img: images/ykab.png
   img_alt: Cover for YKAB project
-  relative_url: ykab
+  relative_url: ykab/
 
 - title: HP7475A Pen Plotter Art (2019)
   description: I figured out how to drive an old-school pen plotter from the 1980s and used to make various pieces of algorithmic art.
   img: images/plotter.jpg
   img_alt: Cover for pen plotter project
-  relative_url: plotter
+  relative_url: plotter/
 
 - title: NFL Statsalyzer (2018)
   description: I combined tables of NFL data with Google's chart API to produce a Gapminder style interactive visualization of how every team in the NFL has performed since the year 2000.
@@ -26,7 +26,7 @@
   description: I used a web spider to crawl stack overflow for every tagged question. I then used this data to construct a huge graph showing how all of the different tags are related. In essence forming a topographical map of how all of computing is interrelated.
   img: images/mapofsoftware.png
   img_alt: Cover for map project
-  relative_url: mapping-programming-languages
+  relative_url: mapping-programming-languages/
 
 - title: Measurement of the Hubble Parameter (2013)
   description: I did a literature survey of measurements of the Hubble constant (the number that describes how fast the Universe is expanding) and plotted the results on an interactive graph to show how our understanding of the Universe has evolved.
