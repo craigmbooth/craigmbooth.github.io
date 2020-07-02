@@ -9,4 +9,4 @@ image:
 
 Thank you for getting in contact.  Your message sent successfully and I will reply soon.
 
-Maybe you now want to [head back to the frontpage](/), or [check out the blog](/blog)?
+Maybe you now want to [head back to the frontpage](/), or [check out the blog](/blog/)?

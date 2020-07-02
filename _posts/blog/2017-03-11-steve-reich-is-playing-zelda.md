@@ -41,10 +41,10 @@ I'd feel a real sense of accomplishment.  Here is that tune:
 
 So, a few hours later I don't really know why I made this, but here's
 a rendition of the Zelda Puzzle tune in the form of Steve Reich's
-Piano Phase, <a href="/projects/reich">Zelda Phase</a>:
+Piano Phase, <a href="/projects/reich/">Zelda Phase</a>:
 
 <center>
-<a href="/projects/reich">
+<a href="/projects/reich/">
   <img src="/images/blog/reich/sr.png" alt="Zelda Shift">
 </a>
 </center>
