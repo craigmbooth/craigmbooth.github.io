@@ -68,7 +68,7 @@ In the end, I got through the course in 3-4 weeks of just taking on a chapter wh
 Which is a really fun way to learn, since you’re immediately applying every concept that you pick up.  Overall, the learning process was very enjoyable for me, although I can’t speak to the quality of the videos since I didn’t watch any but the introductory one.
 
 <figure class="full">
-  <a href=""><img src="{{ site.url }}/images/oswp/oswp_screenshot.png" alt="Some terminals"></a>
+  <img src="{{ site.url }}/images/oswp/oswp_screenshot.png" alt="Some terminals">
 </figure>
 <figcaption>
 A few terminals working on a WEP password.
