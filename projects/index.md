@@ -1,92 +1,21 @@
 ---
 layout: page
 title: Projects
-excerpt: "Py Projectse"
+excerpt: "Py Projects"
 image:
   feature: headers/projects_header.jpg
 ---
 
 This page contains links to a bunch of cool projects I've built, largely related to data analysis and visualization.  I hope you like them!
 
+{% for project in site.data.projects %}
 <div class="row">
   <div class="col-md-4">
-    <a href="ykab/"><img src="images/ykab.png" alt="Cover for YKAB project"></a>
+    <a href="{{project.relative_url}}"><img src="{{project.img}}" alt="{{project.img_alt}}"></a>
   </div>
   <div class="col-md-8">
-    <h4>You Killed a Bear</h4>
-    <p>YKAB is a simple maze-escape game written with the micro-framework <a href="https://24a2.routley.io/">24a2</a>.  This is an exercise in seeing if I could create an entertaining game on a simple grid of 24 x 24 pixels.</p>
+    <h4>{{project.title}}</h4>
+    <p>{{project.description}}</p>
   </div>
 </div>
-
-<div class="row">
-  <div class="col-md-8">
-    <h4>HP7475A Pen Plotter Art</h4>
-    <p>I figured out how to drive an old-school pen plotter from the 1980s and used ot to make various pieces of algorithmic art.</p> 
-  </div>
-  <div class="col-md-4">
-    <a href="plotter/"><img src="images/plotter.jpg" alt="Cover for pen plotter project"></a>
-  </div>  
-</div>
-
-
-<div class="row">
-  <div class="col-md-4">
-    <a href="interactive-nfl-stats/"><img src="images/statsalyzer.png" alt="Cover for NFL project"></a>
-  </div>
-  <div class="col-md-8">
-    <h4>NFL Statsalyzer</h4>
-    <p>I combined tables of NFL data with Google's chart API to produce a Gapminder style interactive visualization of how every team in the NFL has performed since the year 2000.</p>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-md-8">
-    <h4>Map of Software</h4>
-    <p>I used a web spider to crawl stack overflow for every tagged question. I then used this data to construct a huge graph showing how all of the different tags are related. In essence forming a topographical map of how all of computing is interrelated. I then put this map into a zoomable, Google maps style interface.</p>
-  </div>
-  <div class="col-md-4">
-    <a href="mapping-programming-languages/"><img src="images/mapofsoftware.png" alt="Cover for map project"></a>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-md-4">
-    <a href="hubble/"><img src="images/hubble.png" alt="Cover for hubble project"></a>
-  </div>
-  <div class="col-md-8">
-    <h4>Measurement of the Hubble Parameter</h4>
-    <p>I did a literature survey of measurements of the Hubble constant (the number that describes how fast the Universe is expanding) and plotted the results on an interactive graph to show how our understanding of the Universe has evolved.</p>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-md-8">
-    <h4>Nix Dependency Visualizer</h4>
-    <p>I wrote a tool for software developers who use the <a href="https://nixos.org/nix">Nix</a> package manager, <i>nix-visualize</i>.  This tool looks at your software and draws a tree of its dependencies, its dependencies dependencies, its dependencies dependencies dependencies, and so on, all the way down to the operating system.</p>
-  </div>
-  <div class="col-md-4">
-    <a href="https://github.com/craigmbooth/nix-dependency-visualizer"><img src="images/nv.png" alt="Cover for Nix Visualizer project"></a>
-  </div>
-</div>
-
-<!--
-<div class="row">
-  <div class="col-md-4">
-    <a href="hubble/"><img src="images/hubble.png"></a>
-  </div>
-  <div class="col-md-8">
-    <h4>The Height and Weight of Every NFL Player, Visualized</h4>
-    <p>I used a web spider to crawl stack overflow for every tagged question. I then used this data to construct a huge graph showing how all of the different tags are related. In essence forming a topographical map of how all of computing is interrelated. I then put this map into a zoomable, Google maps style interface.</p>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-md-8">
-    <h4>Household Infrared Photography</h4>
-    <p>I used a web spider to crawl stack overflow for every tagged question. I then used this data to construct a huge graph showing how all of the different tags are related. In essence forming a topographical map of how all of computing is interrelated. I then put this map into a zoomable, Google maps style interface.</p>
-  </div>
-  <div class="col-md-4">
-    <a href="hubble/"><img src="images/hubble.png"></a>
-  </div>
-</div>
--->
+{% endfor %}
