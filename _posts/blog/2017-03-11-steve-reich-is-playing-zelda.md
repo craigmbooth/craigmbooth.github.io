@@ -4,7 +4,7 @@ title: "Steve Reich Is Playing Zelda"
 modified:
 categories: blog
 excerpt: "My first minimalist classical music / 80's computer game mashup"
-tags: [data, nfl]
+tags: [music]
 noshare: false
 nocomments: false
 image:
