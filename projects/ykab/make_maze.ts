@@ -120,7 +120,7 @@ function make_maze(): Array<Array<Array<number>>|Array<number>> {
     let visited = create_grid_with_cells(SIZE, SIZE, TILE_NOT_VISITED);
 
     let start: Array<number> = [2+Math.floor(Math.random() * SIZE-3),
-                                2+Math.floor(Math.random() * SIZE-2)];
+                                2+Math.floor(Math.random() * SIZE-3)];
 
     grid[start[0]][start[1]] = TILE_EMPTY;
     let frontier: Array<Array<number>> = get_frontier_for_cell(grid, start);

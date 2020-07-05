@@ -93,7 +93,7 @@ function make_maze() {
     var visible = create_grid_with_cells(SIZE, SIZE, TILE_VISIBLE);
     var visited = create_grid_with_cells(SIZE, SIZE, TILE_NOT_VISITED);
     var start = [2 + Math.floor(Math.random() * SIZE - 3),
-        2 + Math.floor(Math.random() * SIZE - 2)];
+        2 + Math.floor(Math.random() * SIZE - 3)];
     grid[start[0]][start[1]] = TILE_EMPTY;
     var frontier = get_frontier_for_cell(grid, start);
     var end = [-1, -1];
