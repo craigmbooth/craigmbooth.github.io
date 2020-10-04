@@ -1,8 +1,6 @@
 ---
 layout: page
 title: Break Baker's Apprentice Challenge
-image:
-  feature: sql_header.jpg
 ---
 
 ## Intro
