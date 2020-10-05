@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Break Baker's Apprentice Challenge
+title: Bread Baker's Apprentice Challenge
 ---
 
 ## Intro
 
-The [Bread Baker's Apprentice](https://pinchmysalt.com/the-bba-challenge/) challenge (BBA Challenge) is a challenge to bake all of the breads from the book Bread Baker's Apprentice, alphabetically.
+The [Bread Baker's Apprentice](https://pinchmysalt.com/the-bba-challenge/) challenge (BBA Challenge) is a challenge to bake all of the breads from the book Bread Baker's Apprentice, alphabetically from Anadama through whole-wheat.
 
 That's what's happening here!
 
