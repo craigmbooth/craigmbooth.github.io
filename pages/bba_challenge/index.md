@@ -9,6 +9,18 @@ The [Bread Baker's Apprentice](https://pinchmysalt.com/the-bba-challenge/) chall
 
 That's what's happening here!
 
+## #3: Bagels
+
+<figure class="third">
+  <a href="/images/pages/bba_challenge/bagels1.jpg"><img src="/images/pages/bba_challenge/bagels1.jpg" alt="Bagels"></a>
+  <a href="/images/pages/bba_challenge/bagels2.jpg"><img src="/images/pages/bba_challenge/bagels2.jpg" alt="Bagels"></a>
+  <a href="/images/pages/bba_challenge/bagels3.jpg"><img src="/images/pages/bba_challenge/bagels3.jpg" alt="Bagels"></a>
+</figure>
+
+I was pretty excited to try this one, since I love to eat a good bagel, and they have such a different texture from most breads.  Very many things in this bake I had never done before, from using high-gluten flour and a low-moisture dough, to boiling each bagel brielfy before baking it.
+
+Overall they came out a little more flat than commercial bagles, but the taste and texture are definitely there.  I made bagels!
+
 ## #2: Artos:  Greek Celebration Bread
 
 <figure class="third">
