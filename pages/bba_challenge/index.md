@@ -21,6 +21,20 @@ I was pretty excited to try this one, since I love to eat a good bagel, and they
 
 Overall they came out a little more flat than commercial bagles, but the taste and texture are definitely there.  I made bagels!
 
+## #5: Challah
+
+<figure class="third">
+  <a href="/images/pages/bba_challenge/challah1.jpg"><img src="/images/pages/bba_challenge/challah1.jpg" alt="Challah bread"></a>
+  <a href="/images/pages/bba_challenge/challah2.jpg"><img src="/images/pages/bba_challenge/challah2.jpg" alt="Challah bread"></a>
+  <a href="/images/pages/bba_challenge/challah3.jpg"><img src="/images/pages/bba_challenge/challah3.jpg" alt="Challah bread"></a>
+</figure>
+
+I was a bit intimidated starting this one.  Challah bread is not something I have ever eaten, and I assumed the braiding would be tough to get right.  However, after following the instructions, I was delighted when an airy, sweet, pretty looking bread dropped out the other side.
+
+## #4: Casatiello
+
+## #3: Brioche
+
 ## #2: Artos:  Greek Celebration Bread
 
 <figure class="third">
