@@ -21,6 +21,14 @@ I was a bit intimidated starting this one.  Challah bread is not something I hav
 
 ## #5: Casatiello
 
+<figure class="third">
+  <a href="/images/pages/bba_challenge/casatiello1.jpg"><img src="/images/pages/bba_challenge/casatiello1.jpg" alt="Casatiello bread"></a>
+  <a href="/images/pages/bba_challenge/casatiello2.jpg"><img src="/images/pages/bba_challenge/casatiello2.jpg" alt="Casatiello bread"></a>
+  <a href="/images/pages/bba_challenge/casatiello3.jpg"><img src="/images/pages/bba_challenge/casatiello3.jpg" alt="Casatiello bread"></a>
+</figure>
+
+I was very excited to start this.  It is after all, cured meat and cheese in a bread loaf.  Unfortunately I ended up not liking this one too much.  The salami ended up too crispy for my taste, I would have liked more cheese, and the crust has more of a caky/pastry texture than I expected, likely because of how enriched the dough was with butter and eggs.  Overall I think I baked it pretty well, just ended up not being to my taste.  Meat and cheese in a leaner dough might suit me better and be something I should investigate.
+
 ## #4: Brioche
 
 ## #3: Bagels
