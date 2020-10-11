@@ -27,9 +27,21 @@ I was a bit intimidated starting this one.  Challah bread is not something I hav
   <a href="/images/pages/bba_challenge/casatiello3.jpg"><img src="/images/pages/bba_challenge/casatiello3.jpg" alt="Casatiello bread"></a>
 </figure>
 
-I was very excited to start this.  It is after all, cured meat and cheese in a bread loaf.  Unfortunately I ended up not liking this one too much.  The salami ended up too crispy for my taste, I would have liked more cheese, and the crust has more of a caky/pastry texture than I expected, likely because of how enriched the dough was with butter and eggs.  Overall I think I baked it pretty well, just ended up not being to my taste.  Meat and cheese in a leaner dough might suit me better and be something I should investigate.
+I was very excited to start this.  It is after all, cured meat and cheese in a bread loaf.  Unfortunately I ended up not liking this one too much.  The salami ended up too crispy for my taste, I would have liked more cheese, and the dough is very similar to brioche (very similar recipes, although the casatiello is lighter on the butter).  Overall I think I baked it pretty well, just ended up not being to my taste.  Meat and cheese in a leaner dough might suit me better and be something I should investigate.
 
 ## #4: Brioche
+
+<figure class="third">
+  <a href="/images/pages/bba_challenge/brioche1.jpg"><img src="/images/pages/bba_challenge/brioche1.jpg" alt="Brioche bread"></a>
+  <a href="/images/pages/bba_challenge/brioche2.jpg"><img src="/images/pages/bba_challenge/brioche2.jpg" alt="Brioche bread"></a>
+  <a href="/images/pages/bba_challenge/brioche3.jpg"><img src="/images/pages/bba_challenge/brioche3.jpg" alt="Brioche bread"></a>
+</figure>
+
+I'll be honest, I didn't know the first thing about brioche before baking it.  I did the "rich-man's brioche", which has 88% as much butter as it does flour, which is just insane.
+
+Overall, the dough tasted nice, although I couldn't stop thinking about the amount of butter in there.  Unfortunately, I made a mistake somewhere, and instead of having nice little "heads", the mini-brioches all fell over.  A dough that was too slack, over proofed, or just too much in each container, I'll never know.
+
+Overall, not a giant fan, but I had fun making it.
 
 ## #3: Bagels
 
