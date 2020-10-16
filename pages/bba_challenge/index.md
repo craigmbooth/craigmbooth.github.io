@@ -9,6 +9,18 @@ The [Bread Baker's Apprentice](https://pinchmysalt.com/the-bba-challenge/) chall
 
 That's what's happening here!
 
+## #7: Ciabatta
+
+<figure class="third">
+  <a href="/images/pages/bba_challenge/ciabatta1.jpg"><img src="/images/pages/bba_challenge/ciabatta1.jpg" alt="Ciabatta bread"></a>
+  <a href="/images/pages/bba_challenge/ciabatta2.jpg"><img src="/images/pages/bba_challenge/ciabatta2.jpg" alt="Ciabatta bread"></a>
+  <a href="/images/pages/bba_challenge/ciabatta3.jpg"><img src="/images/pages/bba_challenge/ciabatta3.jpg" alt="Ciabatta bread"></a>
+</figure>
+
+Finally a bake that feels a bit familiar to me, ciabatta is a wet dough with stretch-and-folds, much like the sourdough I learned from the Tartine book.
+
+Overall, everything seemed to go to plan, and the ciabatta that dropped out look nice, golden and rustic.  A little disappointing that I didn't get the airy, bubble-filled crumb I was after (maybe because I wasn't doing a great job of steaming up the oven, maybe I handled them too violently), but it's a great tasting bread.
+
 ## #6: Challah
 
 <figure class="third">
