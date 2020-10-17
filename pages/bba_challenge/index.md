@@ -9,6 +9,18 @@ The [Bread Baker's Apprentice](https://pinchmysalt.com/the-bba-challenge/) chall
 
 That's what's happening here!
 
+## #9:  Cinnamon Raisin Walnut Bread
+
+<figure class="third">
+  <a href="/images/pages/bba_challenge/cinnamonbread1.jpg"><img src="/images/pages/bba_challenge/cinnamonbread1.jpg" alt="Cinnamon bread"></a>
+  <a href="/images/pages/bba_challenge/cinnamonbread2.jpg"><img src="/images/pages/bba_challenge/cinnamonbread2.jpg" alt="Cinnamon bread"></a>
+  <a href="/images/pages/bba_challenge/cinnamonbread3.jpg"><img src="/images/pages/bba_challenge/cinnamonbread3.jpg" alt="Cinnamon bread"></a>
+</figure>
+
+This one was the best surprise of the book so far.  I went big with the optional additions of cinnamon sugar (with a swirl inside the bread and cinnamon sugar coating) and this was the most delicious bread I have eaten in a long while.  5/5 would make again.
+
+## #8: Cinnamon Buns
+
 ## #7: Ciabatta
 
 <figure class="third">
