@@ -9,6 +9,16 @@ The [Bread Baker's Apprentice](https://pinchmysalt.com/the-bba-challenge/) chall
 
 That's what's happening here!
 
+## #10: Corn Bread
+
+<figure class="third">
+  <a href="/images/pages/bba_challenge/cornbread1.jpg"><img src="/images/pages/bba_challenge/cornbread1.jpg" alt="Corn bread"></a>
+  <a href="/images/pages/bba_challenge/cornbread2.jpg"><img src="/images/pages/bba_challenge/cornbread2.jpg" alt="Corn bread"></a>
+  <a href="/images/pages/bba_challenge/cornbread3.jpg"><img src="/images/pages/bba_challenge/cornbread3.jpg" alt="Corn bread"></a>
+</figure>
+
+Another pleasant surprise here, never been the biggest fan of corn bread, but this came out super moist, super tasty and also is incredibly fast to make.  This quick bread being in a book that's otherwise about yested breads is maybe a bit surprising but, still, I enjoyed making it.
+
 ## #9:  Cinnamon Raisin Walnut Bread
 
 <figure class="third">
