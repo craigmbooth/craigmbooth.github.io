@@ -9,7 +9,7 @@ image:
 
 ## Who Am I
 
-I spent a decade (2003-2013) working in theoretical astrophysics and high performance computing, as a PhD candidate in Durham, England and then as a postdoc in Leiden, The Netherlands and finally in Chicago. Somewhere along the way I realized that I loved the computing more than the actual astrophysics and made the decision to move into industry and work on new and exciting areas. I am currently a hands-on CTO, who loves building teams and building siftware. I work at [Packback](https://www.packback.co).  Some of my personal projects are available on my blog.
+I spent a decade (2003-2013) working in theoretical astrophysics and high performance computing, as a PhD candidate in Durham, England and then as a postdoc in Leiden, The Netherlands and finally in Chicago. Somewhere along the way I realized that I loved the computing more than the actual astrophysics and made the decision to move into industry and work on new and exciting areas. I am currently a hands-on CTO, who loves building teams and building software. I work at [Packback](https://www.packback.co).  Some of my personal projects are available on my blog.
 
 ## Work History
 

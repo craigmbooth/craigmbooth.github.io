@@ -31,6 +31,14 @@ This one was the best surprise of the book so far.  I went big with the optional
 
 ## #8: Cinnamon Buns
 
+<figure class="third">
+  <a href="/images/pages/bba_challenge/cinnamonbuns1.jpg"><img src="/images/pages/bba_challenge/cinnamonbuns1.jpg" alt="Cinnamon buns"></a>
+  <a href="/images/pages/bba_challenge/cinnamonbuns2.jpg"><img src="/images/pages/bba_challenge/cinnamonbuns2.jpg" alt="Cinnamon buns"></a>
+  <a href="/images/pages/bba_challenge/cinnamonbuns3.jpg"><img src="/images/pages/bba_challenge/cinnamonbuns3.jpg" alt="Cinnamon buns"></a>
+</figure>
+
+Enjoyed these greatly.  For some reason the recipe suggests making the icing drizzle with 4 cups of powdered sugar, which turned out to bee *hugely* too much, but the buns were absolutely delightful to eat.
+
 ## #7: Ciabatta
 
 <figure class="third">
