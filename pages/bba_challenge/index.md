@@ -9,6 +9,18 @@ The [Bread Baker's Apprentice](https://pinchmysalt.com/the-bba-challenge/) chall
 
 That's what's happening here!
 
+## #12: English Muffins
+
+<figure class="third">
+  <a href="/images/pages/bba_challenge/englishmuffins1.jpg"><img src="/images/pages/bba_challenge/englishmuffins1.jpg" alt="English muffins"></a>
+  <a href="/images/pages/bba_challenge/englishmuffins2.jpg"><img src="/images/pages/bba_challenge/englishmuffins2.jpg" alt="English muffins"></a>
+  <a href="/images/pages/bba_challenge/englishmuffins3.jpg"><img src="/images/pages/bba_challenge/englishmuffins3.jpg" alt="English muffins"></a>
+</figure>
+
+This may now be the best thing I have ever baked.  Perfectly soft in the middle with a bit ofstructure put there by the pan cooked top and bottom.  Absolutely delicious!
+
+## #11: Walnut-Cranberry Celebration Bread
+
 ## #10: Corn Bread
 
 <figure class="third">
