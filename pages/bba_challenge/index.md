@@ -9,6 +9,26 @@ The [Bread Baker's Apprentice](https://pinchmysalt.com/the-bba-challenge/) chall
 
 That's what's happening here!
 
+## #14: French Bread
+ 
+<figure class="third">
+  <a href="/images/pages/bba_challenge/frenchbread1.jpg"><img src="/images/pages/bba_challenge/frenchbread1.jpg" alt="french bread"></a>
+  <a href="/images/pages/bba_challenge/frenchbread2.jpg"><img src="/images/pages/bba_challenge/frenchbread2.jpg" alt="french bread"></a>
+  <a href="/images/pages/bba_challenge/frenchbread3.jpg"><img src="/images/pages/bba_challenge/frenchbread3.jpg" alt="french bread"></a>
+</figure>
+
+I'm fairly happy with this one.  It *tastes* like French bread.  However, I chose to split the dough into 4 baguettes, with I had done three and made them a bit thicker.  Rose just fine in the oven after scoring, I did a much better job with managing the steam this time.
+
+## #13: Foccacia
+
+<figure class="third">
+  <a href="/images/pages/bba_challenge/foccacia1.jpg"><img src="/images/pages/bba_challenge/foccacia1.jpg" alt="foccacia"></a>
+  <a href="/images/pages/bba_challenge/foccacia2.jpg"><img src="/images/pages/bba_challenge/foccacia2.jpg" alt="foccacia"></a>
+  <a href="/images/pages/bba_challenge/foccacia3.jpg"><img src="/images/pages/bba_challenge/foccacia3.jpg" alt="foccacia"></a>
+</figure>
+
+This is the bread that has gotten me the most compliments so far, and it was SO delicious.  Very high hydration dough, more oil than I ever expected to use.  100% delicious.  Probably my favorite so far.
+
 ## #12: English Muffins
 
 <figure class="third">
