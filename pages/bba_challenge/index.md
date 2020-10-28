@@ -9,6 +9,16 @@ The [Bread Baker's Apprentice](https://pinchmysalt.com/the-bba-challenge/) chall
 
 That's what's happening here!
 
+## #15: Kaiser Buns
+
+<figure class="third">
+  <a href="/images/pages/bba_challenge/kaiserbuns1.jpg"><img src="/images/pages/bba_challenge/kaiserbuns1.jpg" alt="Kaiser buns"></a>
+  <a href="/images/pages/bba_challenge/kaiserbuns2.jpg"><img src="/images/pages/bba_challenge/kaiserbuns2.jpg" alt="Kaiser buns"></a>
+  <a href="/images/pages/bba_challenge/kaiserbuns3.jpg"><img src="/images/pages/bba_challenge/kaiserbuns3.jpg" alt="Kaiser buns"></a>
+</figure>
+
+I'll be honest, despite these being light, airy, tasty bread buns I'm a bit disappointed.  I bought a kaiser roll cutter from Amazon specifically so that I could make the characteristic spiral pattern on top of these, and apparently I just didn't press hard enough for the spiral to stay in (there are the merest hints in the photos).  Ah well, another delicious bread!
+
 ## #14: French Bread
  
 <figure class="third">
