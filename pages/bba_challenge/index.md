@@ -9,6 +9,17 @@ The [Bread Baker's Apprentice](https://pinchmysalt.com/the-bba-challenge/) chall
 
 That's what's happening here!
 
+## #16: Lavash Crackers
+
+<figure class="third">
+  <a href="/images/pages/bba_challenge/lavashcrackers1.jpg"><img src="/images/pages/bba_challenge/lavashcrackers1.jpg" alt="Lavash crackers"></a>
+  <a href="/images/pages/bba_challenge/lavashcrackers2.jpg"><img src="/images/pages/bba_challenge/lavashcrackers2.jpg" alt="Lavash crackers"></a>
+  <a href="/images/pages/bba_challenge/lavashcrackers3.jpg"><img src="/images/pages/bba_challenge/lavashcrackers3.jpg" alt="Lavash crackers"></a>
+</figure>
+
+Simple, fast and fun.  Quick dough, rolled flat, covered in spices and baked.  Tasted like those pita chips you can get in bags, and the recipe actually mentioned that this dough could be used for pita bread.
+
+
 ## #15: Kaiser Buns
 
 <figure class="third">
