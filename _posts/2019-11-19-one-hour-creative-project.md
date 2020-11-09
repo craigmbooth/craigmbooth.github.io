@@ -4,7 +4,8 @@ title: "Storytelling With Pantone Colors"
 excerpt: "Writing a story using only the names of Pantone colors"
 tags: ["experiments"]
 header:
-  overlay_color: "#0192CA"
+  overlay_image: /assets/images/blog/one_hour/pantone_header.png
+  overlay_filter: 0.7
 ---
 
 Over the past few months I have been trying to figure out how to make myself do more creative activities.  To thta end, I have spent a little while listening to podcasts about the creative process.  One in particular has stuck out to me so far, [Start With This](https://www.nightvalepresents.com/startwiththis), a podcast by two people whose writing I like very much.

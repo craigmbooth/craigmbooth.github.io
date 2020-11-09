@@ -4,7 +4,8 @@ title: "My Offensive Security Wireless Professional Certification Review"
 excerpt: "Hacking wifi for fun and no profit"
 tags: ["security"]
 header:
-  overlay_color: "#0192CA"
+  overlay_image: /assets/images/blog/oswp/oswp_screenshot.png
+  overlay_filter: 0.4
 ---
 
 The COVID-19 lockdowns have caused most everybody I know to pick up an odd hobby or two.  Myself?  I have been passing the time by brewing kombucha, learning how to sharpen knives on a whetstone, building picture frames, and honestly spending more time than I would like watching Netflix.
