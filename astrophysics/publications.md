@@ -52,7 +52,7 @@ My PhD thesis is available on this page and this list is available with citation
     <em>Simulations of the Growth of Black Holes and Feedback from Active Galactic Nuclei</em><br />
     Booth C. M., Schaye J.<br />
     The Monster's Fiery Breath: Feedback In Galaxies, Groups, And Clusters. AIP Conference Proceedings, Volume 1201, pp. 21-24 (2009).
-    [<a href="https://adsabs.harvard.edu/abs/2009AIPC.1201...21B">ADS</a>]
+    [<a href="https://ui.adsabs.harvard.edu/abs/2009AIPC.1201...21B/abstract">ADS</a>]
   </li>
 </ol>
 
