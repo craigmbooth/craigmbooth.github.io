@@ -1,9 +1,15 @@
 ---
-layout: page
-title: Astrophysics Talks
-image:
-  feature: astrophysics_header.jpg
+layout: single
+author_profile: false
+title: Talks
+excerpt: "List of invited talks I gave"
+sidebar:
+  - nav: astrophysics-sidebar
+header:
+  overlay_image: /assets/images/astrophysics/astrophysics_header.jpg
+  overlay_filter: 0.5
 ---
+
 
 Mainly for my own reference, this page contains a list of the colloquia I was invited to give during my time in astrophysics.
 

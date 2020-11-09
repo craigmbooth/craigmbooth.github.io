@@ -1,11 +1,18 @@
 ---
-layout: page
-title: Ph.D. Thesis
-image:
-  feature: astrophysics_header.jpg
+layout: single
+author_profile: false
+title: Ph. D Thesis
+excerpt: "Download my Ph. D Thesis"
+sidebar:
+  - nav: astrophysics-sidebar
+header:
+  overlay_image: /assets/images/astrophysics/astrophysics_header.jpg
+  overlay_filter: 0.5
 ---
 
-I submitted my PhD thesis at Durham University in January 2007. It is titled <em>"Simulating Molecular Cloud Regulated Star Formation in Galaxies"</em>. A scanned version is available from <a href="https://etheses.dur.ac.uk/2610/" data-proofer-ignore>Durham eTheses</a>, or sections can be retrieved individually from these links:
+<!-- n.b. the durham etheses server doesn't use SSL -->
+
+I submitted my PhD thesis at Durham University in January 2007. It is titled *"Simulating Molecular Cloud Regulated Star Formation in Galaxies"*. A scanned version is available from <a href="http://etheses.dur.ac.uk/2610/" data-proofer-ignore>Durham eTheses</a>, or sections can be retrieved individually from these links:
 
 ## Abstract
 
@@ -15,44 +22,53 @@ In chapter 4 this statistical model is applied to the simulation of isolated dis
 
 ## Chapters
 
-<div class="row">
-  <div class="col-xs-12 col-md-6">
-    <h5>Front Matter</h5>
-    <p>Title pages, lists of figures, captions and tables, and declaration.</p>
-    <a href="cmb_thesis_front.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"></i> Download Front Matter</span></a>
-  </div>
-  <div class="col-xs-12 col-md-6">
-    <h5>Chapter 1</h5>
-    <p>An overview of cosmological physics, and the physics of the interstellar medium as relevant to this thesis.</p>
-    <a href="cmb_thesis_chap1.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"> Download Chapter 1</i></span></a>
-  </div>
-  <div class="col-xs-12 col-md-6">
-    <h5>Chapter 2</h5>
-    <p>We introduce the techniques of numerical cosmology with a special focus on those used in this work.</p>
-    <a href="cmb_thesis_chap2.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"> Download Chapter 2</i></span></a>
-  </div>
-  <div class="col-xs-12 col-md-6">
-    <h5>Chapter 3</h5>
-    <p>In this chapter we develop a statistical model of the interstellar medium and demonstrate the model properties on small scales.</p>
-    <a href="cmb_thesis_chap3.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"> Download Chapter 3</i></span></a>
-  </div>
-  <div class="col-xs-12 col-md-6">
-    <h5>Chapter 4</h5>
-    <p>As a first test of the statistical model we show the formation of a disk collapsing out of a dark matter halo and compare its properties to observations</p>
-    <a href="cmb_thesis_chap4.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"></i> Download Chapter 4</span></a>
-  </div>
-  <div class="col-xs-12 col-md-6">
-    <h5>Chapter 5</h5>
-    <p>In this chapter we discuss the properties of colliding galaxies and how the interstellar medium evolves with time.</p>
-    <a href="cmb_thesis_chap5.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"></i> Download Chapter 5</span></a>
-  </div>
-  <div class="col-xs-12 col-md-6">
-    <h5>Chapter 6</h5>
-    <p>The model is applied to fully cosmological simulations and compared to other prescriptions in the literature, comparing favourably.</p>
-    <a href="cmb_thesis_chap6.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"></i> Download Chapter 6</span></a>
-  </div>
-  <div class="col-xs-12 col-md-6">
-    <h5>Bibliography</h5>
-    <p>List of references and acknowledgements</p>
-    <a href="cmb_thesis_biblio.pdf"><span class="front-box-icon"><i class="fa fa-paperclip"></i> Download Bibliography</span></a>
-  </div>
+### Front Matter
+
+Title pages, lists of figures, captions and tables, and declaration.
+
+[Download front matter](cmb_thesis_front.pdf)
+
+
+### Chapter 1
+
+An overview of cosmological physics, and the physics of the interstellar medium as relevant to this thesis.
+
+[Download chapter 1](cmb_thesis_chap1.pdf)
+
+### Chapter 2
+
+We introduce the techniques of numerical cosmology with a special focus on those used in this work.
+
+[Download chapter 2](cmb_thesis_chap2.pdf)
+    
+### Chapter 3
+
+In this chapter we develop a statistical model of the interstellar medium and demonstrate the model properties on small scales.
+
+[Download chapter 3](cmb_thesis_chap3.pdf)
+
+### Chapter 4
+
+As a first test of the statistical model we show the formation of a disk collapsing out of a dark matter halo and compare its properties to observations
+
+[Download chapter 4](cmb_thesis_chap4.pdf)
+
+### Chapter 5
+
+In this chapter we discuss the properties of colliding galaxies and how the interstellar medium evolves with time.
+
+[Download chapter 5](cmb_thesis_chap5.pdf)
+
+### Chapter 6
+
+The model is applied to fully cosmological simulations and compared to other prescriptions in the literature, comparing favourably.
+
+[Download chapter 6](cmb_thesis_chap6.pdf)
+
+### Bibliography
+
+List of references and acknowledgements
+
+[Download bibliography](cmb_thesis_biblio.pdf)
+
+

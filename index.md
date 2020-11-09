@@ -1,65 +1,55 @@
 ---
-layout: page
-title: Welcome!
-excerpt: "Craig M. Booth's Homepage"
-search_omit: true
-image:
-  feature: headers/main_header.png
+layout: splash
+author_profile: false
+header:
+  overlay_image: /assets/images/main_header.png
+  overlay_filter: 0.5
+  
+intro:
+  - excerpt: I am a software engineer, data scientist and expat currently living in Chicago, IL.  In the past I was an astrophysicist, working on high performance computing simulations of galaxy formation.  Currently, I am CTO at the EdTech company [Packback](https://packback.co), where I am part of a team that helps inspire the curiosity inside of every student.  I was previously director of engineering at [Narrative Science](https://www.narrativescience.com)
+  
+whoami:
+  - excerpt: A very brief sketch of who I am and what I do for a living
+
+feature_row:
+  - alt: ""
+    excerpt: "A very brief sketch of who I am and what I do for a living"
+    title: "About Me"
+    url: "about/"
+    btn_label: "Go to About Me"
+    btn_class: "btn--primary"
+  - alt: ""
+    title: "Projects"
+    excerpt: "I sometimes build data visualization projects, read about them here"
+    url: "projects/"
+    btn_label: "Go to Projects"
+    btn_class: "btn--primary"
+  - excerpt: "Feel free to get in contact with me, either on- or off- line."
+    title: "Contact Me"
+    url: "contact/"
+    btn_label: "Go to Contact Me"
+    btn_class: "btn--primary"
+  - excerpt: "In my earlier life I was an astrophysicist. Details of that career are here."
+    title: "Astrophysics"
+    url: "astrophysics/"
+    btn_label: "Go to Astrophysics"
+    btn_class: "btn--primary"
+  - excerpt: "The 30-second overview of what's going on with me now.  This is what I would tell you if you were a good friend I hadn't seen in years."
+    title: "Now"
+    url: "now/"
+    btn_label: "Go to Now"
+    btn_class: "btn--primary"
+  - excerpt: "I write things every now and again."
+    title: "Blog"
+    url: "blog/"
+    btn_label: "Go to Blog"
+    btn_class: "btn--primary"    
 ---
 
-I am a software engineer, data scientist and expat currently living in Chicago, IL.  In the past I was an astrophysicist, working on high performance computing simulations of galaxy formation.  Currently, I am CTO at the EdTech startup [Packback](https://packback.co), where I am part of a team that helps inspire the curiosity inside of every student.  I was previously director of engineering at [Narrative Science](https://www.narrativescience.com)
+{% include feature_row id="intro" type="center" %}
 
-<div class="row">
-  <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 front-box">
-    <h4>Who Am I?</h4>
-    <a href="{{ site.url }}/about/"><i class="fa fa-user fa-5x"></i></a>
-    <p>A very brief sketch of who I am and what I do for a living</p>
-  </div>
-  <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 front-box">
-    <h4>Contact Me</h4>
-    <a href="{{ site.url }}/contact/"><i class="fa fa-envelope-o fa-5x"></i></a>
-    <p>Feel free to get in contact with me, either on- or off- line.</p>
-  </div>
-  <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 front-box">
-    <h4>Projects</h4>
-    <a href="{{ site.url }}/projects/"><i class="fa fa-terminal fa-5x"></i></a>
-    <p>I sometimes build data visualization projects, read about them here</p>
-  </div>
-  <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 front-box">
-    <h4>Publications</h4>
-    <a href="{{ site.url }}/astrophysics/publications/"><span class="front-box-icon"><i class="fa fa-align-left fa-5x"></i></span></a>
-    <p>I used to publish on computational astrophysics, here is a list of my papers.</p>
-  </div>
-  <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 front-box">
-    <h4>Writing</h4>
-    <a href="{{ site.url }}/blog/"><span class="front-box-icon"><i class="fa fa-pencil fa-5x"></i></span></a>
-    <p>I like to write about data, software and life</p>
-  </div>
-  <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12 front-box">
-    <h4>Visualizations</h4>
-    <a href="{{ site.url }}/astrophysics/visualizations/"><i class="fa fa-video-camera fa-5x"></i></a>
-    <p>I like to make movies from my cosmological simulations.</p>
-  </div>
-</div>
+# Quick Links
 
-## My Most Recent Blog Posts
+{% include feature_row  %}
 
-<ul class="post-list">
-{% for post in site.posts limit:3 %}
-  <li>
-    <article>
-      <a href="{{ post.url }}">
-        {{ post.title }}
-        <span class="entry-date">
-          <time datetime="{{ post.date | date_to_xmlschema }}">
-            {{ post.date | date: "%B %d, %Y" }}
-          </time>
-        </span>
-        {% if post.excerpt %}
-          <span class="excerpt">
-            {{ post.excerpt }}
-          </span>{% endif %}      </a>
-    </article>
-  </li>
-{% endfor %}
-</ul>
+

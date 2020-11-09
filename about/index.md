@@ -1,13 +1,39 @@
 ---
-layout: page
+layout: single
+author_profile: false
 title: About Me
-excerpt: "About Me"
-modified: 2014-08-08T19:44:38.564948-04:00
-image:
-  feature: about_header.jpg
+excerpt: A quick sketch of who I am.
+header:
+  overlay_image: /assets/images/about/about_header.jpg
+  overlay_filter: 0.5
+gallery:
+  - url: /assets/images/about/craigams.jpg
+    image_path: /assets/images/about/craigams.jpg
+    alt: "foo"
+    title: "Amsterdam, Aug 2009"
+  - url: /assets/images/about/craigams2.jpg
+    image_path: /assets/images/about/craigams2.jpg
+    alt: "foo"
+    title: "Amsterdam, Jun 2011"
+  - url: /assets/images/about/craigny.jpg
+    image_path: /assets/images/about/craigny.jpg
+    alt: "foo"
+    title: "New York, Dec 2010"
+  - url: /assets/images/about/craigfl.jpg
+    image_path: /assets/images/about/craigfl.jpg
+    alt: "foo"
+    title: "Florida, Nov. 2012"
+  - url: /assets/images/about/craigjp.jpg
+    image_path: /assets/images/about/craigjp.jpg
+    alt: "foo"
+    title: "Tokyo, November 2016"
+  - url: /assets/images/about/craignot.jpg
+    image_path: /assets/images/about/craignot.jpg
+    alt: "foo"
+    title: "Nottingham, Sep. 1982"
 ---
 
-## Who Am I
+# Who I Am
 
 I spent a decade (2003-2013) working in theoretical astrophysics and high performance computing, as a PhD candidate in Durham, England and then as a postdoc in Leiden, The Netherlands and finally in Chicago. Somewhere along the way I realized that I loved the computing more than the actual astrophysics and made the decision to move into industry and work on new and exciting areas. I am currently a hands-on CTO, who loves building teams and building software. I work at [Packback](https://www.packback.co).  Some of my personal projects are available on my blog.
 
@@ -19,14 +45,6 @@ I spent a decade (2003-2013) working in theoretical astrophysics and high perfor
   4. I obtained my PhD on numerical modeling of the interstellar medium at Durham University (2003-2007) under the supervision of Tom Theuns. My PhD thesis is titled 'Simulating Molecular Cloud Regulated Star Formation in Galaxies'.
   5. My undergraduate education occured Nottingham University (1999-2003) where I achieved a 1st class MSci. (Hons) in Physics with Astronomy, and had a lot of fun.
 
-## What Do I Look Like?
+# What Do I Look Like?
 
-<figure class="third">
-  <a href="../images/craigjp.jpg"><img src="../images/craigjp-150x150.jpg" alt="Tokyo, 2016"></a>
-  <a href="../images/craigfl.jpg"><img src="../images/craigfl-150x150.jpg" alt="image"></a>
-  <a href="../images/craigny.jpg"><img src="../images/craigny-150x150.jpg" alt="image"></a>
-  <a href="../images/craigams2.jpg"><img src="../images/craigams2-150x150.jpg" alt="image"></a>
-  <a href="../images/craigams.jpg"><img src="../images/craigams-150x150.jpg" alt="image"></a>
-  <a href="../images/craignot.jpg"><img src="../images/craignot-150x150.jpg" alt="image"></a>
-<figcaption>From top-left to bottom-right: Tokyo, Nov 2016; Florida, Nov. 2012; New York, Dec. 2010; Amsterdam, Jun. 2011; Amsterdam, Aug. 2009; Nottingham Sep. 1982</figcaption>
-</figure>
+{% include gallery caption="Me, through the years." %}

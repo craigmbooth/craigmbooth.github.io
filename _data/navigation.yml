@@ -1,22 +1,27 @@
-# Site navigation links
+main:
+  - title: "Now"
+    url: now/
+  - title: "About"
+    url: about/
+  - title: "Projects"
+    url: projects/
+  - title: "Astrophysics"
+    url: astrophysics/
+  - title: "Contact"
+    url: contact/
+  - title: "Blog"
+    url: blog/
 
-- title: Home
-  url: /
 
-- title: Now
-  url: /now/
-
-- title: About
-  url: /about/
-
-- title: Projects
-  url: /projects/
-
-- title: Astrophysics
-  url: /astrophysics/
-
-- title: Contact
-  url: /contact/
-
-- title: Blog
-  url: /blog/
+astrophysics-sidebar:
+  - title: "Astrophysics"
+    url: "astrophysics/"
+    children:
+      - title: "Publications"
+        url: "astrophysics/publications/"
+      - title: "Ph. D Thesis"
+        url: "astrophysics/thesis/"
+      - title: "Simulation Visualizations"
+        url: "astrophysics/visualizations/"
+      - title: "Talks"
+        url: "astrophysics/talks/"
