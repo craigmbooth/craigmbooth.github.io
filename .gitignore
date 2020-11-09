@@ -1,12 +1,18 @@
 _site
+
 .DS_Store
 codekit-config.json
 node_modules
 .sass-cache
+
 .jekyll-metadata
+.jekyll-cache/*
+
+# Temporary files
 .\#*
 \#*\#
-bin/*
 
-# htmltest creates this
+
+# htmltest creates tmp and is downloaded to bin/
 tmp/
+bin/*

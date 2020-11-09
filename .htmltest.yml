@@ -1,0 +1,28 @@
+DirectoryPath: "_site"
+IgnoreURLs:
+- "linkedin.com"
+CacheExpires: "6h"
+# Enables checking the document type declaration.
+CheckDoctype: true
+
+# Enables checking <a tags.
+CheckAnchors: true
+
+# Enables checking <link tags.
+CheckLinks: true
+
+# Enables checking <img tags
+CheckImages: true
+
+# Enables checking <script tags.
+CheckScripts: true
+
+# Fails when encountering an http:// link. Useful to prevent mixed content errors when serving over HTTPS.
+EnforceHTTPS: false
+
+HTTPHeaders: 
+  User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36"
+  Referer: "https://craigmbooth.com"
+
+IgnoreURLs:
+  - "linkedin.com"
