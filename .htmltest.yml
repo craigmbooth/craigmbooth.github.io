@@ -1,7 +1,5 @@
-DirectoryPath: "_site"
-IgnoreURLs:
-- "linkedin.com"
 CacheExpires: "6h"
+
 # Enables checking the document type declaration.
 CheckDoctype: true
 
@@ -24,5 +22,13 @@ HTTPHeaders:
   User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36"
   Referer: "https://craigmbooth.com"
 
+# The first and last posts after being paginated contain empty links
+IgnoreInternalEmptyHash: true
+
 IgnoreURLs:
   - "linkedin.com"
+
+HTTPConcurrencyLimit: 4
+
+# Turns off x509 errors for self-signed certificates.
+IgnoreSSLVerify: true

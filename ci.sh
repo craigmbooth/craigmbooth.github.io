@@ -8,7 +8,7 @@ jekyll build
 curl https://htmltest.wjdp.uk | bash
 
 # skip-external:  We skip external link checking with htmltest because htmlproofer does it
-HTMLTEST_OPTIONS=""
+HTMLTEST_OPTIONS="-c .htmltest.yml"
 
 if [ -z "$1" ]; then
     echo "Scanning entire site"

@@ -7,7 +7,7 @@ header:
   overlay_color: "#0192CA"
 ---
 
-Recently I took the decision to shift my life onto a new track and accepted a job offer outside of astrophysics.  Given that leaving academia has long been a frequent source of conversation among the postdocs and PhD students I interact with on a daily basis I thought that --- inspired by Marcel Haas' article titled [Leaving the field, becoming an extronomer](https://marcelhaas.com/index.php/2018/03/30/leaving-the-field-becoming-an-extronomer/) --- I'd write a few words about why I'm leaving, and where I'm going.
+Recently I took the decision to shift my life onto a new track and accepted a job offer outside of astrophysics.  Given that leaving academia has long been a frequent source of conversation among the postdocs and PhD students I interact with on a daily basis I thought that --- inspired by Marcel Haas' article titled <a href="https://marcelhaas.com/index.php/2018/03/30/leaving-the-field-becoming-an-extronomer/" data-proofer-ignore>Leaving the field, becoming an extronomer</a> --- I'd write a few words about why I'm leaving, and where I'm going.
 
 Jessica Kirkpatrick has written a lot about the difference between academia and industry ([Astronomer to data scientist](https://womeninastronomy.blogspot.com/2013/01/datascience.html#more), [Astronomy vs. data science](https://womeninastronomy.blogspot.com/2013/01/astroVdatascience.html)) and I'd encourage anybody who is interested to read those articles.  They reflect my feelings about academia more coherently than I can myself.  Therefore, I'm only going to cover my personal circumstances and say that as much as I love doing science for a living, I do feel that I'll be just as fulfilled elsewhere.
 
