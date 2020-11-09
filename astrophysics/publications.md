@@ -33,7 +33,7 @@ My PhD thesis is available on this page and this list is available with citation
       {{pub.authors}}<br>
       {{pub.reference}}
       {% if pub.ads %}
-        [<a href="https://adsabs.harvard.edu/abs/{{pub.ads}}">ADS</a>]
+        [<a href="https://ui.adsabs.harvard.edu/abs/{{pub.ads}}/abstract">ADS</a>]
       {% endif %}
       {% if pub.arxiv %}
         [<a href="https://arxiv.org/abs/{{pub.arxiv}}">astro-ph</a>]
