@@ -159,7 +159,7 @@ gallery-paindecampagne:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/paindecampagne2.jpg
     title: The Epi and Fougasse, pre-baking.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/paindecampagne3.jpg
-    title: From left-to-right:  Fendu, Epi, Fougasse.
+    title: "From left-to-right:  Fendu, Epi, Fougasse"
 ---
 
 # Intro
