@@ -153,6 +153,13 @@ gallery-painancienne:
     title: Dough shaped into three baguettes
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/painancienne3.jpg
     title:  Completed Pain à l’Ancienne
+gallery-paindecampagne:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/paindecampagne1.jpg
+    title: A large amount of lean dough.
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/paindecampagne2.jpg
+    title: The Epi and Fougasse, pre-baking.
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/paindecampagne3.jpg
+    title: From left-to-right:  Fendu, Epi, Fougasse.
 ---
 
 # Intro
@@ -187,6 +194,12 @@ That's what's happening here!
 ## #22: Pain de Campagne (pp. 195-197)
 
 -->
+
+# #22: Pain de Campagne (pp. 195-197)
+
+{% include gallery id="gallery-paindecampagne" %}
+
+OK this was fun so I made an extra sized batch (enough for four loaves of bread).  It is pointed out that this is a good dough to test out shaping of bread, and so I decided to try out a few different shapes.  I didn't do a great job with my scissor cuts, but the others looked beautiful.  The breead itself was a satisfying white bread.
 
 # #21: Pain à l’Ancienne (pp. 191-194)
 
