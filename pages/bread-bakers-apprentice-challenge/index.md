@@ -184,16 +184,25 @@ That's what's happening here!
 
 # Breads
 <!--
-# #43: Roasted Onion and Asiago Miche (pp. 281-283)
-# #42: Potato, Cheddar, and Chive Torpedoes (pp. 278-280)
-# #41: Whole-Wheat Bread (pp. 270-272)
-# #40: White Breads (pp. 265-269)
-# #39: Vienna Bread (pp. 261-264)
-# #38: Tuscan Bread (pp. 259-260)
-# #37: Swedish Rye (Limpa) (pp. 257-258)
-# #36: Stollen (pp. 252-256)
-# #35: Sunflower Seed Rye (pp. 249-251)
-# #34: Pumpernickel Bread (pp. 246-248)
+
+Page numbers are fixed in this section
+
+# #43: Roasted Onion and Asiago Miche (pp. 310-313)
+# #45: Potato, Cheddar, and Chive Torpedoes (pp. 307-309)
+# #44: Beyond Ultimate Cinnamon and Sticky Buns (pp. 297-301)
+# #43: Sprouted Whole Wheat Onion and Poppy Seed Bialys (pp. 294-296)
+# #42: Sprouted Wheat and Brown Rice Bread (pp. 291-293)
+# #41: Whole-Wheat Bread (pp. 288-290)
+# #40: White Breads (pp. 284-287)
+# #39: Vienna Bread (pp. 280-283)
+# #38: Tuscan Bread (pp. 277-279)
+# #37: Swedish Rye (Limpa) (pp. 274-276)
+# #36: Stollen (pp. 268-273)
+# #35: Sunflower Seed Rye (pp. 264-267)
+# #34: Pumpernickel Bread (pp. 260-263)
+
+Page numbers are out of date in this section
+
 # #33: Poilane-Style Miche (pp. 242-245)
 # #32: 100% Sourdough Rye Bread (pp. 239-241)
 # #31: New York Deli Rye (pp. 236-238)
