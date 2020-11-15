@@ -167,7 +167,7 @@ gallery-panesiciliano:
     title: Dough shaped into two S-shaped loaves
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/panesiciliano3.jpg
     title: Completed pane Siciliano
-gallery-panesiciliano:
+gallery-pizzanapoletano:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pizzanapoletano1.jpg
     title: Ball of dough, pre-shaping
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pizzanapoletano2.jpg
