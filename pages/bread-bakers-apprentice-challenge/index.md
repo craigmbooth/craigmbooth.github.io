@@ -160,6 +160,13 @@ gallery-paindecampagne:
     title: The Epi and Fougasse, pre-baking.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/paindecampagne3.jpg
     title: "From left-to-right:  Fendu, Epi, Fougasse"
+gallery-paindecampagne:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/panesiciliano1.jpg
+    title: 
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/panesiciliano2.jpg
+    title: 
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/panesiciliano3.jpg
+    title: 
 ---
 
 # Intro
@@ -170,30 +177,35 @@ That's what's happening here!
 
 # Breads
 <!--
-## #43: Roasted Onion and Asiago Miche (pp. 281-283)
-## #42: Potato, Cheddar, and Chive Torpedoes (pp. 278-280)
-## #41: Whole-Wheat Bread (pp. 270-272)
-## #40: White Breads (pp. 265-269)
-## #39: Vienna Bread (pp. 261-264)
-## #38: Tuscan Bread (pp. 259-260)
-## #37: Swedish Rye (Limpa) (pp. 257-258)
-## #36: Stollen (pp. 252-256)
-## #35: Sunflower Seed Rye (pp. 249-251)
-## #34: Pumpernickel Bread (pp. 246-248)
-## #33: Poilane-Style Miche (pp. 242-245)
-## #32: 100% Sourdough Rye Bread (pp. 239-241)
-## #31: New York Deli Rye (pp. 236-238)
-## #30: Basic Sourdough Bread (pp. 233-235)
-## #29: Pugliese (pp.222-225)
-## #28: Potato Rosemary Bread (pp. 219-221)
-## #27: Portuguese Sweet Bread (pp. 215-218)
-## #26: Poolish Baguettes (pp. 213-214)
-## #25: Pizza Napoletano (pp. 207-212)
-## #24: Panettone (pp. 202-206)
-## #23: Pane Siciliano (pp. 198-201)
-## #22: Pain de Campagne (pp. 195-197)
+# #43: Roasted Onion and Asiago Miche (pp. 281-283)
+# #42: Potato, Cheddar, and Chive Torpedoes (pp. 278-280)
+# #41: Whole-Wheat Bread (pp. 270-272)
+# #40: White Breads (pp. 265-269)
+# #39: Vienna Bread (pp. 261-264)
+# #38: Tuscan Bread (pp. 259-260)
+# #37: Swedish Rye (Limpa) (pp. 257-258)
+# #36: Stollen (pp. 252-256)
+# #35: Sunflower Seed Rye (pp. 249-251)
+# #34: Pumpernickel Bread (pp. 246-248)
+# #33: Poilane-Style Miche (pp. 242-245)
+# #32: 100% Sourdough Rye Bread (pp. 239-241)
+# #31: New York Deli Rye (pp. 236-238)
+# #30: Basic Sourdough Bread (pp. 233-235)
+# #29: Pugliese (pp.222-225)
+# #28: Potato Rosemary Bread (pp. 219-221)
+# #27: Portuguese Sweet Bread (pp. 215-218)
+# #26: Poolish Baguettes (pp. 213-214)
+# #25: Pizza Napoletano (pp. 207-212)
+# #24: Panettone (pp. 202-206)
+
+
 
 -->
+# #23: Pane Siciliano (pp. 198-201)
+
+{% include gallery id="gallery-panesiciliano" %}
+
+Wasn't expecting much from this one, it's a curled up baguette.  That said, this maybe turned out to be one of the best breads I have baked!  The sesame seeds added a great toasty taste, and the loaf itself was big, airy and tasty.
 
 # #22: Pain de Campagne (pp. 195-197)
 
