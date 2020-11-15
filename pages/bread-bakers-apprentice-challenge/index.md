@@ -160,13 +160,20 @@ gallery-paindecampagne:
     title: The Epi and Fougasse, pre-baking.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/paindecampagne3.jpg
     title: "From left-to-right:  Fendu, Epi, Fougasse"
-gallery-paindecampagne:
+gallery-panesiciliano:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/panesiciliano1.jpg
-    title: 
+    title: Big pile of dough, post proofing
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/panesiciliano2.jpg
-    title: 
+    title: Dough shaped into two S-shaped loaves
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/panesiciliano3.jpg
-    title: 
+    title: Completed pane Siciliano
+gallery-panesiciliano:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pizzanapoletano1.jpg
+    title: Ball of dough, pre-shaping
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pizzanapoletano2.jpg
+    title: Decorated pizza on a peel
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pizzanapoletano3.jpg
+    title: Completed pizza napoletana
 ---
 
 # Intro
@@ -195,12 +202,16 @@ That's what's happening here!
 # #28: Potato Rosemary Bread (pp. 219-221)
 # #27: Portuguese Sweet Bread (pp. 215-218)
 # #26: Poolish Baguettes (pp. 213-214)
-# #25: Pizza Napoletano (pp. 207-212)
+
 # #24: Panettone (pp. 202-206)
-
-
-
 -->
+
+# #25: Pizza Napoletano (pp. 207-212)
+
+{% include gallery id="gallery-pizzanapoletano" %}
+
+Exciting one to start, I have never made pizza before.  I ended up being 50% happy with the result.  I didn't get the big blistered bubbles I was hoping for, but it was a decent pizza with a good crunch to the crust.  My main lesson here was really that I should minimize the number of toppings to let the crust shine through.
+
 # #23: Pane Siciliano (pp. 198-201)
 
 {% include gallery id="gallery-panesiciliano" %}

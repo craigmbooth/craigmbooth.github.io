@@ -1,0 +1,12 @@
+{% for project in site.data.projects[include.id] %}
+
+## {{ project.title }}
+  
+![{{project.img_alt}}]({{project.img}})
+
+{{project.description}}
+  
+[Link]({{project.relative_url}})
+
+{% endfor %}
+

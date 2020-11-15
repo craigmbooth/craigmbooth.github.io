@@ -6,19 +6,23 @@ author_profile: true
 header:
   overlay_image: /assets/images/projects/projects_header.jpg
   overlay_filter: 0.5
+toc: true
+toc_label: List of Projects
+toc_sticky: true
 ---
 
-This page contains links to a bunch of cool projects I've built, largely related to data analysis and visualization.  I hope you like them!
+This page contains links to things I've built over the years, largely related to data analysis, visualization and food.  I hope you like them!
 
-{% for project in site.data.projects %}
-## {{ project.title }}
-  
-![{{project.img_alt}}]({{project.img}})
+# Software Projects
 
-{{project.description}}
-  
-[Link]({{project.relative_url}})
+{% include projectlist id="software" %}
 
-{% endfor %}
+# Food Projects
+
+{% include projectlist id="food" %}
+
+# Other Projects
+
+{% include projectlist id="other" %}
 
 
