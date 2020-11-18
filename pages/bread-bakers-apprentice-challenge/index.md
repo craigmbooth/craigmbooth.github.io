@@ -174,6 +174,13 @@ gallery-pizzanapoletano:
     title: Decorated pizza on a peel
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pizzanapoletano3.jpg
     title: Completed pizza napoletana
+gallery-poolishbaguette:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/poolishbaguette1.jpg
+    title: Ball of dough, pre-shaping
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/poolishbaguette2.jpg
+    title: Decorated pizza on a peel
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/poolishbaguette3.jpg
+    title: Completed pizza napoletana    
 ---
 
 # Intro
@@ -187,7 +194,7 @@ That's what's happening here!
 
 Page numbers are fixed in this section
 
-# #43: Roasted Onion and Asiago Miche (pp. 310-313)
+# #46: Roasted Onion and Asiago Miche (pp. 310-313)
 # #45: Potato, Cheddar, and Chive Torpedoes (pp. 307-309)
 # #44: Beyond Ultimate Cinnamon and Sticky Buns (pp. 297-301)
 # #43: Sprouted Whole Wheat Onion and Poppy Seed Bialys (pp. 294-296)
@@ -200,26 +207,30 @@ Page numbers are fixed in this section
 # #36: Stollen (pp. 268-273)
 # #35: Sunflower Seed Rye (pp. 264-267)
 # #34: Pumpernickel Bread (pp. 260-263)
+# #33: Poilane-Style Miche (pp. 256-259)
+# #32: 100% Sourdough Rye Bread (pp. 253-255)
+# #31: New York Deli Rye (pp. 249-252)
+# #30: Basic Sourdough Bread (pp. 245-248)
+# #29: Pugliese (pp.233-237)
+# #28: Potato Rosemary Bread (pp. 229-232)
+# #27: Portuguese Sweet Bread (pp. 226-228)
 
-Page numbers are out of date in this section
-
-# #33: Poilane-Style Miche (pp. 242-245)
-# #32: 100% Sourdough Rye Bread (pp. 239-241)
-# #31: New York Deli Rye (pp. 236-238)
-# #30: Basic Sourdough Bread (pp. 233-235)
-# #29: Pugliese (pp.222-225)
-# #28: Potato Rosemary Bread (pp. 219-221)
-# #27: Portuguese Sweet Bread (pp. 215-218)
-# #26: Poolish Baguettes (pp. 213-214)
-
-# #24: Panettone (pp. 202-206)
+# #24: Panettone (pp. 211-216)
 -->
 
-# #25: Pizza Napoletano (pp. 207-212)
+# #26: Poolish Baguettes (pp. 223-225)
+
+{% include gallery id="gallery-poolishbaguette" %}
+
+Nice crusty baguettes.  I got a bit lazy with the shaping so they puffed up and tore a little bit.  This was the first time I followed some advice in a book that said when scoring the baguettes, "don't be too careful" and found that three very rapid slashes with the razor actually worked a lot better than the careful picking I was doing up until now.
+
+# #25: Pizza Napoletano (pp. 217-222)
 
 {% include gallery id="gallery-pizzanapoletano" %}
 
 Exciting one to start, I have never made pizza before.  I ended up being 50% happy with the result.  I didn't get the big blistered bubbles I was hoping for, but it was a decent pizza with a good crunch to the crust.  My main lesson here was really that I should minimize the number of toppings to let the crust shine through.
+
+<!-- Page number errors are confined to below this line -->
 
 # #23: Pane Siciliano (pp. 198-201)
 
