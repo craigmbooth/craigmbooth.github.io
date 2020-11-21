@@ -180,7 +180,14 @@ gallery-poolishbaguette:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/poolishbaguette2.jpg
     title: Decorated pizza on a peel
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/poolishbaguette3.jpg
-    title: Completed pizza napoletana    
+    title: Completed pizza napoletana
+gallery-portugesesweetbread:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/portugesesweetbread1.jpg
+    title: Two balls of dough in pans
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/portugesesweetbread2.jpg
+    title: Two mahogany-colored loaves of Portugese sweet bread
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/portugesesweetbread3.jpg
+    title: Crumb of the bread, surprisingly light given the sugar-browning on the outside.
 ---
 
 # Intro
@@ -213,10 +220,15 @@ Page numbers are fixed in this section
 # #30: Basic Sourdough Bread (pp. 245-248)
 # #29: Pugliese (pp.233-237)
 # #28: Potato Rosemary Bread (pp. 229-232)
-# #27: Portuguese Sweet Bread (pp. 226-228)
 
 # #24: Panettone (pp. 211-216)
 -->
+
+# #27: Portuguese Sweet Bread (pp. 226-228)
+
+{% include gallery id="gallery-portugesesweetbread" %}
+
+Not 100% sure what to think of this one.  I can't call the bread "pillowy" as described in the recipe, the outer crust is actually shiny and crunchy, and the inside is sweet.  It's almost like a pound cake.  Not really one for me, although it does look very pretty.
 
 # #26: Poolish Baguettes (pp. 223-225)
 
