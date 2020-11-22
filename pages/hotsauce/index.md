@@ -7,6 +7,14 @@ header:
   overlay_filter: 0.5
   
 gallery:
+  - image_path: /assets/images/pages/hotsauce/hotsauce050.jpg
+    title: Island Spice Scotch Bonnet Pepper Sauce
+  - image_path: /assets/images/pages/hotsauce/hotsauce049.jpg
+    title: Quinta's Garlic Pepper Sauce
+  - image_path: /assets/images/pages/hotsauce/hotsauce048.jpg
+    title: American Pantry Heirloom Hot Sauce American Persimmon
+  - image_path: /assets/images/pages/hotsauce/hotsauce047.jpg
+    title: Gringo Bandito
   - image_path: /assets/images/pages/hotsauce/hotsauce046.jpg
     title: Frank's RedHot Original
   - image_path: /assets/images/pages/hotsauce/hotsauce045.jpg
