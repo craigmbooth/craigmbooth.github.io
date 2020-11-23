@@ -188,6 +188,20 @@ gallery-portugesesweetbread:
     title: Two mahogany-colored loaves of Portugese sweet bread
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/portugesesweetbread3.jpg
     title: Crumb of the bread, surprisingly light given the sugar-browning on the outside.
+gallery-potatorosemary:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatorosemary1.jpg
+    title: Potato-rosemary dough, proofing
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatorosemary2.jpg
+    title: Two completed potato-rosemary loaves
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatorosemary3.jpg
+    title: Crumb of the bread
+gallery-basicsourdough:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/basicsourdough1.jpg
+    title: Potato-rosemary dough, proofing
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/basicsourdough2.jpg
+    title: Two completed potato-rosemary loaves
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/basicsourdough3.jpg
+    title: Crumb of the bread    
 ---
 
 # Intro
@@ -217,12 +231,25 @@ Page numbers are fixed in this section
 # #33: Poilane-Style Miche (pp. 256-259)
 # #32: 100% Sourdough Rye Bread (pp. 253-255)
 # #31: New York Deli Rye (pp. 249-252)
-# #30: Basic Sourdough Bread (pp. 245-248)
+
 # #29: Pugliese (pp.233-237)
-# #28: Potato Rosemary Bread (pp. 229-232)
 
 # #24: Panettone (pp. 211-216)
 -->
+
+# #30: Basic Sourdough Bread (pp. 245-248)
+
+{% include gallery id="gallery-basicsourdough" %}
+
+I started out baking by making the sourdough from the Tartine book over and over again until I got a feel for it.  I was interested to see how this recipe differed, and it certainly did differ!  This one is knead-heavy before doing stretch-and-folds, there was no autolyse step, and instead of cooking in a dutch oven, you make your oven into a hearth oven.
+
+Overall it worked... fine.  I didn't get the large oven spring I typically got from the Tartine bread, but it was sourdough, and the crumb looked just fine.  Overall I prefer the Tartine method, no idea how much of the difference is simply using a dutch oven to keep moisture around the bread and how much of the difference is the many small differences between the recipes
+
+# #28: Potato Rosemary Bread (pp. 229-232)
+
+{% include gallery id="gallery-potatorosemary" %}
+
+This bread was truly amazing:  Rosemary, olive oil, roasted garlic, mashed potatoes.  It was pillowy soft and tested delicious.  I 100% want to make this one again.
 
 # #27: Portuguese Sweet Bread (pp. 226-228)
 
