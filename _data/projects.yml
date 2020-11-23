@@ -40,8 +40,14 @@ food:
   - title: The Bread Baker's Apprentice Challenge (2020)
     description:  I'm baking every bread in the textbook "The Bread Baker's Apprentice", alphabetically.
     img: /assets/images/projects/bread_bakers_apprentice.jpg
-    img_alt: Cover for the bread baker's apprentics challenge page
+    img_alt: Cover for the bread baker's apprentice challenge page
     relative_url: /pages/bread-bakers-apprentice-challenge
+  - title: Hot sauce collection (2010-)
+    description:  I love hot sauce, and I keep track of all of it that I buy.
+    img: /assets/images/projects/hot_peppers.png
+    img_alt: Cover for the hot sauce list
+    relative_url: /pages/hot-sauce
+    
 other:
 
   - title: Homebrew Infra-red Photography (2010)
