@@ -174,6 +174,13 @@ gallery-pizzanapoletano:
     title: Decorated pizza on a peel
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pizzanapoletano3.jpg
     title: Completed pizza napoletana
+gallery-pannettone:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pannettone1.jpg
+    title: Ball of dough, pre-shaping
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pannettone2.jpg
+    title: Decorated pizza on a peel
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pannettone3.jpg
+    title: Completed pizza napoletana
 gallery-poolishbaguette:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/poolishbaguette1.jpg
     title: Ball of dough, pre-shaping
@@ -239,7 +246,7 @@ Page numbers are fixed in this section
 # #32: 100% Sourdough Rye Bread (pp. 253-255)
 # #31: New York Deli Rye (pp. 249-252)
 
-# #24: Panettone (pp. 211-216)
+
 -->
 
 # #30: Basic Sourdough Bread (pp. 245-248)
@@ -279,6 +286,12 @@ Nice crusty baguettes.  I got a bit lazy with the shaping so they puffed up and 
 {% include gallery id="gallery-pizzanapoletano" %}
 
 Exciting one to start, I have never made pizza before.  I ended up being 50% happy with the result.  I didn't get the big blistered bubbles I was hoping for, but it was a decent pizza with a good crunch to the crust.  My main lesson here was really that I should minimize the number of toppings to let the crust shine through.
+
+# #24: Panettone (pp. 211-216)
+
+{% include gallery id="gallery-pannettone" %}
+
+Not a giant fan of this.  I bought Fiore di Sicilia extract to go in this, which was a wildly overpowering floral flavor.  The bread itself is... fine, I guess.  Lots of Christmassy flavors that I'm just not a big fan of.  Not one that I'll make again.
 
 <!-- Page number errors are confined to below this line -->
 
