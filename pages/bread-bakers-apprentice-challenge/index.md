@@ -176,11 +176,11 @@ gallery-pizzanapoletano:
     title: Completed pizza napoletana
 gallery-pannettone:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pannettone1.jpg
-    title: Ball of dough, pre-shaping
+    title: Very sticky ball of enriched dough
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pannettone2.jpg
-    title: Decorated pizza on a peel
+    title: Pannettone proofing in paper pannettone pans
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pannettone3.jpg
-    title: Completed pizza napoletana
+    title: Completed Pannettone loaves
 gallery-poolishbaguette:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/poolishbaguette1.jpg
     title: Ball of dough, pre-shaping
