@@ -195,13 +195,20 @@ gallery-potatorosemary:
     title: Two completed potato-rosemary loaves
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatorosemary3.jpg
     title: Crumb of the bread
+gallery-pugliese:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pugliese1.jpg
+    title: Dough, sitting in a bowl
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pugliese2.jpg
+    title: Two loaves proofing in bannetons
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pugliese3.jpg
+    title: Crumb of the bread
 gallery-basicsourdough:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/basicsourdough1.jpg
     title: Potato-rosemary dough, proofing
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/basicsourdough2.jpg
     title: Two completed potato-rosemary loaves
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/basicsourdough3.jpg
-    title: Crumb of the bread    
+    title: Crumb of the bread
 ---
 
 # Intro
@@ -232,8 +239,6 @@ Page numbers are fixed in this section
 # #32: 100% Sourdough Rye Bread (pp. 253-255)
 # #31: New York Deli Rye (pp. 249-252)
 
-# #29: Pugliese (pp.233-237)
-
 # #24: Panettone (pp. 211-216)
 -->
 
@@ -244,6 +249,12 @@ Page numbers are fixed in this section
 I started out baking by making the sourdough from the Tartine book over and over again until I got a feel for it.  I was interested to see how this recipe differed, and it certainly did differ!  This one is knead-heavy before doing stretch-and-folds, there was no autolyse step, and instead of cooking in a dutch oven, you make your oven into a hearth oven.
 
 Overall it worked... fine.  I didn't get the large oven spring I typically got from the Tartine bread, but it was sourdough, and the crumb looked just fine.  Overall I prefer the Tartine method, no idea how much of the difference is simply using a dutch oven to keep moisture around the bread and how much of the difference is the many small differences between the recipes
+
+# #29: Pugliese (pp.233-237)
+
+{% include gallery id="gallery-pugliese" %}
+
+This was the most delightful surprise of the book so far.  I love this bread a lot.  Really big, airy crumb, dark but soft crust. 10/10.
 
 # #28: Potato Rosemary Bread (pp. 229-232)
 
