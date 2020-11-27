@@ -7,6 +7,16 @@ header:
   overlay_filter: 0.5
   
 gallery:
+  - image_path: /assets/images/pages/hotsauce/hotsauce081.jpg
+    title: Tabasco Scorpion Sauce
+  - image_path: /assets/images/pages/hotsauce/hotsauce080.jpg
+    title: Tabasco Cayenne Garlic Sauce
+  - image_path: /assets/images/pages/hotsauce/hotsauce079.jpg
+    title: Born to Hula Guajillo Monster
+  - image_path: /assets/images/pages/hotsauce/hotsauce078.jpg
+    title: Fuego Riza
+  - image_path: /assets/images/pages/hotsauce/hotsauce077.jpg
+    title: Friendly Fire Guava & Habanero
   - image_path: /assets/images/pages/hotsauce/hotsauce076.jpg
     title: Pure Habanero
   - image_path: /assets/images/pages/hotsauce/hotsauce075.jpg
