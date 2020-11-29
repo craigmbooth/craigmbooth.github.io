@@ -216,6 +216,13 @@ gallery-basicsourdough:
     title: Two completed potato-rosemary loaves
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/basicsourdough3.jpg
     title: Crumb of the bread
+gallery-nydelirye:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/nydelirye1.jpg
+    title: Onions, lightly sauteeing
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/nydelirye2.jpg
+    title: One free-standing loaf and one sandwich loaf
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/nydelirye3.jpg
+    title: Finished onion deli rye breads, showing the crumb of the freestanding loaf
 ---
 
 # Intro
@@ -244,10 +251,13 @@ Page numbers are fixed in this section
 # #34: Pumpernickel Bread (pp. 260-263)
 # #33: Poilane-Style Miche (pp. 256-259)
 # #32: 100% Sourdough Rye Bread (pp. 253-255)
+-->
+
 # #31: New York Deli Rye (pp. 249-252)
 
+{% include gallery id="gallery-nydelirye" %}
 
--->
+Another excellent bread.  I came to realize during baking this that I'm one of those people who don't really know the difference in taste between carraway seeds and rye flour since I have always tasted them together.  Next time through with a rye bread I'm definitely goin no-carraway.  Anyway, the onions cooking in this bread gave it a delicious, well... oniony aroma and it tastes amazing.
 
 # #30: Basic Sourdough Bread (pp. 245-248)
 
