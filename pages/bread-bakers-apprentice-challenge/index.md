@@ -229,7 +229,7 @@ gallery-painpoilane:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/painpoilane2.jpg
     title: Finished loaf
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/painpoilane3.jpg
-    title: Pain Poilane crumb.  A little tight.
+    title: Pain Poilâne crumb.  A little tight.
 ---
 
 # Intro
@@ -260,7 +260,7 @@ Page numbers are fixed in this section
 # #32: 100% Sourdough Rye Bread (pp. 253-255)
 -->
 
-# #33: Poilane-Style Miche (pp. 256-259)
+# #33: Poilâne-Style Miche (pp. 256-259)
 
 {% include gallery id="gallery-painpoilane" %}
 
