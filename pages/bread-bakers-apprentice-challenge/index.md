@@ -223,6 +223,13 @@ gallery-nydelirye:
     title: One free-standing loaf and one sandwich loaf
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/nydelirye3.jpg
     title: Finished onion deli rye breads, showing the crumb of the freestanding loaf
+gallery-painpoilane:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/painpoilane1.jpg
+    title: Loaf, scored but uncooked
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/painpoilane2.jpg
+    title: Finished loaf
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/painpoilane3.jpg
+    title: Pain Poilane crumb.  A little tight.
 ---
 
 # Intro
@@ -249,9 +256,15 @@ Page numbers are fixed in this section
 # #36: Stollen (pp. 268-273)
 # #35: Sunflower Seed Rye (pp. 264-267)
 # #34: Pumpernickel Bread (pp. 260-263)
-# #33: Poilane-Style Miche (pp. 256-259)
+
 # #32: 100% Sourdough Rye Bread (pp. 253-255)
 -->
+
+# #33: Poilane-Style Miche (pp. 256-259)
+
+{% include gallery id="gallery-painpoilane" %}
+
+I was looking forward to this one if for no reason other than to make a 4 lbs loaf of bread, and I certainly succeeded at that.  It looks the part, and although the crumb is a bit tight has a solid sourdough taste.
 
 # #31: New York Deli Rye (pp. 249-252)
 
