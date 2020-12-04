@@ -230,6 +230,13 @@ gallery-painpoilane:
     title: Finished loaf
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/painpoilane3.jpg
     title: Pain Poilâne crumb.  A little tight.
+gallery-tuscanbread:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/tuscanbread1.jpg
+    title: Two boules of Tuscan bread dough
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/tuscanbread2.jpg
+    title: Finished loaves of Tuscan bread
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/tuscanbread3.jpg
+    title: Crumb of Tuscan bread
 ---
 
 # Intro
@@ -251,7 +258,7 @@ Page numbers are fixed in this section
 # #41: Whole-Wheat Bread (pp. 288-290)
 # #40: White Breads (pp. 284-287)
 # #39: Vienna Bread (pp. 280-283)
-# #38: Tuscan Bread (pp. 277-279)
+
 # #37: Swedish Rye (Limpa) (pp. 274-276)
 # #36: Stollen (pp. 268-273)
 # #35: Sunflower Seed Rye (pp. 264-267)
@@ -259,6 +266,12 @@ Page numbers are fixed in this section
 
 # #32: 100% Sourdough Rye Bread (pp. 253-255)
 -->
+
+# #38: Tuscan Bread (pp. 277-279)
+
+{% include gallery id="gallery-tuscanbread" %}
+
+I didn't expect much from this.  It's bread with no salt, which typically tastes very "flat".  The new technique is to cook flour in boiling water to make a paste, which brings out the sugars in the flour in a different way to most baking.  My overall impression was that this bread is sweet, like it had sugar in it.  That said, it did have the "flat" taste that I associate with a lack of salt.  I think my big takeaway here is the use of the boiled flour paste as a way of expressing extra sweetness in a loaf.
 
 # #33: Poilâne-Style Miche (pp. 256-259)
 
