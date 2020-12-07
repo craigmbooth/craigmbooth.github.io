@@ -237,6 +237,13 @@ gallery-tuscanbread:
     title: Finished loaves of Tuscan bread
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/tuscanbread3.jpg
     title: Crumb of Tuscan bread
+gallery-potatocheddarchive:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatocheddarchive1.jpg
+    title: Two boules of Tuscan bread dough
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatocheddarchive2.jpg
+    title: Finished loaves of Tuscan bread
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatocheddarchive3.jpg
+    title: Crumb of Tuscan bread
 ---
 
 # Intro
@@ -251,7 +258,7 @@ That's what's happening here!
 Page numbers are fixed in this section
 
 # #46: Roasted Onion and Asiago Miche (pp. 310-313)
-# #45: Potato, Cheddar, and Chive Torpedoes (pp. 307-309)
+
 # #44: Beyond Ultimate Cinnamon and Sticky Buns (pp. 297-301)
 # #43: Sprouted Whole Wheat Onion and Poppy Seed Bialys (pp. 294-296)
 # #42: Sprouted Wheat and Brown Rice Bread (pp. 291-293)
@@ -266,6 +273,12 @@ Page numbers are fixed in this section
 
 # #32: 100% Sourdough Rye Bread (pp. 253-255)
 -->
+
+# #45: Potato, Cheddar, and Chive Torpedoes (pp. 307-309)
+
+{% include gallery id="gallery-potatocheddarchive" %}
+
+I knew I was going to love this one after just reading the description.  The previous recipes that included potato ended up super airy and light, this one was no exception.  Has a spiral of cheese through the whole roll, which you slash open to make look good when they cook.  I love this.
 
 # #38: Tuscan Bread (pp. 277-279)
 
