@@ -230,27 +230,34 @@ gallery-painpoilane:
     title: Finished loaf
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/painpoilane3.jpg
     title: Pain Poilâne crumb.  A little tight.
+gallery-pumpernickel:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pumpernickel1.jpg
+    title: The pumpernickel dough.
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pumpernickel2.jpg
+    title: Finished loaves of pumpernickel bread.
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pumpernickel3.jpg
+    title: Cross-section of pumpernickel loaf showing the dense crumb at the bottom.
 gallery-tuscanbread:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/tuscanbread1.jpg
-    title: Two boules of Tuscan bread dough
+    title: Two boules of Tuscan bread dough.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/tuscanbread2.jpg
-    title: Finished loaves of Tuscan bread
+    title: Finished loaves of Tuscan bread.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/tuscanbread3.jpg
-    title: Crumb of Tuscan bread
+    title: Crumb of Tuscan bread.
 gallery-viennabread:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/viennabread1.jpg
-    title: Two boules of Vienna bread
+    title: Two boules of Vienna bread.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/viennabread2.jpg
-    title: Two batards of Vienna bread
+    title: Two batards of Vienna bread.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/viennabread3.jpg
-    title: Two completed loaves of Vienna bread
+    title: Two completed loaves of Vienna bread.
 gallery-potatocheddarchive:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatocheddarchive1.jpg
-    title: Forming rolls of bread with a spiral of cheese
+    title: Forming rolls of bread with a spiral of cheese.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatocheddarchive2.jpg
-    title: Finished and proofed rolls, slashed to show the outer layer of cheese
+    title: Finished and proofed rolls, slashed to show the outer layer of cheese.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatocheddarchive3.jpg
-    title: Finished potato, cheddar and chive bread rolls
+    title: Finished potato, cheddar and chive bread rolls.
 ---
 
 # Intro
@@ -273,7 +280,7 @@ That's what's happening here!
 # #37: Swedish Rye (Limpa) (pp. 274-276)
 # #36: Stollen (pp. 268-273)
 # #35: Sunflower Seed Rye (pp. 264-267)
-# #34: Pumpernickel Bread (pp. 260-263)
+
 
 # #32: 100% Sourdough Rye Bread (pp. 253-255)
 -->
@@ -295,6 +302,12 @@ Not really too much to say about this one.  It was a nice, pillowy white bread. 
 {% include gallery id="gallery-tuscanbread" %}
 
 I didn't expect much from this.  It's bread with no salt, which typically tastes very "flat".  The new technique is to cook flour in boiling water to make a paste, which brings out the sugars in the flour in a different way to most baking.  My overall impression was that this bread is sweet, like it had sugar in it.  That said, it did have the "flat" taste that I associate with a lack of salt.  I think my big takeaway here is the use of the boiled flour paste as a way of expressing extra sweetness in a loaf.
+
+# #34: Pumpernickel Bread (pp. 260-263)
+
+{% include gallery id="gallery-pumpernickel" %}
+
+This probably counts as my first BBA challenge fail.  I'm not a giant fan of the taste, and I took a bit of a risk by baking this sourdough in loaf pans.  The crumb is much denser at the bottom of the loaf than the top, which I'm used to seeing when I don't get the baking stone hot enough for sourdough.  I think that maybe my opinion would have been different had I cooked this at high temperature and humidity, but what came out this time was a dense, stodgy block.
 
 # #33: Poilâne-Style Miche (pp. 256-259)
 
