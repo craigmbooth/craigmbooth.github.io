@@ -237,13 +237,20 @@ gallery-tuscanbread:
     title: Finished loaves of Tuscan bread
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/tuscanbread3.jpg
     title: Crumb of Tuscan bread
+gallery-viennabread:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/viennabread1.jpg
+    title: Two boules of Vienna bread
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/viennabread2.jpg
+    title: Two batards of Vienna bread
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/viennabread3.jpg
+    title: Two completed loaves of Vienna bread
 gallery-potatocheddarchive:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatocheddarchive1.jpg
-    title: Two boules of Tuscan bread dough
+    title: Forming rolls of bread with a spiral of cheese
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatocheddarchive2.jpg
-    title: Finished loaves of Tuscan bread
+    title: Finished and proofed rolls, slashed to show the outer layer of cheese
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatocheddarchive3.jpg
-    title: Crumb of Tuscan bread
+    title: Finished potato, cheddar and chive bread rolls
 ---
 
 # Intro
@@ -255,8 +262,6 @@ That's what's happening here!
 # Breads
 <!--
 
-Page numbers are fixed in this section
-
 # #46: Roasted Onion and Asiago Miche (pp. 310-313)
 
 # #44: Beyond Ultimate Cinnamon and Sticky Buns (pp. 297-301)
@@ -264,7 +269,6 @@ Page numbers are fixed in this section
 # #42: Sprouted Wheat and Brown Rice Bread (pp. 291-293)
 # #41: Whole-Wheat Bread (pp. 288-290)
 # #40: White Breads (pp. 284-287)
-# #39: Vienna Bread (pp. 280-283)
 
 # #37: Swedish Rye (Limpa) (pp. 274-276)
 # #36: Stollen (pp. 268-273)
@@ -279,6 +283,12 @@ Page numbers are fixed in this section
 {% include gallery id="gallery-potatocheddarchive" %}
 
 I knew I was going to love this one after just reading the description.  The previous recipes that included potato ended up super airy and light, this one was no exception.  Has a spiral of cheese through the whole roll, which you slash open to make look good when they cook.  I love this.
+
+# #39: Vienna Bread (pp. 280-283)
+
+{% include gallery id="gallery-viennabread" %}
+
+Not really too much to say about this one.  It was a nice, pillowy white bread.  I would be hard pushed to differentiate it from the Italian bread, but it did make nice sandwiches.
 
 # #38: Tuscan Bread (pp. 277-279)
 
