@@ -237,6 +237,13 @@ gallery-pumpernickel:
     title: Finished loaves of pumpernickel bread.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pumpernickel3.jpg
     title: Cross-section of pumpernickel loaf showing the dense crumb at the bottom.
+gallery-swedishrye:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/swedishrye1.jpg
+    title: Molasses, orance extract, aniseed, cardamom and fennel being boiled
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/swedishrye2.jpg
+    title: Two balls of Swedish rye dough
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/swedishrye3.jpg
+    title: Finished loaves of Swedish rye
 gallery-tuscanbread:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/tuscanbread1.jpg
     title: Two boules of Tuscan bread dough.
@@ -277,7 +284,6 @@ That's what's happening here!
 # #41: Whole-Wheat Bread (pp. 288-290)
 # #40: White Breads (pp. 284-287)
 
-# #37: Swedish Rye (Limpa) (pp. 274-276)
 # #36: Stollen (pp. 268-273)
 # #35: Sunflower Seed Rye (pp. 264-267)
 
@@ -302,6 +308,12 @@ Not really too much to say about this one.  It was a nice, pillowy white bread. 
 {% include gallery id="gallery-tuscanbread" %}
 
 I didn't expect much from this.  It's bread with no salt, which typically tastes very "flat".  The new technique is to cook flour in boiling water to make a paste, which brings out the sugars in the flour in a different way to most baking.  My overall impression was that this bread is sweet, like it had sugar in it.  That said, it did have the "flat" taste that I associate with a lack of salt.  I think my big takeaway here is the use of the boiled flour paste as a way of expressing extra sweetness in a loaf.
+
+# #37: Swedish Rye (Limpa) (pp. 274-276)
+
+{% include gallery id="gallery-swedishrye" %}
+
+There are a surprising number of breads in this book that have that Christmassy/medicinal taste.  I remain not a big fan of that flavor combo, and this bread was no exception.  At least it made my house smell nice when I boiled molasses, orange extract, aniseed, cardamom and fennel.  I also think I must have made a mistake somewhere, the dough was surprisingly stiff and even after I added extra water it was very hard to work.
 
 # #34: Pumpernickel Bread (pp. 260-263)
 
