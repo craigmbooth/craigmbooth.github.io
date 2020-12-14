@@ -269,18 +269,18 @@ gallery-potatocheddarchive:
     title: Finished potato, cheddar and chive bread rolls.
 gallery-onionasiago:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionasiago1.jpg
-    title: 
+    title: A little bit of mise en place.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionasiago2.jpg
-    title: 
+    title: Dough ready for the oven.  Topped with asiago cheese and roasted onions.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionasiago3.jpg
-    title: 
+    title: Completed roasted onion & asiago miches.
 ---
 
 # Intro
 
 The [Bread Baker's Apprentice](https://pinchmysalt.com/the-bba-challenge/) challenge (BBA Challenge) is a challenge to bake all of the breads from the book Bread Baker's Apprentice, alphabetically from Anadama through whole-wheat.
 
-That's what's happening here!
+There are a total of 46 recipes, covering a large diversity in bread types.  I started the challenge on October 4th 2020, and it is still in progress with 38 (updated on Dec 13th 2020) completed.
 
 # Breads
 <!--
@@ -297,6 +297,8 @@ That's what's happening here!
 ## #46: Roasted Onion and Asiago Miche (pp. 310-313)
 
 {% include gallery id="gallery-onionasiago" %}
+
+Great way to finish out the book.  This is one of my favorite breads from the whole thing.  The combination of the dough containing a lot of fat (cheese and oil) with the high cooking temperature led to a crispy outside, just covered in cheese.  10/10 would make again.
 
 ## #45: Potato, Cheddar, and Chive Torpedoes (pp. 307-309)
 
