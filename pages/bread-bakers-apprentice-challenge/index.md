@@ -7,7 +7,6 @@ header:
   overlay_filter: 0.5
 toc: true
 toc_label: Table of Contents
-toc_sticky: true
 
 gallery-anadama:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/anadama1.jpg
