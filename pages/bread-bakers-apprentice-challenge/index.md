@@ -1,5 +1,5 @@
 ---
-layout: single
+1;5202;0clayout: single
 title: Bread Baker's Apprentice Challenge
 excerpt: Cooking every bread from the Bread Baker's Apprentice
 header:
@@ -260,6 +260,13 @@ gallery-viennabread:
     title: Two batards of Vienna bread.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/viennabread3.jpg
     title: Two completed loaves of Vienna bread.
+gallery-whitebread:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/whitebread1.jpg
+    title: 18 dinner rolls of white bread
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/whitebread2.jpg
+    title: Dinner bread rolls arranged and ready to proof
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/whitebread3.jpg
+    title: A completed sharable loaf of dinner rolls.
 gallery-potatocheddarchive:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatocheddarchive1.jpg
     title: Forming rolls of bread with a spiral of cheese.
@@ -288,7 +295,7 @@ There are a total of 46 recipes, covering a large diversity in bread types.  I s
 ## #43: Sprouted Whole Wheat Onion and Poppy Seed Bialys (pp. 294-296)
 ## #42: Sprouted Wheat and Brown Rice Bread (pp. 291-293)
 ## #41: Whole-Wheat Bread (pp. 288-290)
-## #40: White Breads (pp. 284-287)
+
 ## #36: Stollen (pp. 268-273)
 ## #35: Sunflower Seed Rye (pp. 264-267)
 ## #32: 100% Sourdough Rye Bread (pp. 253-255)
@@ -305,6 +312,14 @@ Great way to finish out the book.  This is one of my favorite breads from the wh
 {% include gallery id="gallery-potatocheddarchive" %}
 
 I knew I was going to love this one after just reading the description.  The previous recipes that included potato ended up super airy and light, this one was no exception.  Has a spiral of cheese through the whole roll, which you slash open to make look good when they cook.  I love this.
+
+## #40: White Breads (pp. 284-287)
+
+{% include gallery id="gallery-whitebread" %}
+
+One interesting thing about this book being arranged alphabetically is that the real basics (white bread and whole wheat bread) sort near the end of the alphabet.  At this point, knocking out a direct yeasted, medium hydration, slightly enriched white dough felt like second nature and at times I wasn't doing much more than skimming the recipe.
+
+It was nice, too!
 
 ## #39: Vienna Bread (pp. 280-283)
 
