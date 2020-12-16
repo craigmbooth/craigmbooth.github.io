@@ -1,5 +1,5 @@
 ---
-1;5202;0clayout: single
+layout: single
 title: Bread Baker's Apprentice Challenge
 excerpt: Cooking every bread from the Bread Baker's Apprentice
 header:
@@ -280,7 +280,7 @@ gallery-onionasiago:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionasiago2.jpg
     title: Dough ready for the oven.  Topped with asiago cheese and roasted onions.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionasiago3.jpg
-    title: Completed roasted onion & asiago miches.
+    title: Completed roasted onion and asiago miches.
 ---
 
 # Intro
