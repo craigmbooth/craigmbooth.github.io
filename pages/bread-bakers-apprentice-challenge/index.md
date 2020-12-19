@@ -239,6 +239,13 @@ gallery-pumpernickel:
     title: Finished loaves of pumpernickel bread.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pumpernickel3.jpg
     title: Cross-section of pumpernickel loaf showing the dense crumb at the bottom.
+gallery-sunflowerrye:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/sunflowerrye1.jpg
+    title: The sunflower rye dough.
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/sunflowerrye2.jpg
+    title: Two couronnes of sunflower rye bread, proofing.
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/sunflowerrye3.jpg
+    title: Two couronnes of sunflower rye bread.
 gallery-swedishrye:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/swedishrye1.jpg
     title: Molasses, orance extract, aniseed, cardamom and fennel being boiled
@@ -297,7 +304,7 @@ There are a total of 46 recipes, covering a large diversity in bread types.  I s
 ## #41: Whole-Wheat Bread (pp. 288-290)
 
 ## #36: Stollen (pp. 268-273)
-## #35: Sunflower Seed Rye (pp. 264-267)
+
 ## #32: 100% Sourdough Rye Bread (pp. 253-255)
 -->
 
@@ -338,6 +345,12 @@ I didn't expect much from this.  It's bread with no salt, which typically tastes
 {% include gallery id="gallery-swedishrye" %}
 
 There are a surprising number of breads in this book that have that Christmassy/medicinal taste.  I remain not a big fan of that flavor combo, and this bread was no exception.  At least it made my house smell nice when I boiled molasses, orange extract, aniseed, cardamom and fennel.  I also think I must have made a mistake somewhere, the dough was surprisingly stiff and even after I added extra water it was very hard to work.
+
+## #35: Sunflower Seed Rye (pp. 264-267)
+
+{% include gallery id="gallery-sunflowerrye" %}
+
+I ended up being surprised how much I liked this one.  I haven't really enjoyed too many of the recipes that use coarse and/or rye flours, but after making this one it's a nice rustic looking couronne which has a pleasant nutty taste.  Not my usual preference but actually very nice!
 
 ## #34: Pumpernickel Bread (pp. 260-263)
 
