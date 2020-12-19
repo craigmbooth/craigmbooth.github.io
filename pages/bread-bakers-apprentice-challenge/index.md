@@ -294,7 +294,7 @@ gallery-onionasiago:
 
 The [Bread Baker's Apprentice](https://pinchmysalt.com/the-bba-challenge/) challenge (BBA Challenge) is a challenge to bake all of the breads from the book Bread Baker's Apprentice, alphabetically from Anadama through whole-wheat.
 
-There are a total of 46 recipes, covering a large diversity in bread types.  I started the challenge on October 4th 2020, and it is still in progress with 38 (updated on Dec 13th 2020) completed.
+There are a total of 46 recipes, covering a large diversity in bread types.  I started the challenge on October 4th 2020, and it is still in progress with 40 (updated on Dec 19th 2020) completed.
 
 # Breads
 <!--
@@ -302,9 +302,7 @@ There are a total of 46 recipes, covering a large diversity in bread types.  I s
 ## #43: Sprouted Whole Wheat Onion and Poppy Seed Bialys (pp. 294-296)
 ## #42: Sprouted Wheat and Brown Rice Bread (pp. 291-293)
 ## #41: Whole-Wheat Bread (pp. 288-290)
-
 ## #36: Stollen (pp. 268-273)
-
 ## #32: 100% Sourdough Rye Bread (pp. 253-255)
 -->
 
