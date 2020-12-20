@@ -274,6 +274,13 @@ gallery-whitebread:
     title: Dinner bread rolls arranged and ready to proof
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/whitebread3.jpg
     title: A completed sharable loaf of dinner rolls.
+gallery-onionpoppybialys:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionpoppybialys1.jpg
+    title: Shaped dough, flattened disks with a big indentation in the middle.
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionpoppybialys2.jpg
+    title: Flattened disks full of onion-poppy filling.
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionpoppybialys3.jpg
+    title: Finished Onion & Poppy seed bialys.   
 gallery-potatocheddarchive:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatocheddarchive1.jpg
     title: Forming rolls of bread with a spiral of cheese.
@@ -299,7 +306,6 @@ There are a total of 46 recipes, covering a large diversity in bread types.  I s
 # Breads
 <!--
 ## #44: Beyond Ultimate Cinnamon and Sticky Buns (pp. 297-301)
-## #43: Sprouted Whole Wheat Onion and Poppy Seed Bialys (pp. 294-296)
 ## #42: Sprouted Wheat and Brown Rice Bread (pp. 291-293)
 ## #41: Whole-Wheat Bread (pp. 288-290)
 ## #36: Stollen (pp. 268-273)
@@ -317,6 +323,12 @@ Great way to finish out the book.  This is one of my favorite breads from the wh
 {% include gallery id="gallery-potatocheddarchive" %}
 
 I knew I was going to love this one after just reading the description.  The previous recipes that included potato ended up super airy and light, this one was no exception.  Has a spiral of cheese through the whole roll, which you slash open to make look good when they cook.  I love this.
+
+## #43: Sprouted Whole Wheat Onion and Poppy Seed Bialys (pp. 294-296)
+
+{% include gallery id="gallery-onionpoppybialys" %}
+
+Yet another one where I have no idea what the bread *should* taste like since I have never seen a bialy before, but the result turned out pretty great!  The dough has a really lovely sweet taste despite having no sugar in it (that's probably the sprouted wheat flour), and the poppy seed and onion filling adds a great taste and texture to the whole thing.
 
 ## #40: White Breads (pp. 284-287)
 
