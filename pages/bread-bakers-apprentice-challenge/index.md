@@ -274,6 +274,13 @@ gallery-whitebread:
     title: Dinner bread rolls arranged and ready to proof
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/whitebread3.jpg
     title: A completed sharable loaf of dinner rolls.
+gallery-wholewheat:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wholewheat1.jpg
+    title: Dough, divided and ready for shaping
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wholewheat2.jpg
+    title: Proofed loaves of whole wheat bread
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wholewheat3.jpg
+    title: Finished whole-wheat bread.
 gallery-wheatbrownrice:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wheatbrownrice1.jpg
     title: Shaped sprouted wheat and brown rice dough
@@ -314,7 +321,6 @@ There are a total of 46 recipes, covering a large diversity in bread types.  I s
 <!--
 ## #44: Beyond Ultimate Cinnamon and Sticky Buns (pp. 297-301)
 
-## #41: Whole-Wheat Bread (pp. 288-290)
 ## #36: Stollen (pp. 268-273)
 ## #32: 100% Sourdough Rye Bread (pp. 253-255)
 -->
@@ -342,6 +348,12 @@ Yet another one where I have no idea what the bread *should* taste like since I 
 {% include gallery id="gallery-wheatbrownrice" %}
 
 Struggled a bit with this one.  Still really not used to sprouted flour, and I didn't get much of a rise here.  It feels like filling the bread with brown rice just weighed everything down.  I don't know, no science behind that, but I ended up with a fairly dense crumb.  Bread had a nice taste to it, though!
+
+## #41: Whole-Wheat Bread (pp. 288-290)
+
+{% include gallery id="gallery-wholewheat" %}
+
+I really don't have too many thoughts about this.  It's nice sandwich bread.
 
 ## #40: White Breads (pp. 284-287)
 
