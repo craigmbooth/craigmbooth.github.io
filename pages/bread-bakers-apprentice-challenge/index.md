@@ -274,13 +274,20 @@ gallery-whitebread:
     title: Dinner bread rolls arranged and ready to proof
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/whitebread3.jpg
     title: A completed sharable loaf of dinner rolls.
+gallery-wheatbrownrice:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wheatbrownrice1.jpg
+    title: Shaped sprouted wheat and brown rice dough
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wheatbrownrice2.jpg
+    title: Loaves of sprouted wheat and brown rice bread
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wheatbrownrice3.jpg
+    title: Crumb structure of sprouted wheat and brown rice bread.
 gallery-onionpoppybialys:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionpoppybialys1.jpg
     title: Shaped dough, flattened disks with a big indentation in the middle.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionpoppybialys2.jpg
     title: Flattened disks full of onion-poppy filling.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionpoppybialys3.jpg
-    title: Finished Onion & Poppy seed bialys.   
+    title: Finished Onion & Poppy seed bialys.
 gallery-potatocheddarchive:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatocheddarchive1.jpg
     title: Forming rolls of bread with a spiral of cheese.
@@ -306,7 +313,7 @@ There are a total of 46 recipes, covering a large diversity in bread types.  I s
 # Breads
 <!--
 ## #44: Beyond Ultimate Cinnamon and Sticky Buns (pp. 297-301)
-## #42: Sprouted Wheat and Brown Rice Bread (pp. 291-293)
+
 ## #41: Whole-Wheat Bread (pp. 288-290)
 ## #36: Stollen (pp. 268-273)
 ## #32: 100% Sourdough Rye Bread (pp. 253-255)
@@ -329,6 +336,12 @@ I knew I was going to love this one after just reading the description.  The pre
 {% include gallery id="gallery-onionpoppybialys" %}
 
 Yet another one where I have no idea what the bread *should* taste like since I have never seen a bialy before, but the result turned out pretty great!  The dough has a really lovely sweet taste despite having no sugar in it (that's probably the sprouted wheat flour), and the poppy seed and onion filling adds a great taste and texture to the whole thing.
+
+## #42: Sprouted Wheat and Brown Rice Bread (pp. 291-293)
+
+{% include gallery id="gallery-wheatbrownrice" %}
+
+Struggled a bit with this one.  Still really not used to sprouted flour, and I didn't get much of a rise here.  It feels like filling the bread with brown rice just weighed everything down.  I don't know, no science behind that, but I ended up with a fairly dense crumb.  Bread had a nice taste to it, though!
 
 ## #40: White Breads (pp. 284-287)
 
@@ -483,7 +496,7 @@ I'll be honest, despite these being light, airy, tasty bread buns I'm a bit disa
 Really, really liked this bread.  It's hard to tell from the photos but it was incredibly soft, and the use of the overnight biga gave it a really good flavor.
 
 ## #14: French Bread (pp. 174-177)
- 
+
 {% include gallery id="gallery-frenchbread" %}
 
 I'm fairly happy with this one.  It *tastes* like French bread.  However, I chose to split the dough into 4 baguettes, with I had done three and made them a bit thicker.  Rose just fine in the oven after scoring, I did a much better job with managing the steam this time.
@@ -577,5 +590,3 @@ I chose to go with the Christopsomo (Christmas bread), just because the cross de
 Anadama is a traditional bread in  New England that contains molasses, milk, and cornmeal (its history is not 100% certain, except it existed in Rockport Massachussetts by 1850).  I honestly didn't expect to like this one too much, since molasses is not a favorite of mine.  Overall, though, I was pleasantly surprised that it tasted like a slightly-sweet sandwich bread.
 
 Not my favorite bread in the world, but happy that it worked.
-
-
