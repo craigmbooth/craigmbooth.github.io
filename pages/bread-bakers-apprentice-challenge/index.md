@@ -278,14 +278,14 @@ gallery-wholewheat:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wholewheat1.jpg
     title: Dough, divided and ready for shaping
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wholewheat2.jpg
-    title: Proofed loaves of whole wheat bread
+    title: Proofed loaves of whole wheat bread.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wholewheat3.jpg
     title: Finished whole-wheat bread.
 gallery-wheatbrownrice:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wheatbrownrice1.jpg
-    title: Shaped sprouted wheat and brown rice dough
+    title: Shaped sprouted wheat and brown rice dough.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wheatbrownrice2.jpg
-    title: Loaves of sprouted wheat and brown rice bread
+    title: Loaves of sprouted wheat and brown rice bread.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wheatbrownrice3.jpg
     title: Crumb structure of sprouted wheat and brown rice bread.
 gallery-onionpoppybialys:
@@ -295,6 +295,13 @@ gallery-onionpoppybialys:
     title: Flattened disks full of onion-poppy filling.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionpoppybialys3.jpg
     title: Finished Onion & Poppy seed bialys.
+gallery-ultimatecinnamon:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ultimatecinnamon1.jpg
+    title: A sheet of dough, covered in cinnamon sugar.
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ultimatecinnamon2.jpg
+    title: Cinnamon rolls on a bed of caramel.
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ultimatecinnamon3.jpg
+    title: The flipped sticky buns.
 gallery-potatocheddarchive:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatocheddarchive1.jpg
     title: Forming rolls of bread with a spiral of cheese.
@@ -315,11 +322,10 @@ gallery-onionasiago:
 
 The [Bread Baker's Apprentice](https://pinchmysalt.com/the-bba-challenge/) challenge (BBA Challenge) is a challenge to bake all of the breads from the book Bread Baker's Apprentice, alphabetically from Anadama through whole-wheat.
 
-There are a total of 46 recipes, covering a large diversity in bread types.  I started the challenge on October 4th 2020, and it is still in progress with 40 (updated on Dec 19th 2020) completed.
+There are a total of 46 recipes, covering a large diversity in bread types.  I started the challenge on October 4th 2020, and it is still in progress with 43 (updated on Dec 24th 2020) completed.
 
 # Breads
 <!--
-## #44: Beyond Ultimate Cinnamon and Sticky Buns (pp. 297-301)
 
 ## #36: Stollen (pp. 268-273)
 ## #32: 100% Sourdough Rye Bread (pp. 253-255)
@@ -336,6 +342,12 @@ Great way to finish out the book.  This is one of my favorite breads from the wh
 {% include gallery id="gallery-potatocheddarchive" %}
 
 I knew I was going to love this one after just reading the description.  The previous recipes that included potato ended up super airy and light, this one was no exception.  Has a spiral of cheese through the whole roll, which you slash open to make look good when they cook.  I love this.
+
+## #44: Beyond Ultimate Cinnamon and Sticky Buns (pp. 297-301)
+
+{% include gallery id="gallery-ultimatecinnamon" %}
+
+This recipe works for cinnamon buns and also "sticky buns", which are not a thing I ever heard of before, but are essentially cinnamon buns cooked on a bed of caramel, then flipped upside down so the caramel soaks through them.  Just going to say:  Very, very, very tasty and also absolutely not something I should be near ever again because that was a lot of calories.
 
 ## #43: Sprouted Whole Wheat Onion and Poppy Seed Bialys (pp. 294-296)
 
