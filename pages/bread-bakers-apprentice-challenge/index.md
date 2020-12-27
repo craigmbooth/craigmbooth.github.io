@@ -246,6 +246,13 @@ gallery-sunflowerrye:
     title: Two couronnes of sunflower rye bread, proofing.
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/sunflowerrye3.jpg
     title: Two couronnes of sunflower rye bread.
+gallery-stollen:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/stollen1.jpg
+    title: The stollen loaf, ready for the oven
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/stollen2.jpg
+    title: Completed stollen, dusted in powdered sugar
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/stollen3.jpg
+    title: Cross-section through the stollen.
 gallery-swedishrye:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/swedishrye1.jpg
     title: Molasses, orance extract, aniseed, cardamom and fennel being boiled
@@ -327,7 +334,7 @@ There are a total of 46 recipes, covering a large diversity in bread types.  I s
 # Breads
 <!--
 
-## #36: Stollen (pp. 268-273)
+
 ## #32: 100% Sourdough Rye Bread (pp. 253-255)
 -->
 
@@ -392,6 +399,12 @@ I didn't expect much from this.  It's bread with no salt, which typically tastes
 {% include gallery id="gallery-swedishrye" %}
 
 There are a surprising number of breads in this book that have that Christmassy/medicinal taste.  I remain not a big fan of that flavor combo, and this bread was no exception.  At least it made my house smell nice when I boiled molasses, orange extract, aniseed, cardamom and fennel.  I also think I must have made a mistake somewhere, the dough was surprisingly stiff and even after I added extra water it was very hard to work.
+
+## #36: Stollen (pp. 268-273)
+
+{% include gallery id="gallery-stollen" %}
+
+It's another Christmas bread, and so tastes a lot like the Greek celebration bread and the pannetone.  Little more to add on top of that, but it was fairly nice, and the heavy dusting of powdered sugar certainly added something.
 
 ## #35: Sunflower Seed Rye (pp. 264-267)
 
