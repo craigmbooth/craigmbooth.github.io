@@ -7,6 +7,12 @@ header:
   overlay_filter: 0.5
   
 gallery:
+  - image_path: /assets/images/pages/hotsauce/hotsauce084.jpg
+    title: Co-Op Hot Sauce Carrot and Habanero
+  - image_path: /assets/images/pages/hotsauce/hotsauce083.jpg
+    title: Co-Op Hot Sauce Unicorn Tears
+  - image_path: /assets/images/pages/hotsauce/hotsauce082.jpg
+    title: Co-Op Hot Sauce Poblano
   - image_path: /assets/images/pages/hotsauce/hotsauce081.jpg
     title: Tabasco Scorpion Sauce
   - image_path: /assets/images/pages/hotsauce/hotsauce080.jpg
