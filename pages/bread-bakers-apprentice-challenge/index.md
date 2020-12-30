@@ -225,6 +225,13 @@ gallery-nydelirye:
     title: One free-standing loaf and one sandwich loaf
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/nydelirye3.jpg
     title: Finished onion deli rye breads, showing the crumb of the freestanding loaf
+gallery-ryesourdough:
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ryesourdough1.jpg
+    title: 100% rye flour dough.
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ryesourdough2.jpg
+    title: Two shaped loaves of 100% rye four sourdough.
+  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ryesourdough3.jpg
+    title: Finished rye sourdough loaves.
 gallery-painpoilane:
   - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/painpoilane1.jpg
     title: Loaf, scored but uncooked
@@ -329,14 +336,14 @@ gallery-onionasiago:
 
 The [Bread Baker's Apprentice](https://pinchmysalt.com/the-bba-challenge/) challenge (BBA Challenge) is a challenge to bake all of the breads from the book Bread Baker's Apprentice, alphabetically from Anadama through whole-wheat.
 
-There are a total of 46 recipes, covering a large diversity in bread types.  I started the challenge on October 4th 2020, and it is still in progress with 43 (updated on Dec 24th 2020) completed.
+There are a total of 46 recipes, covering a large diversity in bread types.  I started the challenge on September 4th 2020, and completed it on December 30th 2020, so was making a bread approximately once every 4 days.
+
+I think I learned a *lot* simply by making bread over and over and over again.  So much of baking bread is feeling and intuition, and just *knowing* from the feel of the dough whether to knead more, or let it proof for longer.  I definitely felt a shift in my baking by the latter half of the book.  To begin with I was essentially following the recipes rote, but after a while I started making game-time adjustments ("hmm, it's a bit cold and this hasn't proofed enough, I'll give it another 30 minutes", "five minutes wasn't enough kneading here, the dough needs more").
+
+Overall I'm absolutely glad that I spent a few months baking bread multiple times a week.  I'm ready for a break for a little while now, but am very excited about my newfound skill and can't wait to apply it to all manner of other bready goods.
 
 # Breads
-<!--
 
-
-## #32: 100% Sourdough Rye Bread (pp. 253-255)
--->
 
 ## #46: Roasted Onion and Asiago Miche (pp. 310-313)
 
@@ -423,6 +430,12 @@ This probably counts as my first BBA challenge fail.  I'm not a giant fan of the
 {% include gallery id="gallery-painpoilane" %}
 
 I was looking forward to this one if for no reason other than to make a 4 lbs loaf of bread, and I certainly succeeded at that.  It looks the part, and although the crumb is a bit tight has a solid sourdough taste.
+
+## #32: 100% Sourdough Rye Bread (pp. 253-255)
+
+{% include gallery id="gallery-ryesourdough" %}
+
+THis bread was honestly the least fun I had doing this challenge, and I don't think I ever got it to work.  First time through, I overmixed it and it had the texture of play doh, and was grey.  Second time through I gome something marginally better, but it barely rose.  No idea what I did wrong, but 100% frustrated at myself for this one.
 
 ## #31: New York Deli Rye (pp. 249-252)
 
