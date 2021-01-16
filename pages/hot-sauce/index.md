@@ -7,6 +7,12 @@ header:
   overlay_filter: 0.5
   
 gallery:
+  - image_path: /assets/images/pages/hotsauce/hotsauce087.jpg
+    title: Hot Winter Hot Sauce
+  - image_path: /assets/images/pages/hotsauce/hotsauce086.jpg
+    title: Char Man Sriracha
+  - image_path: /assets/images/pages/hotsauce/hotsauce085.jpg
+    title: Seed Ranch Hot Thai Green
   - image_path: /assets/images/pages/hotsauce/hotsauce084.jpg
     title: Co-Op Hot Sauce Carrot and Habanero
   - image_path: /assets/images/pages/hotsauce/hotsauce083.jpg
