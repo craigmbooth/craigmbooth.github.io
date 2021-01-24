@@ -7,6 +7,16 @@ header:
   overlay_filter: 0.5
   
 gallery:
+  - image_path: /assets/images/pages/hotsauce/hotsauce092.jpg
+    title: Dirty Dick's Sauce with a Tropical Twist
+  - image_path: /assets/images/pages/hotsauce/hotsauce091.jpg
+    title: Angry Goat Pepper Co. Purple Hippo
+  - image_path: /assets/images/pages/hotsauce/hotsauce090.jpg
+    title: Char Man Caribbean Hot Sauce
+  - image_path: /assets/images/pages/hotsauce/hotsauce089.jpg
+    title: Lucky Dog Year of the Dog
+  - image_path: /assets/images/pages/hotsauce/hotsauce088.jpg
+    title: Secret Aardvark Habanero Hot Sauce
   - image_path: /assets/images/pages/hotsauce/hotsauce087.jpg
     title: Hot Winter Hot Sauce
   - image_path: /assets/images/pages/hotsauce/hotsauce086.jpg
