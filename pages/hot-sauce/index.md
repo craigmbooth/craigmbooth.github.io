@@ -7,6 +7,12 @@ header:
   overlay_filter: 0.5
   
 gallery:
+  - image_path: /assets/images/pages/hotsauce/hotsauce095.jpg
+    title: Fresco Sauch Chipotle and Habanero
+  - image_path: /assets/images/pages/hotsauce/hotsauce094.jpg
+    title: Bottle Rocket Verde
+  - image_path: /assets/images/pages/hotsauce/hotsauce093.jpg
+    title: Chimney Rock Hot Sauce
   - image_path: /assets/images/pages/hotsauce/hotsauce092.jpg
     title: Dirty Dick's Sauce with a Tropical Twist
   - image_path: /assets/images/pages/hotsauce/hotsauce091.jpg
