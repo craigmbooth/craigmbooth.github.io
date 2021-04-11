@@ -7,6 +7,18 @@ header:
   overlay_filter: 0.5
   
 gallery:
+  - image_path: /assets/images/pages/hotsauce/hotsauce101.jpg
+    title: Makua to Makai Trinidad Shaka Sauce
+  - image_path: /assets/images/pages/hotsauce/hotsauce100.jpg
+    title: Clark and Hopkins Quintana Roo
+  - image_path: /assets/images/pages/hotsauce/hotsauce099.jpg
+    title: Uncle Dougie's Habanero Gold One Hit
+  - image_path: /assets/images/pages/hotsauce/hotsauce098.jpg
+    title: Hellfire Scotch Bonnet
+  - image_path: /assets/images/pages/hotsauce/hotsauce097.jpg
+    title: Dirty Dick's No Name Chipotle
+  - image_path: /assets/images/pages/hotsauce/hotsauce096.jpg
+    title: Bravado Spice Co Serrano Basil
   - image_path: /assets/images/pages/hotsauce/hotsauce095.jpg
     title: Fresco Sauch Chipotle and Habanero
   - image_path: /assets/images/pages/hotsauce/hotsauce094.jpg
