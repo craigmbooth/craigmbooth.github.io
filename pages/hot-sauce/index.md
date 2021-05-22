@@ -7,6 +7,26 @@ header:
   overlay_filter: 0.5
   
 gallery:
+  - image_path: /assets/images/pages/hotsauce/hotsauce111.jpg
+    title: 6ixheat Bird's Eye Hot Sauce
+  - image_path: /assets/images/pages/hotsauce/hotsauce110.jpg
+    title: The Emerald Slime Serrano Hot Sauce
+  - image_path: /assets/images/pages/hotsauce/hotsauce109.jpg
+    title: Bayou Gotham Bourbon Cayenne Ruby Rebelle
+  - image_path: /assets/images/pages/hotsauce/hotsauce108.jpg
+    title: Moore's Habanero Hot Sauce
+  - image_path: /assets/images/pages/hotsauce/hotsauce107.jpg
+    title: Trader Joe's Yuzu Hot Sauce
+  - image_path: /assets/images/pages/hotsauce/hotsauce106.jpg
+    title: Yellowbird Serrano Condiment
+  - image_path: /assets/images/pages/hotsauce/hotsauce105.jpg
+    title: Yellowbird Jalapeno Condiment
+  - image_path: /assets/images/pages/hotsauce/hotsauce104.jpg
+    title: Yellowbird Blue Agave Sriracha
+  - image_path: /assets/images/pages/hotsauce/hotsauce103.jpg
+    title: Yellowbird Ghost Pepper Condiment
+  - image_path: /assets/images/pages/hotsauce/hotsauce102.jpg
+    title: Yellowbird Habanero Condiment
   - image_path: /assets/images/pages/hotsauce/hotsauce101.jpg
     title: Makua to Makai Trinidad Shaka Sauce
   - image_path: /assets/images/pages/hotsauce/hotsauce100.jpg
