@@ -8,11 +8,10 @@ header:
   overlay_filter: 0.5
 ---
 
-## October 2020
+## June 2021
 
 I live in Chicago, IL and am CTO at [Packback](https://packback.co).  I am very excited about the AI and NLP applications that we are building at the moment.
 
-I'm currently trying to bake my way through every recipe in the Bread Baker's Apprentice (currently on Italian Bread), and am restarting running with Couch to 5k, currently on Week 6.
+I'm currently re-emerging into the world after COVID-related lockdown for a year.  I have recently made an effort to get consistently [better at logic puzzles](blog/learning-sudoku/), and have started baking with ancient grains, and am trying to develop an intuition for how to use them in sourdough.  I have also started makiong my own fresh sausages, and am currently trying to document my approach to bread baking.
 
-I wish I read more books.  I used to read on my commute, and now that I work from home, my reading has just dropped off a precipice.
-
+I still don't feel especially comnfortable in crowds without a mask on.
