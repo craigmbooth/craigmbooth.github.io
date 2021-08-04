@@ -7,6 +7,14 @@ header:
   overlay_filter: 0.5
   
 gallery:
+  - image_path: /assets/images/pages/hotsauce/hotsauce115.jpg
+    title: Dirty Bird's Swett Sauce Ghost
+  - image_path: /assets/images/pages/hotsauce/hotsauce114.jpg
+    title: Revved Up Spicy Cayenne
+  - image_path: /assets/images/pages/hotsauce/hotsauce113.jpg
+    title: Sami Sauce
+  - image_path: /assets/images/pages/hotsauce/hotsauce112.jpg
+    title: Double Take Scotch Bonnet Mustard
   - image_path: /assets/images/pages/hotsauce/hotsauce111.jpg
     title: 6ixheat Bird's Eye Hot Sauce
   - image_path: /assets/images/pages/hotsauce/hotsauce110.jpg
