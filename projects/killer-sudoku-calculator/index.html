@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Killer Sudoku Calculator</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<script src="https://unpkg.com/vue@next"></script>
+<div class="container-fluid text-center">
+  <div class="row content">
+    <div class="col-sm-2 sidenav"></div>
+    <div class="col-sm-8 text-left">
+
+      <div class="row">
+        <div class="col-md-4"><img src="grid.png" class="img-responsive" ></div>
+        <div class="col-md-8">
+          <h1>Killer Sudoku Combo Generator</h1>
+          <p>A <a href="https://en.wikipedia.org/wiki/Killer_sudoku">killer sudoku</a> is a type of Sudoku puzzle with an extra constraint.
+            In  addition to the usual Sudoku rule that each row, column and box must contain a set of the numbers
+            1 through 9, it adds a constraint that the sums of the numbers in some additional regions (shown as dashed boxes to the right)
+            must match some given numbers.  Solving a tough killer Sudoku typically requires knowing the combinations that sum to various
+            targets.  I built this calculator as an assistant to have to hand while I'm solving some of these problems having not yet
+            memorized many of the common combinations.</p>
+
+          <p>Select your target number, and the number of constituent numbers that must sum to that.  Optionally, select any numbers that should be excluded from the available combinations.  Additionally, click any combination to strike it out.  Clicked combinations will be marked with an asterisk to denote that they were manually deselected.</p>
+        </div>
+      </div>
+      <hr>
+      <div id="app">
+        <div class="row">
+          <div class="col-md-2"></div>
+          <div class="col-md-8">
+            Find combinations that sum to
+            <span>
+              <select v-model="select_t" @change="showCombos()" class="form-control-md">
+                <option v-for="t in ts" v-bind:value="{ t: t }">
+                  {{ t }}
+                </option>
+              </select>
+            </span>
+
+            in
+
+            <span>
+              <select v-model="select_n" @change="showCombos()" class="form-control-md">
+                <option v-for="n in ns" v-bind:value="{ n: n }">
+                  {{ n }}
+                </option>
+              </select>
+            </span>
+
+            numbers, excluding
+
+            <span class="excludelist">
+              <span v-for="index in 9">
+                <span class="form-check-inline excludeelement">
+                  <input class="form-check-input" @change="excludeNumber($event, index)" type="checkbox" id="exclude{{index}}" value="{{ index }}">
+                  <label class="form-check-label" for="exclude{{index}}">{{ index }}</label>
+                </span>
+              </span>
+            </span>
+          </div>
+        <div class="col-md-2"></div>
+        </div> <!-- /row -->
+
+        <hr>
+
+        <div class="row resultsclass text-center">
+          <ul class="results">
+            <li v-for="(combo, index) in combos">
+              <span :class="{ inactive: combos[index].excluded || combos[index].clicked }" @click="toggle(index)">
+                <span v-for="number in combo">{{ number }} </span>
+              </span>
+              <span v-if="combos[index].clicked">*</span>
+            </li>
+          </ul>
+        </div> <!-- /row -->
+      </div> <!-- /app -->
+    </div> <!-- /col -->
+    <div class="col-sm-2 sidenav">
+    </div>
+  </div>
+</div>
+
+<footer class="container-fluid text-center">
+  <p><a href="https://craigmbooth.com">Craig M. Booth</a>, 2021</p>
+</footer>
+
+<script src="vendor/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="vendor/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="vendor/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="combos.js"></script>
+<script src="index.js"></script>
+</body>
+</html>
