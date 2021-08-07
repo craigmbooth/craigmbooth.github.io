@@ -5,22 +5,22 @@ minimal_mistakes_skin    : "default"
 locale                   : "en-US"
 title                    : "Craig M. Booth's Homepage"
 title_separator          : "-"
-subtitle                 : 
+subtitle                 :
 name                     : "Craig Booth"
 description              : "Craig's home on the internet"
 url                      : "https://craigmbooth.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "craigmbooth/craigmbooth.github.io"
-teaser                   : 
+teaser                   :
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : 
+masthead_title           :
 # breadcrumbs            : false
 words_per_minute         : 200
 comments:
   provider               : disqus
   disqus:
     shortname            : craigmbooth
-    
+
 reCaptcha:
   siteKey                :
   secret                 :
@@ -45,7 +45,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -222,4 +222,4 @@ defaults:
       related: true
 
 head_scripts:
-  - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
