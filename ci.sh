@@ -18,4 +18,5 @@ else
     bin/htmltest $1 $HTMLTEST_OPTIONS
 fi
 
+mdl .
 
