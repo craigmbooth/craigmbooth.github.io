@@ -13,7 +13,7 @@ In the past I have taught, as an Adjunct Instructor, a course on Big Data to the
 
 # Goal of the Session:  The Obligation to Dissent
 
-Shortly after I first started working at a startup, I read the book [How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt-ebook/dp/B00HUU13Y0).  A very readable summary of how Google operates as a company, how they are structured, and their culture.
+Shortly after I first started working at a startup, I read the book [How Google Works](https://www.amazon.com/How-Google-Works-Eric-Schmidt-ebook/dp/B00HUU13Y0){:data-proofer-ignore=""}.  A very readable summary of how Google operates as a company, how they are structured, and their culture.
 
 One part of the book stood out to me, and changed how I approached my work was this:
 
