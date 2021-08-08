@@ -134,6 +134,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - projects/plotter/img  # sigal works with md files that render badly
 keep_files:
   - .git
   - .svn
