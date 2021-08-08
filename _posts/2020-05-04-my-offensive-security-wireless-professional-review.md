@@ -24,7 +24,7 @@ A few days after registering, you receive the welcome email and course materials
 
 The PDF itself is 386 pages of instruction.  Approximately the first half of it is dedicated to the history of WiFi, the detailed structure of WiFi packets, and the algorithms used for communication.  I spent a fair amount of time grinding through this dry material.  I didn’t always retain 100% of it, but I came away feeling like my understanding of WiFi was measurably higher than it was at the start.
 
-After this introductory material, you get on to the meat of the course:  Compromising wireless networks.  To do this, you need to put together a home lab by purchasing a suitable wireless card (must be able to do packet injection) and a router.  Largely following the course recommendations, I got a [D-Link DIR-615 Wireless-N Router](https://smile.amazon.com/gp/product/B000QD7B6W/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1), and a [Alfa AWUS036NHA - Wireless B/G/N USB Adaptor](https://smile.amazon.com/gp/product/B004Y6MIXS/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+After this introductory material, you get on to the meat of the course:  Compromising wireless networks.  To do this, you need to put together a home lab by purchasing a suitable wireless card (must be able to do packet injection) and a router.  Largely following the course recommendations, I got a [D-Link DIR-615 Wireless-N Router](https://smile.amazon.com/gp/product/B000QD7B6W/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1){:data-proofer-ignore=""}, and a [Alfa AWUS036NHA - Wireless B/G/N USB Adaptor](https://smile.amazon.com/gp/product/B004Y6MIXS/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1){:data-proofer-ignore=""}
 
 {% include figure image_path="/assets/images/blog/oswp/oswp_equipment.png" caption="The equipment required for the OSWP" %}
 
@@ -70,7 +70,7 @@ The exam was really enjoyable.  Rather than being a multiple choice exercise, yo
 
 As for the difficulty of the exam: if you have done the exercises in the PDF, you have all the tools you need to pass.  The exam is four hours in length, which is an ample amount of time to get everything done.
 
-That said, to prepare myself I did a bit of exam-specific work.  It is public knowledge that the exam is “crack some Wifi networks”.  With that in mind, I spent 20 minutes the night before the exam just writing out a flowchart of what I could try, given the skils I learned in the course:  
+That said, to prepare myself I did a bit of exam-specific work.  It is public knowledge that the exam is “crack some Wifi networks”.  With that in mind, I spent 20 minutes the night before the exam just writing out a flowchart of what I could try, given the skils I learned in the course:
 
    * IF it’s a WPA2 network, do X
    * ELSE IF it’s a WEP network and there clients connected to it, do Y
@@ -79,7 +79,7 @@ That said, to prepare myself I did a bit of exam-specific work.  It is public kn
 
 When I started my exam I first looked at traffic to all three networks, identified which paths I would be taking down the flowchart, and so had a pretty good plan of attack put together in the first few minutes.
 
-At that point, it was just executing on things I knew.  I tripped up a couple of times due to inaccurate typing, but got the last password within 50 minutes of starting.  I then spent another hour writing the report, and re-cracking one of the networks just to make sure I got all the juciest screenshots. 
+At that point, it was just executing on things I knew.  I tripped up a couple of times due to inaccurate typing, but got the last password within 50 minutes of starting.  I then spent another hour writing the report, and re-cracking one of the networks just to make sure I got all the juciest screenshots.
 
 A few days later, I got back the "We are happy to inform you that you have successfully completed..." email, and here is a [link to the certification](https://www.youracclaim.com/badges/1ec73a2f-164b-47e1-b039-a1529929f6e4)
 
