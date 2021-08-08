@@ -125,4 +125,4 @@ And here are the lightest quarterbacks playing in the NFL on a year-to-year basi
 This post was picked up in a few locations, including:
 
 *   [Deadspin](https://regressing.deadspin.com/how-have-the-weights-of-nfl-positions-changed-over-time-1545701731)
-*   [The Washington Post](https://www.washingtonpost.com/blogs/early-lead/wp/2014/05/29/why-johnny-manziels-weight-matters-more-than-height-or-vegas-trips/?tid=up_next)
+*   https://www.washingtonpost.com/blogs/early-lead/wp/2014/05/29/why-johnny-manziels-weight-matters-more-than-height-or-vegas-trips/?tid=up_next (link removed since dead)

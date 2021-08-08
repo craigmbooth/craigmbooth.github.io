@@ -1,9 +1,10 @@
 software:
-  - title: Killed Sudoku Combo Calculator (2021)
+  - title: Killer Sudoku Combo Calculator (2021)
     description: A simple Vue app that calculates possible combinations in killer Sudoku puzzles
     img: /assets/images/projects/killer.png
     img_alt: An empty killer Sudoku puzzle grid.
-    relative_url: killer-sudoku-calculator
+    relative_url: killer-sudoku-calculator/
+
   - title: You Killed a Bear (2020)
     description: YKAB is a simple maze-escape game written with the micro-framework <a href="https://24a2.routley.io/">24a2</a>.  This is an exercise in seeing if I could create an entertaining game on a simple grid of 24 x 24 pixels.
     img: /assets/images/projects/ykab.png
@@ -46,12 +47,12 @@ food:
     description:  I'm baking every bread in the textbook "The Bread Baker's Apprentice", alphabetically.
     img: /assets/images/projects/bread_bakers_apprentice.jpg
     img_alt: Cover for the bread baker's apprentice challenge page
-    relative_url: /pages/bread-bakers-apprentice-challenge
+    relative_url: /pages/bread-bakers-apprentice-challenge/
   - title: Hot sauce collection (2010-)
     description:  I love hot sauce, and I keep track of all of it that I buy.
     img: /assets/images/projects/hot_peppers.png
     img_alt: Cover for the hot sauce list
-    relative_url: /pages/hot-sauce
+    relative_url: /pages/hot-sauce/
 
 other:
 
