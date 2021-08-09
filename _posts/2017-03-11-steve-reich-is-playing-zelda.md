@@ -19,6 +19,4 @@ Completely unrelated to this, I woke up this morning with the puzzle solving sou
 
 So, a few hours later I don't really know why I made this, but here's a rendition of the Zelda Puzzle tune in the form of Steve Reich's Piano Phase, <a href="/projects/reich/">Zelda Phase</a>:
 
-
 {% include figure image_path="/assets/images/blog/reich/sr.png" caption="A pixelated Steve Reich" %}
-

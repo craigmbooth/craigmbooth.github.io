@@ -5,7 +5,7 @@ excerpt: My hot sauce gallery
 header:
   overlay_image: /assets/images/pages/hotsauce/header.png
   overlay_filter: 0.5
-  
+
 gallery:
   - image_path: /assets/images/pages/hotsauce/hotsauce115.jpg
     title: Dirty Bird's Swett Sauce Ghost
@@ -237,7 +237,7 @@ gallery:
     title: "Torchbearer Sauces All Natural #37 Tarnation Sauce"
   - image_path: /assets/images/pages/hotsauce/hotsauce001.jpg
     title: Trappey's Red Devil Cayenne Pepper Sauce
---- 
+---
 
 I have always loved hot sauce, and end up adding some to most (if not all) of the meals and snacks I eat.  At some point in 2013 I started keeping track of the number of brands of hot sauce I had gotten through in an online gallery.
 

@@ -28,7 +28,6 @@ gallery:
     title: "User tag management"
     image_path: "/assets/images/blog/statsninja/sn7.png"
 
-
 ---
 
 Over the past year, together with my friend Shingo, I created a baseball statistics website, statsninja, which I am exceptionally proud of.

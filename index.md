@@ -4,10 +4,10 @@ author_profile: false
 header:
   overlay_image: /assets/images/main_header.png
   overlay_filter: 0.5
-  
+
 intro:
   - excerpt: I am a software engineer, data scientist and expat currently living in Chicago, IL.  In the past I was an astrophysicist, working on high performance computing simulations of galaxy formation.  Currently, I am CTO at the EdTech company [Packback](https://packback.co), where I am part of a team that helps inspire the curiosity inside of every student.  I was previously director of engineering at [Narrative Science](https://www.narrativescience.com)
-  
+
 whoami:
   - excerpt: A very brief sketch of who I am and what I do for a living
 
@@ -43,7 +43,7 @@ feature_row:
     title: "Blog"
     url: "blog/"
     btn_label: "Go to Blog"
-    btn_class: "btn--primary"    
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}

@@ -10,7 +10,6 @@ header:
   overlay_filter: 0.5
 ---
 
-
 Mainly for my own reference, this page contains a list of the colloquia I was invited to give during my time in astrophysics.
 
 **Yale Center of Astronomy and Astrophysics**

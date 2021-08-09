@@ -344,7 +344,6 @@ Overall I'm absolutely glad that I spent a few months baking bread multiple time
 
 # Breads
 
-
 ## #46: Roasted Onion and Asiago Miche (pp. 310-313)
 
 {% include gallery id="gallery-onionasiago" %}
