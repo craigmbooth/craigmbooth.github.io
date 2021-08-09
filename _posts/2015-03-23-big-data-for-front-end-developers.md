@@ -30,7 +30,7 @@ It is this mindset that I want to bring to Big Data for Front End Engineers.
 We only have two hours, so we're not going to take a deep dive into technologies, instead I'm aiming to do two things:
 
 1. Survey the landscape of Big Data, and show the basic concepts and tradeoffs that need to be made.  Do I need to be accurate? or fast?  Do I need to be consistent? or accessible?
-2. Understand how the rising volumes of data are going to affect everybody.  Focus on what we will all need to do to keep running in the face of ever growing data requirements.
+1. Understand how the rising volumes of data are going to affect everybody.  Focus on what we will all need to do to keep running in the face of ever growing data requirements.
 
 I think that every developer at a startup should be able to reason effectively about the problems posed by large volumes of data, and I hope to be able to communicate at least the outlines of a roadmap in this session.  Here is what we are going to cover:
 

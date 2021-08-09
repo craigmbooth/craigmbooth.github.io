@@ -3,8 +3,6 @@ layout: single
 title: "Building a Microgame:  You Killed a Bear"
 excerpt: "Building out a little microgame"
 tags: ["experiment", "game"]
-#header:
-#  overlay_color: "#0192CA"
 header:
   overlay_image: /assets/images/blog/ykab/24a2.png
   overlay_filter: 0.5

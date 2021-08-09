@@ -11,12 +11,12 @@ I like to listen to music when I code.  Music drowns out background distractions
 
 Over the years I've learned that not just _any_ sort of music will get the job done.  Drums, complex beats, overwhelming melodies and obvious lyrics make it impossible to maintain any sort of focus.  I've gradually honed in on a very specific sort of music that I can work to.  It's hard to define, but good work music for me usually contains a number of the following:
 
-*   Few, or no, drums
-*   Vocals, if any, are distorted to the point that language ceases to matter
-*   Many layered instruments, providing a rich texture
-*   'Found' sounds and pure ambience
-*   Minor keys and arpeggiated chords
-*   Echoes
+* Few, or no, drums
+* Vocals, if any, are distorted to the point that language ceases to matter
+* Many layered instruments, providing a rich texture
+* 'Found' sounds and pure ambience
+* Minor keys and arpeggiated chords
+* Echoes
 
 This led me towards a lot of post-rock, ambient, minimalist-classical, trance and experimental music.  No matter how much I find, though, I always need more.  Today I was introduced to something wonderful, a podcast called  [musicForProgramming()](https://musicforprogramming.net).  musicForProgramming() is a podcast that has precisely the aesthetic I described above.
 

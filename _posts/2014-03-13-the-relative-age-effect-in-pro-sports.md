@@ -9,10 +9,10 @@ header:
 
 I remember reading a Malcolm Gladwell book, Outliers, and learning about an idea that he popularized.  Namely, that if you look at ice hockey teams, the majority of the players were born in January through March.  The explanation for this is the so-called relative-age effect. Namely:
 
-*   In Canada, the cutoff for joining a hockey team in a year is Jan. 1
-*   This means that when they're allowed to join junior hockey, some kids have just turned six, while others are almost seven
-*   The bigger kids tend to be better at hockey, so
-*   These kids end up playing in the teams, getting more training, getting even better
+* In Canada, the cutoff for joining a hockey team in a year is Jan. 1
+* This means that when they're allowed to join junior hockey, some kids have just turned six, while others are almost seven
+* The bigger kids tend to be better at hockey, so
+* These kids end up playing in the teams, getting more training, getting even better
 
 This argument feels very compelling to me, but it always puzzled me that I have seen it discussed in a large number of places, but it is always in the context of hockey.  Surely in the US, too, there is a cutoff date for school children to join teams, and surely the same things must hold true in football and basketball and baseball.
 
