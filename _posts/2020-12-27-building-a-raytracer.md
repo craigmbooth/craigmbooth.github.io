@@ -40,7 +40,9 @@ I have always been embarrassed at how bad my linear algebra is.  During college 
 
 Anyway, it’s slow going to start with, to build a ray tracer, you implement the atoms of the system (vectors, matrices, colors, canvases, intersections, rays) with little to show for it. Then, it all comes together at the same time.  You want me to grab a shape, spin it 270 degrees, make it five times taller, then throw it into the far distance?  Sure, I can do that in one line of code.
 
-        new = old.RotX(270).Scale(1, 5, 1).Translate(0, 0, 15)
+```python
+new = old.RotX(270).Scale(1, 5, 1).Translate(0, 0, 15)
+```
 
 Under the hood that’s a bunch of linear algebra that I coded from scratch, but at this level, I just don’t need to know.  This moment, the one where you realize you are working at a good level of abstraction is a really good feeling in programming and working through building a ray tracer gave it to me in spades.  I gained comfort with the underlying matrix algebra by implementing it from scratch, but at the same time could write these simple one-liners to do really tough things.
 

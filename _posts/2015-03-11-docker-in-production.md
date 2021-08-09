@@ -6,12 +6,14 @@ tags: [devops, docker, meetup]
 header:
   overlay_color: "#0192CA"
 gallery:
-  - url: /assets/images/blog/docker-meetup/meetup.jpg
-    image_path: /assets/images/blog/docker-meetup/meetup.jpg
-    alt: "Picture from the meetup"
-  - url: /assets/images/blog/docker-meetup/meetup2.jpg
-    image_path: /assets/images/blog/docker-meetup/meetup2.jpg
-    alt: "Picture from the meetup"
+
+- url: /assets/images/blog/docker-meetup/meetup.jpg
+  image_path: /assets/images/blog/docker-meetup/meetup.jpg
+  alt: "Picture from the meetup"
+- url: /assets/images/blog/docker-meetup/meetup2.jpg
+  image_path: /assets/images/blog/docker-meetup/meetup2.jpg
+  alt: "Picture from the meetup"
+
 ---
 
 Earlier this year, I attended the DevOps Days Chicago conference and one of the talks that stuck with me was by [Bridget Kromhout](https://bridgetkromhout.com/), who stepped up at the start of the conference and gave a great talk, demystifying a bit of DevOps jargon for the rest of us (unicorns? pigs? goats in silos? cats? I don't even know).

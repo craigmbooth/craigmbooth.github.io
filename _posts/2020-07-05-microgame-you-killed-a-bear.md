@@ -6,11 +6,14 @@ tags: ["experiment", "game"]
 header:
   overlay_image: /assets/images/blog/ykab/24a2.png
   overlay_filter: 0.5
+
 gallery:
-  - image_path: /assets/images/blog/ykab/game1.png
-    title: The final state of a YKAB game (fail)
-  - image_path: /assets/images/blog/ykab/game2.png
-    title: The final state of a YKAB game (win)
+
+- image_path: /assets/images/blog/ykab/game1.png
+  title: The final state of a YKAB game (fail)
+- image_path: /assets/images/blog/ykab/game2.png
+  title: The final state of a YKAB game (win)
+
 ---
 
 I have always wanted to try my hand at building a game, but have never seriously gotten around to it.  A big part of the reason for this is that I have precisely no artistic abilities and know that no matter how long I spend building pieces of logic that I'll inevitably struggle and get frustrated when dealing with music, graphics, etc.

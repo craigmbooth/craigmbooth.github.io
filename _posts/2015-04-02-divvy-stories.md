@@ -37,7 +37,7 @@ I really think that our app showcases the Divvy data in a unique way, and by usi
 
 We are finalists in the 2015 data challenge, in the Most Creative category. [I'd love it if you voted for us here](https://redeyechicago.com/news/redeye-divvy-data-challenge-2015-voting-20150330-htmlstory.html)!
 
-*Update:  We won.  Here is the page that was published in the Red Eye*
+# Update:  We won.  Here is the page that was published in the Red Eye
 
 {% include figure image_path="/assets/images/blog/divvy-stories/newspaper.jpg" caption="Picture from the Red Eye announcing the winners of the competition" %}
 

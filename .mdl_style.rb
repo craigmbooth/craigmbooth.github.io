@@ -1,10 +1,5 @@
 all
 
-exclude_rule 'MD032'
-exclude_rule 'MD034'
-exclude_rule 'MD036'
-exclude_rule 'MD046'
-
 # MD013 Line length
 # There are just a lot of these to fix
 exclude_rule 'MD013'
