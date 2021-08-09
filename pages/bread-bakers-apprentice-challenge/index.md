@@ -9,327 +9,418 @@ toc: true
 toc_label: Table of Contents
 
 gallery-anadama:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/anadama1.jpg
-    title: Anadama bread dough
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/anadama2.jpg
-    title: Anadama bread in bread pans
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/anadama3.jpg
-    title: Completed anadama bread
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/anadama1.jpg
+  title: Anadama bread dough
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/anadama2.jpg
+  title: Anadama bread in bread pans
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/anadama3.jpg
+  title: Completed anadama bread
+
 gallery-artos:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/artos1.jpg
-    title: Artos bread dough with fruits and nuts
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/artos2.jpg
-    title: Artos bread on a baking sheet
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/artos3.jpg
-    title: Completed artos bread
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/artos1.jpg
+  title: Artos bread dough with fruits and nuts
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/artos2.jpg
+  title: Artos bread on a baking sheet
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/artos3.jpg
+  title: Completed artos bread
+
 gallery-bagels:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/bagels1.jpg
-    title: Bagels on a baking tray
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/bagels2.jpg
-    title: Bagel boiling
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/bagels3.jpg
-    title: Completed bagels
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/bagels1.jpg
+  title: Bagels on a baking tray
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/bagels2.jpg
+  title: Bagel boiling
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/bagels3.jpg
+  title: Completed bagels
+
 gallery-brioche:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/brioche1.jpg
-    title: Brioche dough fresh from the fridge
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/brioche2.jpg
-    title: Brioche a tete in holders
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/brioche3.jpg
-    title: Completed brioche
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/brioche1.jpg
+  title: Brioche dough fresh from the fridge
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/brioche2.jpg
+  title: Brioche a tete in holders
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/brioche3.jpg
+  title: Completed brioche
+
 gallery-casatiello:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/casatiello1.jpg
-    title: Ingredients for casatiello
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/casatiello2.jpg
-    title: Casatiello after proofing
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/casatiello3.jpg
-    title: Completed casatiello
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/casatiello1.jpg
+  title: Ingredients for casatiello
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/casatiello2.jpg
+  title: Casatiello after proofing
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/casatiello3.jpg
+  title: Completed casatiello
+
 gallery-challah:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/challah1.jpg
-    title: Challah being braded
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/challah2.jpg
-    title: Challah loaves on a baking tray
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/challah3.jpg
-    title: Completed challah
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/challah1.jpg
+  title: Challah being braded
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/challah2.jpg
+  title: Challah loaves on a baking tray
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/challah3.jpg
+  title: Completed challah
+
 gallery-ciabatta:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ciabatta1.jpg
-    title: Ciabatta dough
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ciabatta2.jpg
-    title: Ciabatta proofing on a couche
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ciabatta3.jpg
-    title: Completed ciabatta
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ciabatta1.jpg
+  title: Ciabatta dough
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ciabatta2.jpg
+  title: Ciabatta proofing on a couche
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ciabatta3.jpg
+  title: Completed ciabatta
+
 gallery-cinnamonbread:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cinnamonbread1.jpg
-    title: Dough with cinnamon sugar
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cinnamonbread2.jpg
-    title: Completed cinnamon bread with swirl
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cinnamonbread3.jpg
-    title: Completed cinnamon bread loaves
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cinnamonbread1.jpg
+  title: Dough with cinnamon sugar
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cinnamonbread2.jpg
+  title: Completed cinnamon bread with swirl
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cinnamonbread3.jpg
+  title: Completed cinnamon bread loaves
+
 gallery-cinnamonbuns:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cinnamonbuns1.jpg
-    title: Cinnamon bun dough with cinnamon sugar
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cinnamonbuns2.jpg
-    title: Cinnamon buns proofing in a baking tray
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cinnamonbuns3.jpg
-    title: Finished cinnamon buns
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cinnamonbuns1.jpg
+  title: Cinnamon bun dough with cinnamon sugar
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cinnamonbuns2.jpg
+  title: Cinnamon buns proofing in a baking tray
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cinnamonbuns3.jpg
+  title: Finished cinnamon buns
+
 gallery-cornbread:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cornbread1.jpg
-    title: Wet and dry ingredients for corn bread, about ot be mixed
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cornbread2.jpg
-    title: Corn bread in a cast iron, pre cooking
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cornbread3.jpg
-    title: Finished corn bread
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cornbread1.jpg
+  title: Wet and dry ingredients for corn bread, about ot be mixed
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cornbread2.jpg
+  title: Corn bread in a cast iron, pre cooking
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cornbread3.jpg
+  title: Finished corn bread
+
 gallery-cranberrywalnut:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cranberrywalnut1.jpg
-    title: Cranberry-walnut dough, post-proofing
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cranberrywalnut2.jpg
-    title: Dough ready to be braided
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cranberrywalnut3.jpg
-    title: Finished cranberry-walnut loaf
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cranberrywalnut1.jpg
+  title: Cranberry-walnut dough, post-proofing
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cranberrywalnut2.jpg
+  title: Dough ready to be braided
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/cranberrywalnut3.jpg
+  title: Finished cranberry-walnut loaf
+
 gallery-englishmuffins:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/englishmuffins1.jpg
-    title: English muffin dough, pre proofing
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/englishmuffins2.jpg
-    title: English muffins cooking in a cast iron pan
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/englishmuffins3.jpg
-    title: Finished english muffins
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/englishmuffins1.jpg
+  title: English muffin dough, pre proofing
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/englishmuffins2.jpg
+  title: English muffins cooking in a cast iron pan
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/englishmuffins3.jpg
+  title: Finished english muffins
+
 gallery-foccacia:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/foccacia1.jpg
-    title: Foccacia dough
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/foccacia2.jpg
-    title: Foccacia, dimpled and covered with olive oil and herbs
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/foccacia3.jpg
-    title: Finished foccacia
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/foccacia1.jpg
+  title: Foccacia dough
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/foccacia2.jpg
+  title: Foccacia, dimpled and covered with olive oil and herbs
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/foccacia3.jpg
+  title: Finished foccacia
+
 gallery-frenchbread:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/frenchbread1.jpg
-    title: French bread dough on the couche
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/frenchbread2.jpg
-    title: Completed french bread
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/frenchbread3.jpg
-    title: Completed french bread
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/frenchbread1.jpg
+  title: French bread dough on the couche
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/frenchbread2.jpg
+  title: Completed french bread
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/frenchbread3.jpg
+  title: Completed french bread
+
 gallery-italianbread:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/italianbread1.jpg
-    title: Italian bread, shaped into a large batard and some smaller torpedo rolls
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/italianbread2.jpg
-    title: Italian bread, after slashing
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/italianbread3.jpg
-    title: Finished Italian bread
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/italianbread1.jpg
+  title: Italian bread, shaped into a large batard and some smaller torpedo rolls
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/italianbread2.jpg
+  title: Italian bread, after slashing
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/italianbread3.jpg
+  title: Finished Italian bread
+
 gallery-kaiserbuns:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/kaiserbuns1.jpg
-    title: Kaiser buns, pre-oven
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/kaiserbuns2.jpg
-    title: Finished kaiser buns
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/kaiserbuns3.jpg
-    title: Finished kaiser buns, with crumb
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/kaiserbuns1.jpg
+  title: Kaiser buns, pre-oven
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/kaiserbuns2.jpg
+  title: Finished kaiser buns
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/kaiserbuns3.jpg
+  title: Finished kaiser buns, with crumb
+
 gallery-lavashcrackers:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/lavashcrackers1.jpg
-    title: Lavash cracker dough on a baking tray
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/lavashcrackers2.jpg
-    title: Lavash cracker dough after being cut and spiced
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/lavashcrackers3.jpg
-    title: Finished lavash crackers
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/lavashcrackers1.jpg
+  title: Lavash cracker dough on a baking tray
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/lavashcrackers2.jpg
+  title: Lavash cracker dough after being cut and spiced
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/lavashcrackers3.jpg
+  title: Finished lavash crackers
+
 gallery-lightwheat:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/lightwheat1.jpg
-    title: Light wheat bread, in the baking pan
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/lightwheat2.jpg
-    title: Light wheat bread after proofing
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/lightwheat3.jpg
-    title: Finished light wheat bread, with crumb
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/lightwheat1.jpg
+  title: Light wheat bread, in the baking pan
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/lightwheat2.jpg
+  title: Light wheat bread after proofing
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/lightwheat3.jpg
+  title: Finished light wheat bread, with crumb
+
 gallery-marbledrye:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/marbledrye1.jpg
-    title: Chunks of light and dark dough
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/marbledrye2.jpg
-    title: A pile of alternating colored pieces of dough, waiting for forming into a loaf
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/marbledrye3.jpg
-    title: Cut through a loaf of marbled rye bread
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/marbledrye1.jpg
+  title: Chunks of light and dark dough
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/marbledrye2.jpg
+  title: A pile of alternating colored pieces of dough, waiting for forming into a loaf
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/marbledrye3.jpg
+  title: Cut through a loaf of marbled rye bread
+
 gallery-multigrain:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/multigrain1.jpg
-    title: Multigrain bread, proofing in a bread pan
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/multigrain2.jpg
-    title: Finished multigrain bread
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/multigrain3.jpg
-    title: First slice of multigrain bread
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/multigrain1.jpg
+  title: Multigrain bread, proofing in a bread pan
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/multigrain2.jpg
+  title: Finished multigrain bread
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/multigrain3.jpg
+  title: First slice of multigrain bread
+
 gallery-painancienne:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/painancienne1.jpg
-    title: Very high hydration dough
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/painancienne2.jpg
-    title: Dough shaped into three baguettes
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/painancienne3.jpg
-    title:  Completed Pain à l’Ancienne
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/painancienne1.jpg
+  title: Very high hydration dough
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/painancienne2.jpg
+  title: Dough shaped into three baguettes
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/painancienne3.jpg
+  title:  Completed Pain à l’Ancienne
+
 gallery-paindecampagne:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/paindecampagne1.jpg
-    title: A large amount of lean dough.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/paindecampagne2.jpg
-    title: The Epi and Fougasse, pre-baking.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/paindecampagne3.jpg
-    title: "From left-to-right:  Fendu, Epi, Fougasse"
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/paindecampagne1.jpg
+  title: A large amount of lean dough.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/paindecampagne2.jpg
+  title: The Epi and Fougasse, pre-baking.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/paindecampagne3.jpg
+  title: "From left-to-right:  Fendu, Epi, Fougasse"
+
 gallery-panesiciliano:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/panesiciliano1.jpg
-    title: Big pile of dough, post proofing
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/panesiciliano2.jpg
-    title: Dough shaped into two S-shaped loaves
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/panesiciliano3.jpg
-    title: Completed pane Siciliano
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/panesiciliano1.jpg
+  title: Big pile of dough, post proofing
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/panesiciliano2.jpg
+  title: Dough shaped into two S-shaped loaves
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/panesiciliano3.jpg
+  title: Completed pane Siciliano
+
 gallery-pizzanapoletano:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pizzanapoletano1.jpg
-    title: Ball of dough, pre-shaping
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pizzanapoletano2.jpg
-    title: Decorated pizza on a peel
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pizzanapoletano3.jpg
-    title: Completed pizza napoletana
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pizzanapoletano1.jpg
+  title: Ball of dough, pre-shaping
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pizzanapoletano2.jpg
+  title: Decorated pizza on a peel
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pizzanapoletano3.jpg
+  title: Completed pizza napoletana
+
 gallery-pannettone:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pannettone1.jpg
-    title: Very sticky ball of enriched dough
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pannettone2.jpg
-    title: Pannettone proofing in paper pannettone pans
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pannettone3.jpg
-    title: Completed Pannettone loaves
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pannettone1.jpg
+  title: Very sticky ball of enriched dough
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pannettone2.jpg
+  title: Pannettone proofing in paper pannettone pans
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pannettone3.jpg
+  title: Completed Pannettone loaves
+
 gallery-poolishbaguette:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/poolishbaguette1.jpg
-    title: Ball of dough, pre-shaping
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/poolishbaguette2.jpg
-    title: Decorated pizza on a peel
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/poolishbaguette3.jpg
-    title: Completed pizza napoletana
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/poolishbaguette1.jpg
+  title: Ball of dough, pre-shaping
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/poolishbaguette2.jpg
+  title: Decorated pizza on a peel
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/poolishbaguette3.jpg
+  title: Completed pizza napoletana
+
 gallery-portugesesweetbread:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/portugesesweetbread1.jpg
-    title: Two balls of dough in pans
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/portugesesweetbread2.jpg
-    title: Two mahogany-colored loaves of Portugese sweet bread
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/portugesesweetbread3.jpg
-    title: Crumb of the bread, surprisingly light given the sugar-browning on the outside.
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/portugesesweetbread1.jpg
+  title: Two balls of dough in pans
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/portugesesweetbread2.jpg
+  title: Two mahogany-colored loaves of Portugese sweet bread
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/portugesesweetbread3.jpg
+  title: Crumb of the bread, surprisingly light given the sugar-browning on the outside.
+
 gallery-potatorosemary:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatorosemary1.jpg
-    title: Potato-rosemary dough, proofing
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatorosemary2.jpg
-    title: Two completed potato-rosemary loaves
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatorosemary3.jpg
-    title: Crumb of the bread
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatorosemary1.jpg
+  title: Potato-rosemary dough, proofing
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatorosemary2.jpg
+  title: Two completed potato-rosemary loaves
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatorosemary3.jpg
+  title: Crumb of the bread
+
 gallery-pugliese:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pugliese1.jpg
-    title: Dough, sitting in a bowl
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pugliese2.jpg
-    title: Two loaves proofing in bannetons
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pugliese3.jpg
-    title: Crumb of the bread
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pugliese1.jpg
+  title: Dough, sitting in a bowl
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pugliese2.jpg
+  title: Two loaves proofing in bannetons
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pugliese3.jpg
+  title: Crumb of the bread
+
 gallery-basicsourdough:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/basicsourdough1.jpg
-    title: Potato-rosemary dough, proofing
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/basicsourdough2.jpg
-    title: Two completed potato-rosemary loaves
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/basicsourdough3.jpg
-    title: Crumb of the bread
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/basicsourdough1.jpg
+  title: Potato-rosemary dough, proofing
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/basicsourdough2.jpg
+  title: Two completed potato-rosemary loaves
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/basicsourdough3.jpg
+  title: Crumb of the bread
+
 gallery-nydelirye:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/nydelirye1.jpg
-    title: Onions, lightly sauteeing
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/nydelirye2.jpg
-    title: One free-standing loaf and one sandwich loaf
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/nydelirye3.jpg
-    title: Finished onion deli rye breads, showing the crumb of the freestanding loaf
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/nydelirye1.jpg
+  title: Onions, lightly sauteeing
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/nydelirye2.jpg
+  title: One free-standing loaf and one sandwich loaf
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/nydelirye3.jpg
+  title: Finished onion deli rye breads, showing the crumb of the freestanding loaf
+
 gallery-ryesourdough:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ryesourdough1.jpg
-    title: 100% rye flour dough.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ryesourdough2.jpg
-    title: Two shaped loaves of 100% rye four sourdough.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ryesourdough3.jpg
-    title: Finished rye sourdough loaves.
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ryesourdough1.jpg
+  title: 100% rye flour dough.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ryesourdough2.jpg
+  title: Two shaped loaves of 100% rye four sourdough.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ryesourdough3.jpg
+  title: Finished rye sourdough loaves.
+
 gallery-painpoilane:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/painpoilane1.jpg
-    title: Loaf, scored but uncooked
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/painpoilane2.jpg
-    title: Finished loaf
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/painpoilane3.jpg
-    title: Pain Poilâne crumb.  A little tight.
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/painpoilane1.jpg
+  title: Loaf, scored but uncooked
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/painpoilane2.jpg
+  title: Finished loaf
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/painpoilane3.jpg
+  title: Pain Poilâne crumb.  A little tight.
+
 gallery-pumpernickel:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pumpernickel1.jpg
-    title: The pumpernickel dough.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pumpernickel2.jpg
-    title: Finished loaves of pumpernickel bread.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pumpernickel3.jpg
-    title: Cross-section of pumpernickel loaf showing the dense crumb at the bottom.
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pumpernickel1.jpg
+  title: The pumpernickel dough.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pumpernickel2.jpg
+  title: Finished loaves of pumpernickel bread.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/pumpernickel3.jpg
+  title: Cross-section of pumpernickel loaf showing the dense crumb at the bottom.
+
 gallery-sunflowerrye:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/sunflowerrye1.jpg
-    title: The sunflower rye dough.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/sunflowerrye2.jpg
-    title: Two couronnes of sunflower rye bread, proofing.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/sunflowerrye3.jpg
-    title: Two couronnes of sunflower rye bread.
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/sunflowerrye1.jpg
+  title: The sunflower rye dough.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/sunflowerrye2.jpg
+  title: Two couronnes of sunflower rye bread, proofing.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/sunflowerrye3.jpg
+  title: Two couronnes of sunflower rye bread.
+
 gallery-stollen:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/stollen1.jpg
-    title: The stollen loaf, ready for the oven
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/stollen2.jpg
-    title: Completed stollen, dusted in powdered sugar
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/stollen3.jpg
-    title: Cross-section through the stollen.
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/stollen1.jpg
+  title: The stollen loaf, ready for the oven
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/stollen2.jpg
+  title: Completed stollen, dusted in powdered sugar
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/stollen3.jpg
+  title: Cross-section through the stollen.
+
 gallery-swedishrye:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/swedishrye1.jpg
-    title: Molasses, orance extract, aniseed, cardamom and fennel being boiled
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/swedishrye2.jpg
-    title: Two balls of Swedish rye dough
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/swedishrye3.jpg
-    title: Finished loaves of Swedish rye
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/swedishrye1.jpg
+  title: Molasses, orance extract, aniseed, cardamom and fennel being boiled
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/swedishrye2.jpg
+  title: Two balls of Swedish rye dough
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/swedishrye3.jpg
+  title: Finished loaves of Swedish rye
+
 gallery-tuscanbread:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/tuscanbread1.jpg
-    title: Two boules of Tuscan bread dough.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/tuscanbread2.jpg
-    title: Finished loaves of Tuscan bread.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/tuscanbread3.jpg
-    title: Crumb of Tuscan bread.
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/tuscanbread1.jpg
+  title: Two boules of Tuscan bread dough.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/tuscanbread2.jpg
+  title: Finished loaves of Tuscan bread.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/tuscanbread3.jpg
+  title: Crumb of Tuscan bread.
+
 gallery-viennabread:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/viennabread1.jpg
-    title: Two boules of Vienna bread.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/viennabread2.jpg
-    title: Two batards of Vienna bread.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/viennabread3.jpg
-    title: Two completed loaves of Vienna bread.
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/viennabread1.jpg
+  title: Two boules of Vienna bread.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/viennabread2.jpg
+  title: Two batards of Vienna bread.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/viennabread3.jpg
+  title: Two completed loaves of Vienna bread.
+
 gallery-whitebread:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/whitebread1.jpg
-    title: 18 dinner rolls of white bread
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/whitebread2.jpg
-    title: Dinner bread rolls arranged and ready to proof
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/whitebread3.jpg
-    title: A completed sharable loaf of dinner rolls.
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/whitebread1.jpg
+  title: 18 dinner rolls of white bread
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/whitebread2.jpg
+  title: Dinner bread rolls arranged and ready to proof
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/whitebread3.jpg
+  title: A completed sharable loaf of dinner rolls.
+
 gallery-wholewheat:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wholewheat1.jpg
-    title: Dough, divided and ready for shaping
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wholewheat2.jpg
-    title: Proofed loaves of whole wheat bread.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wholewheat3.jpg
-    title: Finished whole-wheat bread.
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wholewheat1.jpg
+  title: Dough, divided and ready for shaping
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wholewheat2.jpg
+  title: Proofed loaves of whole wheat bread.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wholewheat3.jpg
+  title: Finished whole-wheat bread.
+
 gallery-wheatbrownrice:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wheatbrownrice1.jpg
-    title: Shaped sprouted wheat and brown rice dough.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wheatbrownrice2.jpg
-    title: Loaves of sprouted wheat and brown rice bread.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wheatbrownrice3.jpg
-    title: Crumb structure of sprouted wheat and brown rice bread.
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wheatbrownrice1.jpg
+  title: Shaped sprouted wheat and brown rice dough.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wheatbrownrice2.jpg
+  title: Loaves of sprouted wheat and brown rice bread.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/wheatbrownrice3.jpg
+  title: Crumb structure of sprouted wheat and brown rice bread.
+
 gallery-onionpoppybialys:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionpoppybialys1.jpg
-    title: Shaped dough, flattened disks with a big indentation in the middle.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionpoppybialys2.jpg
-    title: Flattened disks full of onion-poppy filling.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionpoppybialys3.jpg
-    title: Finished Onion & Poppy seed bialys.
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionpoppybialys1.jpg
+  title: Shaped dough, flattened disks with a big indentation in the middle.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionpoppybialys2.jpg
+  title: Flattened disks full of onion-poppy filling.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionpoppybialys3.jpg
+  title: Finished Onion & Poppy seed bialys.
+
 gallery-ultimatecinnamon:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ultimatecinnamon1.jpg
-    title: A sheet of dough, covered in cinnamon sugar.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ultimatecinnamon2.jpg
-    title: Cinnamon rolls on a bed of caramel.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ultimatecinnamon3.jpg
-    title: The flipped sticky buns.
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ultimatecinnamon1.jpg
+  title: A sheet of dough, covered in cinnamon sugar.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ultimatecinnamon2.jpg
+  title: Cinnamon rolls on a bed of caramel.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/ultimatecinnamon3.jpg
+  title: The flipped sticky buns.
+
 gallery-potatocheddarchive:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatocheddarchive1.jpg
-    title: Forming rolls of bread with a spiral of cheese.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatocheddarchive2.jpg
-    title: Finished and proofed rolls, slashed to show the outer layer of cheese.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatocheddarchive3.jpg
-    title: Finished potato, cheddar and chive bread rolls.
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatocheddarchive1.jpg
+  title: Forming rolls of bread with a spiral of cheese.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatocheddarchive2.jpg
+  title: Finished and proofed rolls, slashed to show the outer layer of cheese.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/potatocheddarchive3.jpg
+  title: Finished potato, cheddar and chive bread rolls.
+
 gallery-onionasiago:
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionasiago1.jpg
-    title: A little bit of mise en place.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionasiago2.jpg
-    title: Dough ready for the oven.  Topped with asiago cheese and roasted onions.
-  - image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionasiago3.jpg
-    title: Completed roasted onion and asiago miches.
+
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionasiago1.jpg
+  title: A little bit of mise en place.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionasiago2.jpg
+  title: Dough ready for the oven.  Topped with asiago cheese and roasted onions.
+- image_path: /assets/images/pages/bread-bakers-apprentice-challenge/onionasiago3.jpg
+  title: Completed roasted onion and asiago miches.
 ---
 
 # Intro

@@ -6,24 +6,26 @@ tags: [website]
 header:
   overlay_color: "#0192CA"
 gallery:
-  - url: /assets/images/blog/old-site/screencap1.png
-    image_path: /assets/images/blog/old-site/screencap1.png
-    alt: "image"
-  - url: /assets/images/blog/old-site/screencap2.png
-    image_path: /assets/images/blog/old-site/screencap2.png
-    alt: "image"
-  - url: /assets/images/blog/old-site/screencap3.png
-    image_path: /assets/images/blog/old-site/screencap3.png
-    alt: "image"
-  - url: /assets/images/blog/old-site/screencap4.png
-    image_path: /assets/images/blog/old-site/screencap4.png
-    alt: "image"
-  - url: /assets/images/blog/old-site/screencap5.png
-    image_path: /assets/images/blog/old-site/screencap5.png
-    alt: "image"
-  - url: /assets/images/blog/old-site/screencap6.png
-    image_path: /assets/images/blog/old-site/screencap6.png
-    alt: "image"
+
+- url: /assets/images/blog/old-site/screencap1.png
+  image_path: /assets/images/blog/old-site/screencap1.png
+  alt: "image"
+- url: /assets/images/blog/old-site/screencap2.png
+  image_path: /assets/images/blog/old-site/screencap2.png
+  alt: "image"
+- url: /assets/images/blog/old-site/screencap3.png
+  image_path: /assets/images/blog/old-site/screencap3.png
+  alt: "image"
+- url: /assets/images/blog/old-site/screencap4.png
+  image_path: /assets/images/blog/old-site/screencap4.png
+  alt: "image"
+- url: /assets/images/blog/old-site/screencap5.png
+  image_path: /assets/images/blog/old-site/screencap5.png
+  alt: "image"
+- url: /assets/images/blog/old-site/screencap6.png
+  image_path: /assets/images/blog/old-site/screencap6.png
+  alt: "image"
+
 ---
 
 One part of my own psychology that I hate is that I have the tendency to sit on projects and ideas, working away at them until I think they're 'perfect', and as a result much of what I do never sees the light of day.  This seeps into many areas of my life, not least of which would be the redesign of a website that I've been sitting on now for a couple of months
@@ -37,9 +39,9 @@ I developed the previous version of this website when I was first learning CSS (
 
 Since it’s a ground-up rewrite, I also decided to revisit my decision to use Wordpress.  Initially, Wordpress was the de-facto choice because it has a vast army of plugins and pre-built themes, and once it's installed, you can get by largely by using the frontend.  However, there are a few reasons it's not right for me at the moment:
 
-* A big part of the reason I have this site is to have a playground for learning frontend development.  Wordpress feels like an extra layer of abstraction over the code, it always felt like I was designing for Wordpress, not designing a website.
-* For a simple blog, Wordpress feels like overkill.  Sure, it started out as a blogging platform, but has grown into an incredibly full-featured CMS.  Again, I felt like this complexity just meant that I was learning Wordpress, not learning code.
-* Wordpress seems to update every couple of weeks, and some updates are incompatible with some plugins, and I've manually edited some plugins and those updates cause them to break and then I'm sad and hacking on PHP code that I don't understand on a Tuesday night.
+- A big part of the reason I have this site is to have a playground for learning frontend development.  Wordpress feels like an extra layer of abstraction over the code, it always felt like I was designing for Wordpress, not designing a website.
+- For a simple blog, Wordpress feels like overkill.  Sure, it started out as a blogging platform, but has grown into an incredibly full-featured CMS.  Again, I felt like this complexity just meant that I was learning Wordpress, not learning code.
+- Wordpress seems to update every couple of weeks, and some updates are incompatible with some plugins, and I've manually edited some plugins and those updates cause them to break and then I'm sad and hacking on PHP code that I don't understand on a Tuesday night.
 
 In the end I settled on one of the more lightweight, flat frameworks, [Jekyll](https://jekyllrb.com), somewhere where I can just write in Markdown, use a simple templating language and then type 'jekyll build' and have a static site drop out the other side.  Outside of that I can just be involved with trying to write the best frontend code that I can.
 

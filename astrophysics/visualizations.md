@@ -4,18 +4,21 @@ author_profile: false
 title: Simulation Visualizations
 excerpt: "Videos of galaxy formation simulations"
 sidebar:
-  - nav: astrophysics-sidebar
+
+- nav: astrophysics-sidebar
+
 header:
   overlay_image: /assets/images/astrophysics/astrophysics_header.jpg
   overlay_filter: 0.5
 
 gallery-mw-face:
-  - image_path: /assets/images/astrophysics/visualizations/mw_light_frame.jpg
-    title: "Face-on galaxy (light)"
-    url: "/assets/videos/astrophysics/visualizations/mw_face_white.avi"
-  - image_path: /assets/images/astrophysics/visualizations/mw_dark_frame.jpg
-    title: "Face-on galaxy (dark)"
-    url: "/assets/videos/astrophysics/visualizations/mw_face_black.avi"
+
+- image_path: /assets/images/astrophysics/visualizations/mw_light_frame.jpg
+  title: "Face-on galaxy (light)"
+  url: "/assets/videos/astrophysics/visualizations/mw_face_white.avi"
+- image_path: /assets/images/astrophysics/visualizations/mw_dark_frame.jpg
+  title: "Face-on galaxy (dark)"
+  url: "/assets/videos/astrophysics/visualizations/mw_face_black.avi"
 
 ---
 

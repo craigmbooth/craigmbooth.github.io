@@ -6,18 +6,20 @@ tags: [personal, citizenship]
 header:
   overlay_color: "#0192CA"
 gallery:
-  - url: "/assets/images/blog/immigration/immi1.jpg"
-    image_path: "/assets/images/blog/immigration/immi1.jpg"
-    title: "foo"
-  - url: "/assets/images/blog/immigration/immi2.jpg"
-    image_path: "/assets/images/blog/immigration/immi2.jpg"
-    title: "foo"
-  - url: "/assets/images/blog/immigration/immi3.jpg"
-    image_path: "/assets/images/blog/immigration/immi3.jpg"
-    title: "foo"
-  - url: "/assets/images/blog/immigration/immi4.jpg"
-    image_path: "/assets/images/blog/immigration/immi4.jpg"
-    title: "foo"
+
+- url: "/assets/images/blog/immigration/immi1.jpg"
+  image_path: "/assets/images/blog/immigration/immi1.jpg"
+  title: "foo"
+- url: "/assets/images/blog/immigration/immi2.jpg"
+  image_path: "/assets/images/blog/immigration/immi2.jpg"
+  title: "foo"
+- url: "/assets/images/blog/immigration/immi3.jpg"
+  image_path: "/assets/images/blog/immigration/immi3.jpg"
+  title: "foo"
+- url: "/assets/images/blog/immigration/immi4.jpg"
+  image_path: "/assets/images/blog/immigration/immi4.jpg"
+  title: "foo"
+
 ---
 
 On the morning of March 27th 2017, I became a US citizen, marking the

@@ -6,15 +6,17 @@ tags: ["experiments"]
 header:
   overlay_color: "#0192CA"
 gallery:
-  - url: /assets/images/blog/ir_photography/irp4.jpg
-    image_path: /assets/images/blog/ir_photography/irp4.jpg
-    title: "IR photograph from my garden"
-  - url: /assets/images/blog/ir_photography/irp5.jpg
-    image_path: /assets/images/blog/ir_photography/irp5.jpg
-    title: "IR photograph from my garden"
-  - url: /assets/images/blog/ir_photography/irp6.jpg
-    image_path: /assets/images/blog/ir_photography/irp6.jpg
-    title: "IR photograph from my garden"
+
+- url: /assets/images/blog/ir_photography/irp4.jpg
+  image_path: /assets/images/blog/ir_photography/irp4.jpg
+  title: "IR photograph from my garden"
+- url: /assets/images/blog/ir_photography/irp5.jpg
+  image_path: /assets/images/blog/ir_photography/irp5.jpg
+  title: "IR photograph from my garden"
+- url: /assets/images/blog/ir_photography/irp6.jpg
+  image_path: /assets/images/blog/ir_photography/irp6.jpg
+  title: "IR photograph from my garden"
+
 ---
 
 I recently learned that almost all digital cameras can actually see infra-red light. You can easily prove this to yourself by pressing buttons on your remote control while pointing it at a digital camera. For example, here is my remote control:

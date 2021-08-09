@@ -4,27 +4,32 @@ author_profile: false
 title: Astrophysics
 excerpt: "Things from my old career as an astrophysicist"
 sidebar:
-  - nav: astrophysics-sidebar
+
+- nav: astrophysics-sidebar
+
 header:
   overlay_image: /assets/images/astrophysics/astrophysics_header.jpg
   overlay_filter: 0.5
+
 gallery:
-  - url: /assets/images/astrophysics/research-bhdm.png
-    image_path: /assets/images/astrophysics/research-bhdm.png
-    alt: Graph of the black hole mass, dark matter mass relation in simulated galaxies
-    title: "Booth C. M., Schaye J., 2010, MNRAS, 405, L1: An illustration of the relationship between supermassive black holes and dark matter haloes"
-  - url: /assets/images/astrophysics/research-hvcs.png
-    image_path: /assets/images/astrophysics/research-hvcs.png
-    alt: The 'galactic fountain' observed in a simulated galaxy compared to that in our own galaxy
-    title: "Booth C. M., Theuns T., 2007, MNRAS 381, L89: The 'galactic fountain' observed in a simulated galaxy compared to that in our own galaxy"
-  - url: /assets/images/astrophysics/research-spheres.png
-    image_path: /assets/images/astrophysics/research-spheres.png
-    alt: A demonstration that we require small galaxies to pollute the intergalactic-medium with heavy elements
-    title: "Booth C. M., Schaye J., Delgado J. D., Dalla Vecchia C., 2012, MNRAS, 420, 1053: A demonstration that we require small galaxies to pollute the intergalactic-medium with heavy elements"
-  - url: /assets/images/astrophysics/research-ism.png
-    image_path: /assets/images/astrophysics/research-ism.png
-    alt: The distribution of molecular hydrogen in a simulation of the Milky Way
-    title: "Booth C. M., Theuns T., Okamoto T., 2007, MNRAS, 376, 1588: The distribution of molecular hydrogen in a simulation of the Milky Way"
+
+- url: /assets/images/astrophysics/research-bhdm.png
+  image_path: /assets/images/astrophysics/research-bhdm.png
+  alt: Graph of the black hole mass, dark matter mass relation in simulated galaxies
+  title: "Booth C. M., Schaye J., 2010, MNRAS, 405, L1: An illustration of the relationship between supermassive black holes and dark matter haloes"
+- url: /assets/images/astrophysics/research-hvcs.png
+  image_path: /assets/images/astrophysics/research-hvcs.png
+  alt: The 'galactic fountain' observed in a simulated galaxy compared to that in our own galaxy
+  title: "Booth C. M., Theuns T., 2007, MNRAS 381, L89: The 'galactic fountain' observed in a simulated galaxy compared to that in our own galaxy"
+- url: /assets/images/astrophysics/research-spheres.png
+  image_path: /assets/images/astrophysics/research-spheres.png
+  alt: A demonstration that we require small galaxies to pollute the intergalactic-medium with heavy elements
+  title: "Booth C. M., Schaye J., Delgado J. D., Dalla Vecchia C., 2012, MNRAS, 420, 1053: A demonstration that we require small galaxies to pollute the intergalactic-medium with heavy elements"
+- url: /assets/images/astrophysics/research-ism.png
+  image_path: /assets/images/astrophysics/research-ism.png
+  alt: The distribution of molecular hydrogen in a simulation of the Milky Way
+  title: "Booth C. M., Theuns T., Okamoto T., 2007, MNRAS, 376, 1588: The distribution of molecular hydrogen in a simulation of the Milky Way"
+
 ---
 
 # Research Overview

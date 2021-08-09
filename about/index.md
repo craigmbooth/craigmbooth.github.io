@@ -7,30 +7,32 @@ header:
   overlay_image: /assets/images/about/about_header.jpg
   overlay_filter: 0.5
 gallery:
-  - url: /assets/images/about/craigams.jpg
-    image_path: /assets/images/about/craigams.jpg
-    alt: "foo"
-    title: "Amsterdam, Aug 2009"
-  - url: /assets/images/about/craigams2.jpg
-    image_path: /assets/images/about/craigams2.jpg
-    alt: "foo"
-    title: "Amsterdam, Jun 2011"
-  - url: /assets/images/about/craigny.jpg
-    image_path: /assets/images/about/craigny.jpg
-    alt: "foo"
-    title: "New York, Dec 2010"
-  - url: /assets/images/about/craigfl.jpg
-    image_path: /assets/images/about/craigfl.jpg
-    alt: "foo"
-    title: "Florida, Nov. 2012"
-  - url: /assets/images/about/craigjp.jpg
-    image_path: /assets/images/about/craigjp.jpg
-    alt: "foo"
-    title: "Tokyo, November 2016"
-  - url: /assets/images/about/craignot.jpg
-    image_path: /assets/images/about/craignot.jpg
-    alt: "foo"
-    title: "Nottingham, Sep. 1982"
+
+- url: /assets/images/about/craigams.jpg
+  image_path: /assets/images/about/craigams.jpg
+  alt: "foo"
+  title: "Amsterdam, Aug 2009"
+- url: /assets/images/about/craigams2.jpg
+  image_path: /assets/images/about/craigams2.jpg
+  alt: "foo"
+  title: "Amsterdam, Jun 2011"
+- url: /assets/images/about/craigny.jpg
+  image_path: /assets/images/about/craigny.jpg
+  alt: "foo"
+  title: "New York, Dec 2010"
+- url: /assets/images/about/craigfl.jpg
+  image_path: /assets/images/about/craigfl.jpg
+  alt: "foo"
+  title: "Florida, Nov. 2012"
+- url: /assets/images/about/craigjp.jpg
+  image_path: /assets/images/about/craigjp.jpg
+  alt: "foo"
+  title: "Tokyo, November 2016"
+- url: /assets/images/about/craignot.jpg
+  image_path: /assets/images/about/craignot.jpg
+  alt: "foo"
+  title: "Nottingham, Sep. 1982"
+
 ---
 
 # Who I Am

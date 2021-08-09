@@ -19,7 +19,7 @@ Nevertheless, the wiki page for Deadfish contains implementations in 65 differen
 
 Deadfish is very simple and has only four commands.  The state of the program begins at 0.  The command 'i' increments the state by 1, the command 'd' decrements the state by 1, the command 'o' outputs the state to the screen and the command 's' squares the state.
 
-{% highlight fortran %}
+```fortram
 c Deadfish interpreter in FORTRAN 77
       PROGRAM DEADFISH
       CHARACTER*1 inp
@@ -44,6 +44,6 @@ c Deadfish interpreter in FORTRAN 77
             END IF
       END DO
       END
-{% endhighlight %}
+```
 
 No idea why I made that.  What a `iisiiiisiiiiiiiioiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiioiiioodddddddddodddddddoiiiiiiiiiiodddddddo` idea.

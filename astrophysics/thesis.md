@@ -4,7 +4,9 @@ author_profile: false
 title: Ph. D Thesis
 excerpt: "Download my Ph. D Thesis"
 sidebar:
-  - nav: astrophysics-sidebar
+
+- nav: astrophysics-sidebar
+
 header:
   overlay_image: /assets/images/astrophysics/astrophysics_header.jpg
   overlay_filter: 0.5

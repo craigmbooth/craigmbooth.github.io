@@ -13,17 +13,19 @@ Since I cycled through laptops a couple of times in the interim I didn't really 
 
 [Here is the data](https://gist.github.com/craigmbooth/5a9be04fe72d77fa3cff).  The file looks like this:
 
-    number,full_name,position,height_in_inches,weight_in_lbs,date_of_birth,team
-    23,"Alford, Robert",CB,70,186,11/1/1988,ATL
-    95,"Babineaux, Jonathan",DT,74,300,10/12/1981,ATL
-    72,"Baker, Sam",T,77,301,5/30/1985,ATL
-    59,"Bartu, Joplo",OLB,74,230,10/3/1990,ATL
-    71,"Biermann, Kroy",OLB,75,255,9/12/1985,ATL
-    63,"Blalock, Justin",G,76,326,12/20/1983,ATL
-    5,"Bosher, Matt",P,72,208,10/18/1987,ATL
-    3,"Bryant, Matt",K,69,203,5/29/1975,ATL
-    51,"Chaney, Jamar",LB,72,242,10/11/1986,ATL
-    + 1,000 more lines
+```csv
+number,full_name,position,height_in_inches,weight_in_lbs,date_of_birth,team
+23,"Alford, Robert",CB,70,186,11/1/1988,ATL
+95,"Babineaux, Jonathan",DT,74,300,10/12/1981,ATL
+72,"Baker, Sam",T,77,301,5/30/1985,ATL
+59,"Bartu, Joplo",OLB,74,230,10/3/1990,ATL
+71,"Biermann, Kroy",OLB,75,255,9/12/1985,ATL
+63,"Blalock, Justin",G,76,326,12/20/1983,ATL
+5,"Bosher, Matt",P,72,208,10/18/1987,ATL
+3,"Bryant, Matt",K,69,203,5/29/1975,ATL
+51,"Chaney, Jamar",LB,72,242,10/11/1986,ATL
++ 1,000 more lines
+```
 
 For clarity, the exact meanings of each of the columns are as follows:
 

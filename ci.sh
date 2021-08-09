@@ -2,12 +2,14 @@
 
 set -ex
 
+# Lint all of the markdown files in the source tree
+mdl .
+
 jekyll build
 
 # Install htmltest, which does a couple of tests that htmlproofer doesn't
 curl https://htmltest.wjdp.uk | bash
 
-# skip-external:  We skip external link checking with htmltest because htmlproofer does it
 HTMLTEST_OPTIONS="-c .htmltest.yml"
 
 if [ -z "$1" ]; then
@@ -18,5 +20,5 @@ else
     bin/htmltest $1 $HTMLTEST_OPTIONS
 fi
 
-mdl .
+
 

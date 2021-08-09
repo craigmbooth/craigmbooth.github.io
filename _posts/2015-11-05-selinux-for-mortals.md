@@ -30,7 +30,9 @@ There are a couple of concepts that we need:  Labeling and type enforcement
 
 Files, processes, ports, etc. are all labeled with an SELinux context.  For files and directories this is stored as extended attributes on the file system.  For other things, the kernel adds that information when the service comes up.  The labels are in the following format:
 
-    user:role:type:level (optional)
+```bash
+user:role:type:level (optional)
+```
 
 For the targeted policy, `user`, `role` and `level` are unimportant.  We worry only about type.  For the mls policy, all of these could be used.
 
@@ -69,11 +71,15 @@ Booleans are on/off switches for SELinux.  From simple stuff like "do we allow t
 
 To see all the Booleans
 
-    getsebool -a
+```bash
+getsebool -a
+```
 
 To see a Boolean
 
-    setsebool [-P] <name> 0/1
+```bash
+setsebool [-P] <name> 0/1
+```
 
 The -P makes it permanent.  Note that to help debug this, install `setroubleshoot` and `setroubleshoot-server` (then restart auditd), they will make life about a million times easier when troubleshooting policies.
 
@@ -83,7 +89,9 @@ To see what Booleans are set, check out /etc/selinux/targeted/modules/active, th
 
 Restorecon returns contexts to whatever they should have inherited from their parent directories.
 
-    restorecon -vR /target/dir/
+```bash
+restorecon -vR /target/dir/
+```
 
 This function uses information from ``/etc/selinux/targeted/contexts/files/file_contexts`` to determine what a file or directory's context should be.  This file has entries for pretty much everything in the file system, but don't change it because your changes will be overwritten.
 
@@ -99,7 +107,9 @@ A user wants to host a website from inside their homedir.  You go into Apache's 
 
 Check the usual suspects (`/var/log/httpd/*`) and everything is 403ing.  Not too helpful, we knew that.  Take a look at `/var/log/messages` and
 
-    setroubleshoot:  SELinux is preventing /usr/bin/httpd from getattr access on the directory /home/fred.  For complete selinux messages, run [a command].
+```bash
+setroubleshoot:  SELinux is preventing /usr/bin/httpd from getattr access on the directory /home/fred.  For complete selinux messages, run [a command].
+```
 
 This command will tell you the issues that happened, and frequently give you suggestions to fix them.
 
@@ -109,17 +119,23 @@ A user asks you to copy files from their homedir to /var/www/html.  You do so, b
 
 First we need to find out what type it *should* have, just do an ``ls -Z`` on a known good directory.  You can then fix it with ``chcon`` to change the file type to ``httpd_sys_content_t``.
 
-    chcon -t httpd_sys_content_t /var/www/html/index.html
+```bash
+chcon -t httpd_sys_content_t /var/www/html/index.html
+```
 
 Or, easier, if you know you want to make one thing look like another, just use ``reference
 
-    chcon --reference /var/www/html/ /var/www/html/index.html
+```bash
+chcon --reference /var/www/html/ /var/www/html/index.html
+```
 
 General point:  If you're getting permission denied in weird places, even when you have fixed permissions, you should check selinux in /var/log/messages.
 
 If you just want to put everything in a directory into the context you'd expect it to have use ``restorecon``
 
-    restorecon -vR /var/www/html
+```bash
+restorecon -vR /var/www/html
+```
 
 This will tell you exactly what it changed.
 
@@ -131,7 +147,9 @@ You can use semanage to update the contexts of all files in a directory (note th
 
 To give a directory the same contexts as another directory, use
 
-    semanage fcontext -a -e /var/www /target/dir/
+```bash
+semanage fcontext -a -e /var/www /target/dir/
+```
 
 This command just sets the defaults, we then need to run restorecon.
 
@@ -139,16 +157,22 @@ This command just sets the defaults, we then need to run restorecon.
 
 In the case that setting Booleans and modules is not enough, you need to create a policy.  The best way to begin doing this is to set SELinux to permissive, then run the application through all its functionality and look through the log files for all of the errors.
 
-    setenforce 0
+```bash
+setenforce 0
+```
 
 Then run sealert against the latest error message.  In this case, the alert doesn't find any bools because this is a new application, so it may tell you to run audit2allow.
 
 The way to do this is to grep whatever you're running into issues with (e.g. httpd) in `/var/log/audit/audit.log`
 
-    grep httpd /var/log/audit/audit.log | audit2allow -M namefornewpolicylocal
+```bash
+grep httpd /var/log/audit/audit.log | audit2allow -M namefornewpolicylocal
+```
 
 Then make the policy active following the instructions it gives you.
 
-    semodule -i namefornewpolicylocal.pp
+```bash
+semodule -i namefornewpolicylocal.pp
+```
 
 In short:  Grep your error out of audit.log, pipe it to audit2allow, send the policy to semodule.

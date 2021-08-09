@@ -13,7 +13,7 @@ Recently I have been working as part of a small team on a project that requires 
 
 The basic idea is just to override __setattr__ and __delattr__ methods to raise an exception. Doing this alone doesn't get the job done because the object's __init__ method will try to use these methods to set its own attributes, so inside of __init__, we must then also use object.__setattr__ to set its attributes. Here's an example:
 
-{% highlight python %}
+```python
 class ClassWithImmutableAttributes(object):
     """Class has immutable attributes"""
     def __setattr__(self, *args):
@@ -35,6 +35,6 @@ class ClassWithImmutableAttributes(object):
         Explicitly use object.__setattr__ to set attributes
         """
         object.__setattr__(self, "x", 1)
-{% endhighlight %}
+```
 
 So there it is. Attributes that can't be changed.
