@@ -37,9 +37,9 @@ I developed the previous version of this website when I was first learning CSS (
 
 Since it’s a ground-up rewrite, I also decided to revisit my decision to use Wordpress.  Initially, Wordpress was the de-facto choice because it has a vast army of plugins and pre-built themes, and once it's installed, you can get by largely by using the frontend.  However, there are a few reasons it's not right for me at the moment:
 
-   * A big part of the reason I have this site is to have a playground for learning frontend development.  Wordpress feels like an extra layer of abstraction over the code, it always felt like I was designing for Wordpress, not designing a website.
-   * For a simple blog, Wordpress feels like overkill.  Sure, it started out as a blogging platform, but has grown into an incredibly full-featured CMS.  Again, I felt like this complexity just meant that I was learning Wordpress, not learning code.
-   * Wordpress seems to update every couple of weeks, and some updates are incompatible with some plugins, and I've manually edited some plugins and those updates cause them to break and then I'm sad and hacking on PHP code that I don't understand on a Tuesday night.
+* A big part of the reason I have this site is to have a playground for learning frontend development.  Wordpress feels like an extra layer of abstraction over the code, it always felt like I was designing for Wordpress, not designing a website.
+* For a simple blog, Wordpress feels like overkill.  Sure, it started out as a blogging platform, but has grown into an incredibly full-featured CMS.  Again, I felt like this complexity just meant that I was learning Wordpress, not learning code.
+* Wordpress seems to update every couple of weeks, and some updates are incompatible with some plugins, and I've manually edited some plugins and those updates cause them to break and then I'm sad and hacking on PHP code that I don't understand on a Tuesday night.
 
 In the end I settled on one of the more lightweight, flat frameworks, [Jekyll](https://jekyllrb.com), somewhere where I can just write in Markdown, use a simple templating language and then type 'jekyll build' and have a static site drop out the other side.  Outside of that I can just be involved with trying to write the best frontend code that I can.
 

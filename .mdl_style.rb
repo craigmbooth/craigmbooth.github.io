@@ -1,8 +1,5 @@
 all
 
-exclude_rule 'MD002'
-exclude_rule 'MD005'
-exclude_rule 'MD006'
 exclude_rule 'MD007'
 exclude_rule 'MD009'
 exclude_rule 'MD012'

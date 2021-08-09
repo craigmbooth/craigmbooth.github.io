@@ -29,8 +29,8 @@ It is this mindset that I want to bring to Big Data for Front End Engineers.
 
 We only have two hours, so we're not going to take a deep dive into technologies, instead I'm aiming to do two things:
 
-   1. Survey the landscape of Big Data, and show the basic concepts and tradeoffs that need to be made.  Do I need to be accurate? or fast?  Do I need to be consistent? or accessible?
-   2. Understand how the rising volumes of data are going to affect everybody.  Focus on what we will all need to do to keep running in the face of ever growing data requirements.
+1. Survey the landscape of Big Data, and show the basic concepts and tradeoffs that need to be made.  Do I need to be accurate? or fast?  Do I need to be consistent? or accessible?
+2. Understand how the rising volumes of data are going to affect everybody.  Focus on what we will all need to do to keep running in the face of ever growing data requirements.
 
 I think that every developer at a startup should be able to reason effectively about the problems posed by large volumes of data, and I hope to be able to communicate at least the outlines of a roadmap in this session.  Here is what we are going to cover:
 
@@ -38,10 +38,10 @@ I think that every developer at a startup should be able to reason effectively a
 
 "Big" doesn't only mean large data files.  Data can be hard to handle in a number of ways:
 
-   * **Velocity**:  Data can come at you quickly.  For example, if you had access to the Twitter firehose you would be dealing with approximately 6,000 Tweets every second.  How do you write code that deals with this?
-   * **Variety**:  An increasing number of applications need to consolidate multiple streams of data.  For example, a you may need to combine user click data with data inferred from videos that the users are watching, and unstructured text that the users are typing.
-   * **Volume**: It is not uncommon for startups to deal with tera- or petabytes of data.  How can you parse data that is too large for any single machine you own?
-   * **Veracity**: Especially in the social realm, how do you deal with uncertainty?  For example, Facebook's facial recognition software is good, but not perfect.  How do continue to function in a world where you cannot trust individual data points?
+* **Velocity**:  Data can come at you quickly.  For example, if you had access to the Twitter firehose you would be dealing with approximately 6,000 Tweets every second.  How do you write code that deals with this?
+* **Variety**:  An increasing number of applications need to consolidate multiple streams of data.  For example, a you may need to combine user click data with data inferred from videos that the users are watching, and unstructured text that the users are typing.
+* **Volume**: It is not uncommon for startups to deal with tera- or petabytes of data.  How can you parse data that is too large for any single machine you own?
+* **Veracity**: Especially in the social realm, how do you deal with uncertainty?  For example, Facebook's facial recognition software is good, but not perfect.  How do continue to function in a world where you cannot trust individual data points?
 
 ## PART II: Storing Data
 
@@ -49,9 +49,9 @@ How do you store and access data when it gets to be too large for a single compu
 
 Here we'll discuss the limitations and benefits of scaling horizontally (that is: by using multiple machines) and vertically (that is: by using a single, larger machine).  We'll see that scaling vertically works -- to a point -- and when you're dealing with web-scale data you'll need to make some tradeoffs and choose only two of:
 
-   * Ability to always give the most up-to-date values for any data
-   * Ability to be accessible even if parts of the network are down
-   * Ability to survive splits in the network
+* Ability to always give the most up-to-date values for any data
+* Ability to be accessible even if parts of the network are down
+* Ability to survive splits in the network
 
 ## PART III: Doing Interesting Things with Data
 

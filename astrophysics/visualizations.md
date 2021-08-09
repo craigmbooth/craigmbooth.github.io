@@ -8,7 +8,7 @@ sidebar:
 header:
   overlay_image: /assets/images/astrophysics/astrophysics_header.jpg
   overlay_filter: 0.5
-  
+
 gallery-mw-face:
   - image_path: /assets/images/astrophysics/visualizations/mw_light_frame.jpg
     title: "Face-on galaxy (light)"
@@ -23,7 +23,7 @@ I have generated a number of nice structure formation movies from our simulation
 
 If you have issues with playback, I recommend downloading <a href="https://www.videolan.org/vlc/index.html">VLC</a> (Mac, Windows, Linux) or <a href="https://perian.org/">Perian</a> (Mac).
 
-## Simulations of the Milky Way
+# Simulations of the Milky Way
 
 These movies show a face-on view of a simulated Milky Way type galaxy.  The colours show the gas density.  The movies run for a total of 2 Gyr, and are relatively high resolution (800x800 pixels).  I generally use these on the first page of a presentation to make the titles more interesting and accordingly have provided two versions:  one with a black background and one in white.
 

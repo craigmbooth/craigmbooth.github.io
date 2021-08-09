@@ -19,13 +19,13 @@ The first stage of building this app was to use Google's GeoLocation API to tran
 
 Given the closest station, we take the dataset of 3 million Divvy rides from 2014 and combine it with data from other sources, including: weather data from Weather Underground, and Chicago neighborhood information from the [City of Chicago's Open Data Portal](https://data.cityofchicago.org/).  We then calculate over thirty different metrics that describe each station, including:
 
-   * The fraction of trips taken in windy and/or hot weather
-   * The fraction of round trips (trips that start and end at the same station)
-   * The fraction of trips taken by subscribers
-   * The net inflow of bikes (because Divvy vans rebalance bikes, some stations have many more trips arrive at them than leave)
-   * The proportion of trips that end up in the same neighborhood as they started
-   * The amount of Divvy activity in the area (measured by the number of stations within one mile)
-   * The number of morning and evening commuters
+* The fraction of trips taken in windy and/or hot weather
+* The fraction of round trips (trips that start and end at the same station)
+* The fraction of trips taken by subscribers
+* The net inflow of bikes (because Divvy vans rebalance bikes, some stations have many more trips arrive at them than leave)
+* The proportion of trips that end up in the same neighborhood as they started
+* The amount of Divvy activity in the area (measured by the number of stations within one mile)
+* The number of morning and evening commuters
 
 And we extract a sampling of up to five of the most interesting metrics.  We then feed this information into Quill, which has been configured to transform it into stories, where for each of the interesting metric it calls out stations that are most similar, and most different in various ways.
 

@@ -9,25 +9,25 @@ header:
 
 While brushing up my Python skills the other week, I decided to figure out web scraping and to do a little data analysis project.  Specifically, I decided to look at the height and weight of every active NFL player, with the data that is found in tabular form on nfl.com.  For anybody who wants to play with this data for themselves,  here is a link to an [iPython notebook with the source](https://nbviewer.ipython.org/6994733) showing how I made the dataset.  This script also requires the file [teams.txt](https://gist.github.com/craigmbooth/6994779), which is up on github via the link.  Then, given this database, it is easy to extract the heights and weights of each player and see how they all stack up against one another.  A lot of the questions about the graphs were asking about the outlying points, so I'll quickly summarize them here:
 
-*   The shortest player is Trindon Holliday, who is 5 feet 5 inches tall
-*   The 6'8" quarterback is Brock Osweiler
+* The shortest player is Trindon Holliday, who is 5 feet 5 inches tall
+* The 6'8" quarterback is Brock Osweiler
 
 {% include figure image_path="/assets/images/blog/height-weight/cmbheightweight-cb.png" caption="Graph showing height vs weight for all active NFL players." %}
 
 You can [click here](/assets/images/blog/height-weight/chartHeightweightMetric.png) for a metric version of the chart, translated by the Polish American Football team [Angels Toruń](https://en.wikipedia.org/wiki/Angels_Toru%C5%84)!  The average weight and height of every position is as follows:
 
-   * Safeties 6’0″ 207.6
-   * Linebackers 6’2″ 246.3
-   * Defensive Tackles 6’3″ 309.8
-   * Defensive Ends 6’4″ 283.1
-   * Cornerbacks 5’11″ 193.4
-   * Centers 6’3″ 306.2
-   * Tight Ends 6’4″ 254.7
-   * Running Backs 5’11″ 215.3
-   * Guards 6’4″ 314.5
-   * Quarterbacks 6’3″ 223.8
-   * Wide Receivers 6’1″ 202.6
-   * Offensive Tackles 6’5″ 313.5
+* Safeties 6’0″ 207.6
+* Linebackers 6’2″ 246.3
+* Defensive Tackles 6’3″ 309.8
+* Defensive Ends 6’4″ 283.1
+* Cornerbacks 5’11″ 193.4
+* Centers 6’3″ 306.2
+* Tight Ends 6’4″ 254.7
+* Running Backs 5’11″ 215.3
+* Guards 6’4″ 314.5
+* Quarterbacks 6’3″ 223.8
+* Wide Receivers 6’1″ 202.6
+* Offensive Tackles 6’5″ 313.5
 
 The same plot for punters and kickers is [here](/assets/images/blog/height-weight/heightweightpunter.png).  I moved punters and kickers into a separate graph just because the offense and defense are already sufficiently crowded that it's not entirely easy to read.
 

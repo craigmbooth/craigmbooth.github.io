@@ -20,17 +20,17 @@ I quickly set myself a ground rule.  I want to build a ray tracer that can make 
 
 I immediately started researching, finding a few really good resources:
 
-   * [Very Gentle Introduction to Computer Graphics Programming](https://www.scratchapixel.com/lessons/3d-basic-rendering/get-started)
-   * [Ray Tracing in One Weekend](https://raytracing.github.io/)
-   * [The Ray Tracer Challenge](https://smile.amazon.com/Ray-Tracer-Challenge-Test-Driven-Renderer/dp/1680502719){:data-proofer-ignore=""}
+* [Very Gentle Introduction to Computer Graphics Programming](https://www.scratchapixel.com/lessons/3d-basic-rendering/get-started)
+* [Ray Tracing in One Weekend](https://raytracing.github.io/)
+* [The Ray Tracer Challenge](https://smile.amazon.com/Ray-Tracer-Challenge-Test-Driven-Renderer/dp/1680502719){:data-proofer-ignore=""}
 
 The thing that caught me was that the basic algorithm of ray tracing is simple.  You’re making a picture full of pixels.  You fire a ray from your eye to each of the pixels (the opposite of how real sight works, naturally), and then:
 
-   * Find where it strikes a surface.
-   * Cast a ray from that point toward each light source to determine which lights illuminate that point.
-   * If the surface is reflective, cast a new ray in the direction of reflection and recursively determine what color is reflected there.
-   * If the surface is transparent, do the same thing in the direction of refraction.
-   * Combine all colors that contribute to the point and return that as the color of the pixel.
+* Find where it strikes a surface.
+* Cast a ray from that point toward each light source to determine which lights illuminate that point.
+* If the surface is reflective, cast a new ray in the direction of reflection and recursively determine what color is reflected there.
+* If the surface is transparent, do the same thing in the direction of refraction.
+* Combine all colors that contribute to the point and return that as the color of the pixel.
 
 That’s it!  Go pixel-by-pixel in an image and calculate its color by checking what it hits (and if it hits a reflective, or transparent thing doing a bit more tracing).
 

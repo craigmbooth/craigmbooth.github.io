@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5
 ---
 
-## June 2021
+# June 2021
 
 I live in Chicago, IL and am CTO at [Packback](https://packback.co).  I am very excited about the AI and NLP applications that we are building at the moment.
 

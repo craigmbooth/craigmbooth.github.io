@@ -19,8 +19,8 @@ SELinux is an example of a Mandatory Access Control (MAC) system.  This is as op
 
 In RHEL there are generally two SELinux policies:
 
-   * "targeted" -- If there is a policy for a process it is managed by SELinux, everything else can run fine.  There are 100's of policies predefined for different processes
-   * "mls" -- Can be very complex, can apply policies to all processes.
+* "targeted" -- If there is a policy for a process it is managed by SELinux, everything else can run fine.  There are 100's of policies predefined for different processes
+* "mls" -- Can be very complex, can apply policies to all processes.
 
 For the purposes of this document we will consider only the targeted policy.  You can tell what your system should be running by looking in ``/etc/selinux/config``, you can also check via ``/usr/sbin/sestatus``.  This will tell you what policy should be loaded, and whether SELinux is running in permissive (log things only), or enforcing mode (block inappropriate access).
 
@@ -58,10 +58,10 @@ In general a file inherits the context of its parent directory (unless a policy 
 
 An error means that something is wrong.  Turning off SELinux in response to this is like turning up the radio loud in a car with a noisy engine.
 
-   * It may mean that labeling is wrong
-   * It may mean that the policy needs to be tweaked
-   * There could be a bug in a policy
-   * You have been hacked
+* It may mean that labeling is wrong
+* It may mean that the policy needs to be tweaked
+* There could be a bug in a policy
+* You have been hacked
 
 ## SELinux Booleans
 

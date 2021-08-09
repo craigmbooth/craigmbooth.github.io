@@ -22,7 +22,7 @@ At some point, I was watching my favorite puzzle YouTube channel [Cracking the C
 
 I resolved to get a copy of the book, solve a bunch of puzzles and see where I stack up against an actual competitive Sudoku solver.  Between April 18th and May 27, 2021 I solved all 120 puzzles in this book.
 
-## Things I Learned Solving 120 Moderate/Tough Sudoku
+# Things I Learned Solving 120 Moderate/Tough Sudoku
 
 I got a total of 42 hrs 11 minutes of enjoyment out of the book, which, for something that cost $8.99 is exceptionally efficient, clocking in at 21 cents per *hour* of puzzling.
 

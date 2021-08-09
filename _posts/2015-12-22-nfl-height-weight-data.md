@@ -27,10 +27,10 @@ Since I cycled through laptops a couple of times in the interim I didn't really 
 
 For clarity, the exact meanings of each of the columns are as follows:
 
-   * *number*:  The player's shirt number
-   * *full_name*:  The player's full name, in the form Last, First
-   * *position*:  The 1/2 letter abbreviation for the players position
-   * *height_in_inches*:  The player's heigh in inches
-   * *weight_in_lbs*:  The player's weight in pounds
-   * *date_of_birth*:  The player's date of birth in the form MM/DD/YYYY
-   * *team*:  The three letter abbreviation for the team the player was on at the end of the 2013 season.
+* *number*:  The player's shirt number
+* *full_name*:  The player's full name, in the form Last, First
+* *position*:  The 1/2 letter abbreviation for the players position
+* *height_in_inches*:  The player's heigh in inches
+* *weight_in_lbs*:  The player's weight in pounds
+* *date_of_birth*:  The player's date of birth in the form MM/DD/YYYY
+* *team*:  The three letter abbreviation for the team the player was on at the end of the 2013 season.
