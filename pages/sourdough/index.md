@@ -20,6 +20,7 @@ gallery:
 
 # Introduction
 
+
 I love to bake.  As of writing, I have baked virtually all of my household’s bread for over two years, and bake at least weekly.  The majority of the baking I do is sourdough bread.  What follows is a living document where I keep track of my current sourdough baking process, and snippets of information; updating, subtracting and adding to it as I learn.
 
 I started by baking the country bread recipe from Tartine Bread over and over and over again, until I picked up a feel for the process.  At that point I started bringing in ideas and techniques from other bakers, including:
@@ -51,8 +52,7 @@ I start by deciding how much I’m going to bake.  I have found that 750 g of do
 
 Whatever you decide to do, put the total desired weight of bread here and all the measurements on the page will scale.
 
-X = 2000
-FAC = X/2000
+<input v-model="weight" placeholder="2000" />
 
 I usually bake once a week, over the weekend so the instructions here reflect that.  If you bake significantly more (or less), then the timings around refreshing the starter will be different.
 
@@ -60,7 +60,7 @@ I usually bake once a week, over the weekend so the instructions here reflect th
 
 As the book by Ken Forkish states, the only ingredients needed for good bread are flour, water, salt, yeast.  Thoughts on each below.
 
-### Flour
+### Flour ({% raw %}{{1000*fac}}{% endraw %} g)
 
 As much as I would like to be one of those people who enjoys wholegrain bread, I love white bread.  Most of my bakes are 90% white bread flour and 10% whole wheat flour.
 
@@ -70,17 +70,17 @@ The difference in the bread between these two flours is primarily the protien (g
 
 I go back and forth on which I prefer.  Do whatever works for you.
 
-### Water
+### Water ({% raw %}{{750*fac}}{% endraw %} g)
 
 I’m not fussy here.  If I would drink it, I would use it in bread. I use the tap water that comes out of the filtered spigot on my fridge.
 
-### Salt
+### Salt ({% raw %}{{20*fac}}{% endraw %} g)
 
 I use fine-grained sea salt.  Fine grained salt will dissolve faster into the dough than something with larger grains like kosher salt.
 
 Salt [does a lot of things](https://www.kingarthurbaking.com/pro/reference/salt) to bread.  Don’t use iodized salt.  Iodine can impart a flavor to the bread.
 
-### Yeast
+### Yeast (from {% raw %}{{200*fac}}{% endraw %} g leaven)
 
 As sourdough bakers, we don’t use a traditional baker’s yeast, but a levain made from fermented flour and water.  I'm not covering how to make a starter in this document.  I have never actually made one, just asked friends for bits of theirs.
 
@@ -110,11 +110,11 @@ I keep my starter in the fridge during the week.  After this amount of time, the
 
 Cover and leave at warm room temperature until the evening.  It should have a bubbly consistency and have risen to approximately twice its original size. Into a fresh container, mix:
 
-- min(1, floor(FAC)) tbsp freshly awoken starter
-- FAC*200 g water
-- FAC*200 g flour
+- 1 tbsp freshly awoken starter
+- {% raw %}{{200*fac}}{% endraw %} g water
+- {% raw %}{{200*fac}}{% endraw %} g flour
 
-For a total of FAC*400g of levain.  You will use half of this in baking, and the other half becomes your next sourdough starter.  Move the newly mixed levain to a cool place (I use my office, which is typically a few degrees cooler than the kitchen) and leave it overnight.
+For a total of {% raw %}{{400*fac}}{% endraw %} g of levain.  You will use half of this in baking, and the other half becomes your next sourdough starter.  Move the newly mixed levain to a cool place (I use my office, which is typically a few degrees cooler than the kitchen) and leave it overnight.
 
 ## Make the Dough
 
@@ -128,9 +128,9 @@ Take half of the levain, put it back in a lightly covered container in the fridg
 
 Start by mixing
 
-- FAC*200 g leaven
-- FAC*1000 g flour
-- FAC*700 g water
+- {% raw %}{{200*fac}}{% endraw %} g leaven
+- {% raw %}{{1000*fac}}{% endraw %} g flour
+- {% raw %}{{700*fac}}{% endraw %} g water (note: water is used twice in this recipe)
 
 In a bowl until no dry flour remains.  Do not overmix at this point, the dough can look “shaggy”, your only goal is to get the flour in contact with water.  You’re now going to move on to doing the “autolyse”
 
@@ -144,8 +144,8 @@ What’s happening during the autolyse is that the flour is absorbing the water,
 
 After the 30 minutes of autolyse, it’s time to add water and salt to the mix.  Add:
 
-- 50*FAC g water
-- 20*FAC g salt
+- {% raw %}{{50*fac}}{% endraw %} g water
+- {% raw %}{{20*fac}}{% endraw %} g salt
 
 To the dough.  Since at this point you’r typically going to do a fair amount of mixing, I don’t do anything fancy, just pour the salt on the dough and the water on top of that.  Hand-mix for 5 minutes.  I use the “Rubaud method”, as detailed in this video
 
@@ -245,3 +245,6 @@ When the bread is golden brown, remove it to a cooling rack, and let it cool to 
 # Bread Debugging
 
 If you see good rise in your dough through the process but no rise in the oven, then yes, likely it’s gone too far.  Decrease proof time
+
+<script src="https://unpkg.com/vue@next"></script>
+<script src="app.js"></script>
