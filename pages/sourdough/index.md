@@ -47,7 +47,7 @@ I started by baking the country bread recipe from Tartine Bread over and over an
 
 ## Decide How Much Bread to Bake
 
-I start by deciding how much I’m going to bake.  I have found that 750 g of dough is enough to bake a small loaf, and my large ones take about 1,000 g of dough.  My typical bake is 2,500 g, which isd 2 small loaves and a large one.
+I start by deciding how much I’m going to bake.  I have found that 750 g of dough is enough to bake a small loaf, and my large ones take about 1,000 g of dough.  My typical bake is 2,500 g, which is 2 small loaves and a large one.
 
 Whatever you decide to do, put the total desired weight of bread here and all the measurements on the page will scale.
 
@@ -62,19 +62,27 @@ As the book by Ken Forkish states, the only ingredients needed for good bread ar
 
 ### Flour
 
+As much as I would like to be one of those people who enjoys wholegrain bread, I love white bread.  Most of my bakes are 90% white bread flour and 10% whole wheat flour.
+
+Flour is one place where it's worth spending a little bit more to get a better quality product.  Depending on what I'm after, I'll generally use King Arthur all-purpose flour, or King Arthur Bread flour.
+
+The difference in the bread between these two flours is primarily the protien (gluten) content.  Bread flour contains more protien, so the gluten network in the dough will get more strongly developed.  The difference in the finished loaf is that bread made with bread flour is chewier, and has a more defined structure.
+
+I go back and forth on which I prefer.  Do whatever works for you.
+
 ### Water
 
-I’m not fussy here.  If I would drink it, I would use it in bread. I use filtered tap water.
+I’m not fussy here.  If I would drink it, I would use it in bread. I use the tap water that comes out of the filtered spigot on my fridge.
 
 ### Salt
 
-I use fine-grained sea salt.  Fine grained salt will dissolve faster into the dough.
-Salt does a lot of things to bread.
-Don’t use iodized salt, because iodine can impart a flavor on the bread.
+I use fine-grained sea salt.  Fine grained salt will dissolve faster into the dough than something with larger grains like kosher salt.
+
+Salt [does a lot of things](https://www.kingarthurbaking.com/pro/reference/salt) to bread.  Don’t use iodized salt.  Iodine can impart a flavor to the bread.
 
 ### Yeast
 
-As sourdough bakers, we don’t use a traditional baker’s yeast, but a levain made from fermented flour and water.
+As sourdough bakers, we don’t use a traditional baker’s yeast, but a levain made from fermented flour and water.  I'm not covering how to make a starter in this document.  I have never actually made one, just asked friends for bits of theirs.
 
 ## My Schedule
 
@@ -94,9 +102,7 @@ The work on Friday takes approximately 5 minutes, it’s mainly waiting for sour
 
 ## Make the Leaven
 
-I keep my starter in the fridge during the week.  After this amount of time, the starter will have built up a lot of lactic acid and be very sour.  We’ll feed it twice on Friday to both wake it up and dilute away the lactic acid.
-
-On Friday morning, mix:
+I keep my starter in the fridge during the week.  After this amount of time, the starter will have built up a lot of lactic acid and be very sour.  We’ll feed it twice on Friday to both wake it up and dilute away the lactic acid.  On Friday morning, mix:
 
 - 25 g starter
 - 50 g flour
