@@ -7,6 +7,9 @@ const Counter = {
   computed: {
     fac() {
       return this.weight / 2000
+    },
+    weight_kg() {
+        return (this.weight/1000).toFixed(1)
     }
   }
 }

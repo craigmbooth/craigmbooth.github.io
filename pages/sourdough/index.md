@@ -20,7 +20,6 @@ gallery:
 
 # Introduction
 
-
 I love to bake.  As of writing, I have baked virtually all of my household’s bread for over two years, and bake at least weekly.  The majority of the baking I do is sourdough bread.  What follows is a living document where I keep track of my current sourdough baking process, and snippets of information; updating, subtracting and adding to it as I learn.
 
 I started by baking the country bread recipe from Tartine Bread over and over and over again, until I picked up a feel for the process.  At that point I started bringing in ideas and techniques from other bakers, including:
@@ -56,7 +55,7 @@ Whatever you decide to do, put the total desired weight of bread here and all th
 
 I usually bake once a week, over the weekend so the instructions here reflect that.  If you bake significantly more (or less), then the timings around refreshing the starter will be different.
 
-## Ingredients
+## Ingredients for {% raw %}{{weight_kg}}{% endraw %} kg of Dough
 
 As the book by Ken Forkish states, the only ingredients needed for good bread are flour, water, salt, yeast.  Thoughts on each below.
 
@@ -126,7 +125,7 @@ When you wake up in the morning, last night’s levain should have visible bubbl
 
 Take half of the levain, put it back in a lightly covered container in the fridge.  This is your new starter.  The other half is ready to make bread with.
 
-Start by mixing
+Start by mixing the following ingredients:
 
 - {% raw %}{{200*fac}}{% endraw %} g leaven
 - {% raw %}{{1000*fac}}{% endraw %} g flour
@@ -202,13 +201,22 @@ Gently transfer the shaped loaf (still upside down) into the banneton.  Remember
 
 ### Second Proof
 
-Notice the slow spring back from each poke, where the indentation doesn't always completely fill back in. Additionally, the dough is well-risen in the proofing basket.
+It's now time for the final proof of the shaped dough.  This simply entails loosely covering the bannetons so the dough doesn't dry out too much, and leaving them to ferment for a period of time.  I typically go one of two ways, depending on my personal schedule
+
+1. Put the bannetons in a fridge to drastically slow fermentation and leave them for approximately 15 hours.
+1. Leave the bannetons at room temperature and ferment for a further 3-4 hours.
+
+Start the oven pre-heating approximately 30 minutes before you think the dough will be proofed.
+
+As with the first proof, there is an art to knowing when to stop the second proof.  You should typically see that the dough has increased in volume by 20-30%, has a little jiggle to it if you shake the banneton, and you can do the poke test:  Wet a finger and briefly poke the dough to a depth of approximately half an inch.  If the dough pops back and fills in immediately, it is under-proofed.  Give it more time.  It should slowly refill, and leave a little indentation where your finger was.
+
+Once the dough is proofed, it is time to bake.
 
 ## Bake the Dough
 
 ### Slashing the Dough
 
-Just before putting the dough in the oven, cut it with a razor.
+Just before putting the dough in the oven (next section), you will cut it with a razor.  This section contains details on how I do that.
 
 The purpose of this cut is to make a weak spot in the skin of the dough so that it can open up cleanly without tearing.  If you choose not to slash the dough you’ll end up with a more rustic look as it tears open as it expands, and it’ll expand somewhat less as the yeast has to do the work of tearing open the skin of the bread.  Here are a couple of examples of my loaves with- and without a slash.
 
@@ -231,20 +239,30 @@ Using a Dutch Oven gets around both of these problems.  To bake the bread we’r
 
 When we place the bread into the hot Dutch oven, we’ll get two effects:
 
-The dutch oven will trap the steam, keeping the crust of the bread cooler for longer so the bread can expand more
-The inner surface of the Dutch oven will be hot, and it’ll radiatively heat the bread fast, which is what we want.
+- The dutch oven will trap the steam, keeping the crust of the bread cooler for longer so the bread can expand more
+- The inner surface of the Dutch oven will be hot, and it’ll radiatively heat the bread fast, which is what we want.
 
-After the Dutch oven has preheated, take it out of the oven.  Upend a banneton of bread onto some baking parchment, slash the loaf and lower it CAREFULLY into the Dutch oven.  Cover it with the lid and place it into the overn for 20 minutes.
+After the Dutch oven has preheated, take it out of the oven.  Upend a banneton of bread onto some baking parchment, slash the loaf and lower it CAREFULLY into the Dutch oven.  Cover it with the lid and place it into the oven for 20 minutes.
 
 After 20 minutes, remove the lid.  You should see some steam escape.  Cook for another 20-30 minutes, until the top of the bread is golden brown to walnut in color.
 
 I have found it helpful to put a pizza stone in the oven, underneath the Dutch oven, at the 20 minute mark.  This prevents the bottom of the Dutch oven getting too hot and scorching the bread.
-Cooling and Storage
+
+### Cooling and Storage
+
 When the bread is golden brown, remove it to a cooling rack, and let it cool to near room temperature BEFORE cutting it.
+
+Never keep the bread in the fridge.  Cooler temperatures [cause the starches in the bread to recrystallize](https://culinarylore.com/food-science:does-storing-bread-in-the-fridge-make-it-last-longer/), and become stale much more quickly.  If you want to store bread for a longer period of time, wait for it to cool COMPLETELY then place it into an airtight ziploc bag, and freeze it.
+
+A loaf of bread can be "de-staled" one time in a low temperature oven.  I do this as follows:
+
+1. Preheat the oven to 300 F
+1. Run the loaf under the faucet for a *fraction of a second*, just enough to get the crust wet.  If it is a partial loaf, turn it cut-side down so that the crumb is not  saturated, but don't worry if a bit of water gets in there.
+1. Put the bread in the oven for 8-12 minutes.
 
 # Bread Debugging
 
-If you see good rise in your dough through the process but no rise in the oven, then yes, likely it’s gone too far.  Decrease proof time
+- If you see good rise in your dough through the process but no rise in the oven, then yes, likely it’s gone too far.  Decrease proof time
 
 <script src="https://unpkg.com/vue@next"></script>
 <script src="app.js"></script>
