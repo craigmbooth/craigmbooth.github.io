@@ -20,6 +20,8 @@ gallery:
 
 ## Introduction
 
+<!-- n.b. little debugging note, if you have two multiplied variables in one paragraph, the asterisks get interpreted as a boldface section and rendering fails-->
+
 I love to bake.  As of writing, I have baked virtually all of my household’s bread for over two years, and bake at least weekly.  The majority of the baking I do is sourdough bread.  What follows is a living document where I keep track of my current sourdough baking process, and snippets of information; updating, subtracting and adding to it as I learn.
 
 I started by baking the country bread recipe from Tartine Bread over and over and over again, until I picked up a feel for the process.  At that point I started bringing in ideas and techniques from other bakers, including:
@@ -115,13 +117,13 @@ I keep my starter in the fridge during the week.  After this amount of time, the
 - 50 g flour
 - 50 g warm water
 
-Cover and leave at warm room temperature until the evening.  It should have a bubbly consistency and have risen to approximately twice its original size. Now, into a fresh container, mix:
+Cover and leave at warm room temperature until the evening.  It should have a bubbly consistency and have risen to approximately twice its original size. Now, into a fresh container make a total of {% raw %}{{400*fac}}{% endraw %} g of levain by mixing
 
 - 1 tbsp of this bubbly starter
 - {% raw %}{{200*fac}}{% endraw %} g water
 - {% raw %}{{200*fac}}{% endraw %} g flour
 
-For a total of {% raw %}{{400*fac}}{% endraw %} g of levain.  You will use {% raw %}{{200*fac}}{% endraw %} g of this in baking, and the other half becomes your next sourdough starter.  Move the newly mixed levain to a cool place (I use my office, which is typically a few degrees cooler than the kitchen) and leave it overnight.
+You will use {% raw %}{{200*fac}}{% endraw %} g of this in baking, and the other half becomes your next sourdough starter.  Move the newly mixed levain to a cool place (I use my office, which is typically a few degrees cooler than the kitchen) and leave it overnight.
 
 ### Make the Dough
 
@@ -194,7 +196,7 @@ In this phase you’ll do the final shaping of the loaf, building more tension i
 
 #### Banneton Prep
 
-The first time you use a new banneton (or after cleaning one) it needs [seasoning](https://www.bakerybits.co.uk/resources/bannetons-the-how-to-guide) with flour.  To do this, I spritz the inside of the banneton with water until it’s damp, then add a couple of tablespoons of rice flour and roll it  around the banneton until it has an even covering.  Leave it for at least an hour before putting dough in there so it can dry out completely.  For future bakes, simply sift a bit of rice flour over the banneton.
+The first time you use a new banneton (or after cleaning one) it needs seasoning with flour.  To do this, I spritz the inside of the banneton with water until it’s damp, then add a couple of tablespoons of rice flour and roll it  around the banneton until it has an even covering.  Leave it for at least an hour before putting dough in there so it can dry out completely.  For future bakes, simply sift a bit of rice flour over the banneton.
 
 [The reason you want to use rice flour](https://bakerbettie.com/banneton-basket-prep-and-care/) instead of regular flour made from wheat, is because wheat contains proteins that form into gluten when it gets wet. When your loaf goes into the basket, the moisture from the dough can start creating gluten with the flour and cause it to stick. Rice flour does not have this issue.
 

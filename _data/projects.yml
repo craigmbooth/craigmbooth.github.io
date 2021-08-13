@@ -43,6 +43,11 @@ software:
 
 food:
 
+  - title: How I Bake Sourdough (2020-)
+    description: I bake a lot of sourdough.  Here are my collected learnings.
+    img: /assets/images/pages/sourdough/header.jpg
+    img_alt: A closeup shot of some sourdough
+    relative_url: /pages/sourdough/
   - title: The Bread Baker's Apprentice Challenge (2020)
     description:  I'm baking every bread in the textbook "The Bread Baker's Apprentice", alphabetically.
     img: /assets/images/projects/bread_bakers_apprentice.jpg
