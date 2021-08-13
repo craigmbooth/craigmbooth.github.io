@@ -24,5 +24,3 @@ This page contains links to things I've built over the years, largely related to
 # Other Projects
 
 {% include projectlist id="other" %}
-
-
