@@ -8,6 +8,12 @@ header:
 
 gallery:
 
+- image_path: /assets/images/pages/hotsauce/hotsauce118.jpg
+  title: Karma Sauce Cherry Bomb
+- image_path: /assets/images/pages/hotsauce/hotsauce117.jpg
+  title: Horseshoe Brand Roasted Garlic
+- image_path: /assets/images/pages/hotsauce/hotsauce116.jpg
+  title: Volcanic Peppers Caribbean Holiday
 - image_path: /assets/images/pages/hotsauce/hotsauce115.jpg
   title: Dirty Bird's Swett Sauce Ghost
 - image_path: /assets/images/pages/hotsauce/hotsauce114.jpg
