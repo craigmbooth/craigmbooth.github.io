@@ -1,5 +1,8 @@
 all
 
+# MD002 First header should be a top level header
+exclude_rule 'MD002'
+
 # MD013 Line length
 # There are just a lot of these to fix
 exclude_rule 'MD013'
