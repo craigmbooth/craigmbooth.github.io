@@ -196,7 +196,7 @@ In this phase you’ll do the final shaping of the loaf, building more tension i
 
 #### Banneton Prep
 
-The first time you use a new banneton (or after cleaning one) it needs [seasoning](https://www.bakerybits.co.uk/resources/bannetons-the-how-to-guide) with flour.  To do this, I spritz the inside of the banneton with water until it’s damp, then add a couple of tablespoons of rice flour and roll it  around the banneton until it has an even covering.  Leave it for at least an hour before putting dough in there so it can dry out completely.  For future bakes, simply sift a bit of rice flour over the banneton.
+The first time you use a new banneton (or after cleaning one) it needs seasoning with flour.  To do this, I spritz the inside of the banneton with water until it’s damp, then add a couple of tablespoons of rice flour and roll it  around the banneton until it has an even covering.  Leave it for at least an hour before putting dough in there so it can dry out completely.  For future bakes, simply sift a bit of rice flour over the banneton.
 
 [The reason you want to use rice flour](https://bakerbettie.com/banneton-basket-prep-and-care/) instead of regular flour made from wheat, is because wheat contains proteins that form into gluten when it gets wet. When your loaf goes into the basket, the moisture from the dough can start creating gluten with the flour and cause it to stick. Rice flour does not have this issue.
 
