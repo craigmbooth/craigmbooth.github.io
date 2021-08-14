@@ -79,7 +79,7 @@ I go back and forth on which I prefer.  Do whatever works for you.
 
 I’m not fussy here.  If I would drink it, I would use it in bread. I use the tap water that comes out of the filtered spigot on my fridge.
 
-Fermentation is controlled in large part by temperature, and the initial temperature of your dough is largely controlled by the temperature of your water.  I like to ensure that the water is 80 F or so.  If it is significantly colder, it will initially slow fermentation and all the times will be longer.  If you go above 105 F, the temperature iwll kill the yeast.  I tend not to bother with a thermometer here, but want the water to be just the tiniest bit warm feeling when I add it to the flour.
+Fermentation is controlled in large part by temperature, and the initial temperature of your dough is largely controlled by the temperature of your water.  I like to ensure that the water is 80 F or so.  If it is significantly colder, it will initially slow fermentation and all the times will be longer.  If you go above 105 F, the temperature will kill the yeast.  I tend not to bother with a thermometer here, but want the water to be just the tiniest bit warm feeling when I add it to the flour.
 
 #### Salt ({% raw %}{{20*fac}}{% endraw %} g)
 
@@ -275,7 +275,11 @@ A loaf of bread can be "de-staled" one time in a low temperature oven.  I do thi
 
 ## Bread Debugging
 
-- If you see good rise in your dough through the process but no rise in the oven, then yes, likely it’s gone too far.  Decrease proof time
+- Signs of overproofing.  Decrease proof time.
+  - You see good rise in your dough through the process but no rise in the oven.
+  - Big bubbles collapsed, leaving only smaller ones.
+- Signs of underproofing.  Increase proof time.
+  - Your bread has a bew big bubbles, but outside of them is very dense, it is underproofed.
 
 <script src="https://unpkg.com/vue@next"></script>
 <script src="app.js"></script>
