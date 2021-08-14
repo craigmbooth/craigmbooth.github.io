@@ -12,7 +12,7 @@ url                      : "https://craigmbooth.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "craigmbooth/craigmbooth.github.io"
 teaser                   :
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : /assets/images/logo/no_text/square.png
 masthead_title           :
 # breadcrumbs            : false
 words_per_minute         : 200

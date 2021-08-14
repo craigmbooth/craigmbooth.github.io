@@ -52,8 +52,6 @@ feature_row:
 
 {% include feature_row id="intro" type="center" %}
 
-# Quick Links
-
 {% include feature_row  %}
 
 
