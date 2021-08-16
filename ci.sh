@@ -1,4 +1,10 @@
 #!/bin/bash
+# This script test that the Jekyll site in the current directory passes
+# Markdown linting and a run through htmltest.
+#
+# Expected state:  mdl is available in the path, curl is installed
+#
+# Result:  Non-zero return code indicates failure.
 
 set -ex
 
@@ -7,7 +13,7 @@ mdl .
 
 jekyll build
 
-# Install htmltest, which does a couple of tests that htmlproofer doesn't
+# Install htmltest
 curl https://htmltest.wjdp.uk | bash
 
 HTMLTEST_OPTIONS="-c .htmltest.yml"
