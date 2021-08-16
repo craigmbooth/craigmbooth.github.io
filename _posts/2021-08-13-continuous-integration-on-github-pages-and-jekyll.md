@@ -4,31 +4,32 @@ title: "Continuous Integration on Github Pages and Jekyll"
 excerpt: "How I ensure the quality of this website"
 tags: ["devops", "computing", "ci"]
 header:
-  overlay_image: /assets/images/blog/sudoku/sudoku_header.jpg
+  overlay_image: /assets/images/blog/ci/ci_header.png
   overlay_filter: 0.5
 ---
 
-I think that quality is important.  In my career as an engineer I have generally always worked in places that ensure quality through the process of continuous integration (the automatic running of tests on every change to some code).  Since this website is deployed to gihub pages using Jekyll
+Every now and again I look at Google Analytics for this site.  It is visited fairly infrequently, although every now and again somebody arrives and spends a good long time clicking around.  I want for this occasional visitor to have a good experience, and so I try to ensure a high-enough level of quality on the site.  Do the links work?  Is it usable by somebody with a screenreader?  Did I remember to put alt text on all the images?  Am I linking to secured (https) websites?
 
-* Accessibility
-* Straight-up Broken HTML
-* Link Rot
-* "Code" Style (Jekyll is powered by Markdown; am I writing good Markdown?)
+That's a lot of things to keep track of. A year or so ago I made the decision to use some of the tools from my working career as a software engineer to automate this for myself.  In particular, I wanted to do continuous integration on this website.  continuous integration is the practice of automatically testing things every time you make a change, and making sure that you get quick automated feedback on your changes. THis should help ensure that when I'm dashing off some page about what I'm excited to cook today, that there is a tool is ensuring I didn't make any errors such as:
 
-Now, I'm not an expert on a lot of these things (specifically accessibility), but would like to be able to guarantee a base level of quality and effort for everybody who does visit the site.
+* Accessibility failures
+* Broken links
+* Straight-up typos and Broken HTML
+* Badly styled code
+* Adding links to insecurely configured sites
 
-I ended up using a couple of tools that verify different things:
+Now, I'm not an expert on a lot of these things (specifically accessibility), but would like to be able to guarantee a base level of quality and effort for everybody who does visit the site.  As I'm not an expert myself, I ended up using a couple of tools that verify different things:
 
 * [markdownlint](https://github.com/markdownlint/markdownlint):  Checks the markdown files that are compiled into this site for good style
 * [htmltest](https://github.com/wjdp/htmltest)
-  * Checks for images missing alt tags (accessibility)
-  * Checks for the correct hierarchy of headers on pages (accessibility)
+  * Checks the generated HTML for all manner of bad practices related to security, accessibility, etc.
+  * Checks that each link in a page is actually valid and working.
 
 ## How Was CI Deployed?
 
 I use [CircleCI](https://circleci.com/) (although any number of other solutions would work out to be almost identical, e.g. [GitHub actions](https://github.com/features/actions), [TravisCI](https://travis-ci.org/)).
 
-The process of implementing CI in each of these cases is pretty much the same, although the details will differ.  The introductory tutorials for each tool pretty much do everything we want, but at a high level the steps are:
+The process of implementing CI for any of these providers is pretty much the same, although the details will differ.  The introductory tutorials for each tool pretty much do everything we want, but at a high level the steps are:
 
 1. Write a script for CI to run.  It should fail if there are any errors and succeed if the site is error-free.
 1. Add a YAML file to the repo that tells the CI tool what script to run
@@ -38,6 +39,12 @@ Here is my CI script.  It runs `markdownlint`, then builds the site and runs and
 
 ```bash
 #!/bin/bash
+# This script test that the Jekyll site in the current directory passes
+# Markdown linting and a run through htmltest.
+#
+# Expected state:  mdl is available in the path, curl is installed
+#
+# Result:  Non-zero return code indicates failure.
 
 set -ex
 
@@ -46,7 +53,7 @@ mdl .
 
 jekyll build
 
-# Install htmltest, which does a couple of tests that htmlproofer doesn't
+# Install htmltest
 curl https://htmltest.wjdp.uk | bash
 
 HTMLTEST_OPTIONS="-c .htmltest.yml"
@@ -60,12 +67,11 @@ else
 fi
 ```
 
-It's worth noting that the CI process *does* find useful things.  The thing that led to me writing this blog post was that I added a logo (the little Venn diagram) thing to the site.  In the theme, the logo is configuration (simply add the name of the file to a config file), but when I merged that one-line change, CI started failing.
+It's worth noting that the CI process *does* find useful things.  The thing that led to me writing this blog post was that I added a logo (the little Venn diagram) to the site.  In the theme, the logo is configuration (simply add the name of the file to a config file), but when I merged that one-line change, CI started failing.
 
 ![A screenshot showing a CI failure after adding the logo](/assets/images/blog/ci/ci_fail.png)
 
-It turns out that the theme I am using neglected to add alt text to the header image, making the site more difficult to navigate for people using a screenreader.  The header image is a link to the front of my website, so added an alt text appropriately labeling it as such.
-
+It turns out that the theme neglected to add alt text to the header image, making the site more difficult to navigate for people using a screenreader.  The header image is a link to the front of my website, so added an alt text appropriately labeling it as such.
 
 ## A Note On Implementing New Tools
 
@@ -73,7 +79,7 @@ I learned this particular technique from a software consultant I worked with who
 
 The reasoning behind that advice was that the quickest way to learn to ignore something (or never internalize that is exists) is for it to be noisy on day one, before it has demonstrated its value.
 
-I markdown linted this site following exactly this philosophy.  THe first time I ran `mdl`, there were probably 300 failures, it was an absolutely overwhelming number that I had no idea where to start with.
+I markdown linted this site following exactly this philosophy.  The first time I ran `mdl`, there were probably 300 failures, it was an absolutely overwhelming number that I had no idea where to start with.
 
 My approach ended up being the following:
 
