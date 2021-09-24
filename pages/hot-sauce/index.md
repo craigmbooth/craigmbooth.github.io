@@ -7,6 +7,7 @@ header:
   overlay_filter: 0.5
 
 gallery:
+
 - image_path: /assets/images/pages/hotsauce/hotsauce121.jpg
   title: Freaky Ferments Mango Pineapple Habanero
 - image_path: /assets/images/pages/hotsauce/hotsauce120.jpg
