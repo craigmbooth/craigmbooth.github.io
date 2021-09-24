@@ -12,7 +12,11 @@ header:
   overlay_filter: 0.5
 ---
 
-Mainly for my own reference, this page contains a list of the colloquia I was invited to give during my time in astrophysics.
+Mainly for my own reference, this page contains a list of the talks I was invited to give during my time in astrophysics.
+
+**EDUCAUSE Conference 2021**
+*"Equity, Consistency, Humanity: The Emerging Potential of AI to Improve Learning Experiences"*
+Philadelphia, PA, 27th Oct 2021
 
 **Yale Center of Astronomy and Astrophysics**
 *"Feedback and galaxy formation from small scales to large: Insights from extremely large cosmological simulations."*

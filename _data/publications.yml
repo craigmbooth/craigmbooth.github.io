@@ -3,24 +3,28 @@
   reference: 2015, MNRAS, 454, 1038
   ads: 2015MNRAS.454.1038R
   arxiv: 1312.0598
+  doi: 10.1093/mnras/stv2056
 
 - title: "The EAGLE project: Simulating the evolution and assembly of galaxies and their environments"
   authors: Schaye J., Crain R. A., Bower R. G. et al. [incl. Booth C. M.]
   reference: 2014, MNRAS, 446, 521
   ads: 2015MNRAS.446..521S
   arxiv: "1407.7040"
+  doi: 10.1093/mnras/stu2058
 
 - title: The impact of baryonic processes on the two-point correlation functions of galaxies, subhaloes and matter
   authors: van Daalen M., Schaye J., McCarthy I. G., Booth C. M., Dalla Vecchia C.
   reference: 2014, MNRAS, 440, 2997
   ads: 2014MNRAS.440.2997V
   arxiv: 1310.7571
+  doi: 10.1093/mnras/stu482
 
 - title: Simulations of disk galaxies with cosmic ray driven galactic winds
   authors: Booth C. M., Agertz O., Kravtsov A. V., Gnedin N. Y.
   reference: 2013, ApJL, 777, L16
   ads: 2013ApJ...777L..16B
   arxiv: 1308.4974
+  doi: 10.1088/2041-8205/777/1/L16
   first_author: true
 
 - title: The impact of subgrid physics on the statistics of Lyman-limit and damped Lyman-alpha absorbers
@@ -28,6 +32,7 @@
   reference: 2013, MNRAS, 436, 2689
   ads: 2013MNRAS.436.2689A
   arxiv: 1307.6879
+  doi: 10.1093/mnras/stt1765
 
 - title: The interaction between feedback from active galactic nuclei and supernovae
   authors: Booth, C. M., Schaye J.
@@ -35,6 +40,7 @@
   ads: 2013NatSR....E1738B
   arxiv: 1203.3802
   html: https://www.nature.com/srep/2013/130515/srep01738/full/srep01738.html
+  doi: 10.1038/srep01738
   first_author: true
 
 - title: Physical properties of simulated galaxy populations at z=2 – II. Eﬀects of physics ingredients other than cooling and outﬂows
@@ -42,54 +48,63 @@
   reference: 2013, MNRAS 435 2955
   ads: 2013MNRAS.435.2955H
   arxiv: "1211.3120"
+  doi: 10.1093/mnras/stt1488
 
 - title: Physical properties of simulated galaxy populations at z=2 – I. Eﬀect of metal-line cooling and feedback from star formation and AGN
   authors: Haas, M. R., Schaye, J, Booth, C. M., Dalla Vecchia, C., Springel, V., Theuns, T., Wiersma, R. P. C.
   reference: 2013, MNRAS 435, 2931
   ads: 2013MNRAS.435.2931H
   arxiv: 1211.1021
+  doi: 10.1093/mnras/stt1487
 
 - title: Measuring galaxy halo masses from the surrounding HI Lyman alpha absorption
   authors: Rakic O., Schaye J.,  Steidel C., Booth, C. M., Dalla Vecchia, C., and Rudie, G.
   reference: 2013, MNRAS, 433, 3103
   ads: 2013MNRAS.433.3103R
   arxiv: 1306.1563
+  doi: 10.1093/mnras/stt950
 
 - title: The impact of feedback from galaxy formation on the Lyman alpha transmitted flux
   authors: Viel M., Schaye J., Booth C. M.
   reference: 2013, MNRAS, 429, 1734
   ads: 2013MNRAS.429.1734V
   arxiv: 1207.6567
+  doi: 10.1093/mnras/sts465
 
 - title: "The XMM Cluster Survey: The interplay between the brightest cluster galaxy and the intra-cluster medium via AGN feedback"
   authors: Stott J. P., Hickox R. C., Edge A. C. et al. [incl. Booth C. M.]
   reference: 2012, MNRAS, 422, 2213
   ads: 2012MNRAS.422.2213S
   arxiv: 1202.3787
+  doi: 10.1111/j.1365-2966.2012.20764.x
 
 - title: "Absorption signatures of warm-hot gas at low redshift: Broad Lyα Absorbers"
   authors: Tepper-Garcia T. Richter P., Schaye J., Booth C. M., Dalla Vecchia C., Theuns T.
   reference: 2012, MNRAS, 425, 1640
   ads: 2012MNRAS.425.1640T
   arxiv: 1201.5641
+  doi: 10.1111/j.1365-2966.2012.21545.x
 
 - title: Influence of baryons on the orbital structure of dark matter haloes
   authors: Bryan S. E., Mao S., Kay S. T., Schaye J., Dalla Vecchia C., Booth C. M.
   reference: 2012, MNRAS, 422, 1863
   ads: 2012MNRAS.422.1863B
   arxiv: 1109.4612
+  doi: 10.1093/mnras/sts587
 
 - title: Modelling neutral hydrogen in galaxies using cosmological hydrodynamical simulations
   authors: Duffy A. R., Kay S. T., Battye R. A., Booth C. M., Dalla Vecchia C., Schaye J.
   reference: 2012, MNRAS, 420, 2799
   ads: 2012MNRAS.420.2799D
   arxiv: "1107.3720"
+  doi: 10.1111/j.1365-2966.2011.19894.x
 
 - title: The filling factor of intergalactic metals at redshift z=3
   authors: Booth C. M., Schaye J., Delgado J. D., Dalla Vecchia C.
   reference: 2012, MNRAS, 420, 1053
   ads: 2012MNRAS.420.1053B
   arxiv: 1011.5502
+  doi: 10.1111/j.1365-2966.2011.20047.x
   first_author: true
 
 - title: "The effects of galaxy formation on the matter power spectrum: a challenge for precision cosmology"
@@ -97,30 +112,35 @@
   reference: 2011, MNRAS, 415, 3649
   ads: 2011MNRAS.415.3649V
   arxiv: 1104.1174
+  doi: 10.1111/j.1365-2966.2011.18981.x
 
 - title: The drop in the cosmic star formation rate below redshift 2 is caused by a change in the mode of gas accretion and by AGN feedback
   authors: van de Voort F., Schaye J., Booth C. M., Dalla Vecchia C.
   reference: 2011, MNRAS, 415, 2782
   ads: 2011MNRAS.415.2782V
   arxiv: 1102.3912
+  doi: 10.1111/j.1365-2966.2011.18896.x
 
 - title: The rates and modes of gas accretion on to galaxies and their gaseous haloes
   authors: van de Voort F., Schaye J., Booth C. M., Haas M. R., Dalla Vecchia C.
   reference: 2011, MNRAS, 414, 2458
   ads: 2011MNRAS.414.2458V
   arxiv: 1011.2491
+  doi: 10.1111/j.1365-2966.2011.18565.x
 
 - title: "Absorption signatures of warm-hot gas at low redshift: OVI"
   authors: Tepper-Garcia T. Richter P., Schaye J., Booth C. M., Dalla Vecchia C., Theuns T., Wiersma R. P. C.
   reference: 2011, MNRAS, 413, 190
   ads: 2011MNRAS.413..190T
   arxiv: "1007.2840"
+  doi: 10.1111/j.1365-2966.2010.18123.x
 
 - title: Towards an understanding of the evolution of the scaling relations for supermassive black holes
   authors: Booth C. M., Schaye J.
   reference: 2011, MNRAS, 412, 1158
   ads: 2011MNRAS.413.1158B
   arxiv: 1005.0844
+  doi: 10.1111/j.1365-2966.2011.18203.x
   first_author: true
 
 - title: Gas expulsion by quasar-driven winds as a solution to the over-cooling problem in galaxy groups and clusters
@@ -128,12 +148,14 @@
   reference: 2010, MNRAS, 412, 1965
   ads: 2011MNRAS.412.1965M
   arxiv: 1008.4799
+  doi: 10.1111/j.1365-2966.2010.18033.x
 
 - title: Feedback and the structure of simulated galaxies at redshift z=2
   authors: Sales, L. V., Navarro J. F., Schaye J., Dalla Vecchia C., Springel V., Booth C. M.
   reference: 2010, MNRAS, 409, 1541
   ads: 2010MNRAS.409.1541S
   arxiv: 1004.5386
+  doi: 10.1111/j.1365-2966.2010.17391.x
 
 - title: The enrichment history of cosmic metals
   authors: Wiersma R. P. C., Schaye J., Dalla Vecchia C., Booth C. M., Theuns T., Aguirre A.
