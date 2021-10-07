@@ -2,7 +2,7 @@
 layout: single
 title: "Continuous Integration on Github Pages and Jekyll"
 excerpt: "How I ensure the quality of this website"
-tags: ["devops", "computing", "ci"]
+tags: ["devops", "computing", "website"]
 header:
   overlay_image: /assets/images/blog/ci/ci_header.png
   overlay_filter: 0.5
@@ -10,7 +10,7 @@ header:
 
 Every now and again I look at Google Analytics for this site.  It is visited fairly infrequently, although every now and again somebody arrives and spends a good long time clicking around.  I want for this occasional visitor to have a good experience, and so I try to ensure a high-enough level of quality on the site.  Do the links work?  Is it usable by somebody with a screenreader?  Did I remember to put alt text on all the images?  Am I linking to secured (https) websites?
 
-That's a lot of things to keep track of. A year or so ago I made the decision to use some of the tools from my working career as a software engineer to automate this for myself.  In particular, I wanted to do continuous integration on this website.  continuous integration is the practice of automatically testing things every time you make a change, and making sure that you get quick automated feedback on your changes. THis should help ensure that when I'm dashing off some page about what I'm excited to cook today, that there is a tool is ensuring I didn't make any errors such as:
+That's a lot of things to keep track of. A year or so ago I made the decision to use some of the tools from my working career as a software engineer to automate this for myself.  In particular, I wanted to do continuous integration on this website.  continuous integration is the practice of automatically testing things every time you make a change, and making sure that you get quick automated feedback on your changes. This should help ensure that when I'm dashing off some page about what I'm excited to cook today, that there is a tool is ensuring I didn't make any errors such as:
 
 * Accessibility failures
 * Broken links

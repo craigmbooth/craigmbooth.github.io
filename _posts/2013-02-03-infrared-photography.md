@@ -4,7 +4,8 @@ title: "Infrared Photography"
 excerpt: "Building an IR camera from pieces around the house"
 tags: ["experiments"]
 header:
-  overlay_color: "#0192CA"
+  overlay_image: /assets/images/blog/ir_photography/ir_header.png
+  overlay_filter: 0.5
 gallery:
 
 - url: /assets/images/blog/ir_photography/irp4.jpg

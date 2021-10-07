@@ -8,6 +8,12 @@ header:
 
 gallery:
 
+- image_path: /assets/images/pages/hotsauce/hotsauce121.jpg
+  title: Freaky Ferments Mango Pineapple Habanero
+- image_path: /assets/images/pages/hotsauce/hotsauce120.jpg
+  title: Hot Sauce Shero Plain Flame
+- image_path: /assets/images/pages/hotsauce/hotsauce119.jpg
+  title: Little Dick's Big Flavor Serrano Cilantro
 - image_path: /assets/images/pages/hotsauce/hotsauce118.jpg
   title: Karma Sauce Cherry Bomb
 - image_path: /assets/images/pages/hotsauce/hotsauce117.jpg
