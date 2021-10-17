@@ -7,6 +7,7 @@ header:
   overlay_filter: 0.5
 
 gallery:
+
 - image_path: /assets/images/pages/hotsauce/hotsauce124.jpg
   title: Taylor's Ultimate Mild Habanero
 - image_path: /assets/images/pages/hotsauce/hotsauce123.jpg
