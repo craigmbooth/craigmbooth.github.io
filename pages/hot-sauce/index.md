@@ -8,6 +8,12 @@ header:
 
 gallery:
 
+- image_path: /assets/images/pages/hotsauce/hotsauce124.jpg
+  title: Taylor's Ultimate Mild Habanero
+- image_path: /assets/images/pages/hotsauce/hotsauce123.jpg
+  title: Humboldt Hotsauce Emerald
+- image_path: /assets/images/pages/hotsauce/hotsauce122.jpg
+  title: Pulley's Blazing Peach
 - image_path: /assets/images/pages/hotsauce/hotsauce121.jpg
   title: Freaky Ferments Mango Pineapple Habanero
 - image_path: /assets/images/pages/hotsauce/hotsauce120.jpg
