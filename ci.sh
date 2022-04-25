@@ -11,7 +11,7 @@ set -ex
 # Lint all of the markdown files in the source tree
 mdl .
 
-jekyll build
+bundle exec jekyll build
 
 # Install htmltest
 curl https://htmltest.wjdp.uk | bash
