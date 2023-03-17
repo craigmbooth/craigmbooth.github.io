@@ -8,7 +8,7 @@ header:
   overlay_filter: 0.5
 ---
 
-# July 2022
+# March 2023
 
 I live in a suburb of Chicago with my wife, Samantha, and daughter, Violet. Violet is now 10 months old, and she enchants me in every way.  In my work-life am CTO at [Packback](https://packback.co).  I alternate between being excited by, and terrified by the possibilities of generative AI.
 

@@ -7,6 +7,7 @@ header:
   overlay_filter: 0.5
 
 gallery:
+
 - image_path: /assets/images/pages/hotsauce/hotsauce126.jpg
   title: Old Bay
 - image_path: /assets/images/pages/hotsauce/hotsauce125.jpg
