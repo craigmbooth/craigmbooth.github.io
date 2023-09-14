@@ -7,6 +7,7 @@ header:
   overlay_filter: 0.5
 
 gallery:
+
 - image_path: /assets/images/pages/hotsauce/hotsauce131.jpg
   title: Italian Firelli Hot Sauce
 - image_path: /assets/images/pages/hotsauce/hotsauce130.jpg
