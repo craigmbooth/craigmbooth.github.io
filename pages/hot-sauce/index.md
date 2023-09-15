@@ -8,6 +8,16 @@ header:
 
 gallery:
 
+- image_path: /assets/images/pages/hotsauce/hotsauce131.jpg
+  title: Italian Firelli Hot Sauce
+- image_path: /assets/images/pages/hotsauce/hotsauce130.jpg
+  title: Anderson Pepper Company Granny's Myth Green Apple Jalapeno
+- image_path: /assets/images/pages/hotsauce/hotsauce129.jpg
+  title: Walkerswood Hot Jamaican Scotch Bonnet
+- image_path: /assets/images/pages/hotsauce/hotsauce128.jpg
+  title: Surasang Kimchi Hot Sauce
+- image_path: /assets/images/pages/hotsauce/hotsauce127.jpg
+  title: Walkerswood Jonkanoo Pepper Sauce
 - image_path: /assets/images/pages/hotsauce/hotsauce126.jpg
   title: Old Bay
 - image_path: /assets/images/pages/hotsauce/hotsauce125.jpg

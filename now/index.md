@@ -8,10 +8,8 @@ header:
   overlay_filter: 0.5
 ---
 
-# March 2023
+# September 2023
 
-I live in a suburb of Chicago with my wife, Samantha, and daughter, Violet. Violet is now 10 months old, and she enchants me in every way.  In my work-life am CTO at [Packback](https://packback.co).  I alternate between being excited by, and terrified by the possibilities of generative AI.
+I live in a suburb of Chicago with my wife, Samantha, and daughter, Violet. Violet is now 16 months old, and she enchants me to the point that after she goes to sleep at night, I look at photos of her.  In my work-life am CTO at [Packback](https://packback.co).  I have been working on cool applications of generative AI, and am looking forward to releasing them to the world.
 
-In my spare time, I like to create foods, especially fermented foods (bread, beer, sauerkraut).  I still solve logic puzzles every day, and am getting gradually more competitive.  I am very ready for spring to arrive.
-
-I still don't feel especially comfortable in crowds without a mask on.
+In my spare time, I cook (smoking is something I am currently experimenting with), I still solve logic puzzles daily, and I have started down a path towards killing my lawn and replacing it with native prairie plants.  Over summer, I completed [Illinois Master Naturalist](https://extension.illinois.edu/mn) training, and it ignited a love of nature inside of me.
