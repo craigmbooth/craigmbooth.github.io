@@ -76,7 +76,7 @@ author:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/craigmbooth"
+      url: "https://x.com/cmb"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/craigmbooth"
@@ -92,7 +92,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/craigmbooth
+      url: https://x.com/cmb
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/craigmbooth"
