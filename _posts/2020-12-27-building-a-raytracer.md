@@ -10,17 +10,17 @@ header:
 
 I really enjoy writing code, but for the past few years have been stuck in a bit of a rut where I don’t feel like I’m actually improving my skills much.  That’s just part of the downside of having moved into management.  I’m no longer coding all day every day.  I don’t think I’m forgetting how to code, but without it being my primary job I’m just not being pushed into doing better.  I miss just being able to sit down with a big technical challenge, getting my teeth in and just coding for hours, and then getting constant constructive feedback from my smarter peers.
 
-So, when [this link](https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html) on challenging projects for programmers appeared on Hacker News the other day, it just caught my attention something fierce, and of the projects on there writing a ray tracer just jumped out as very interesting.
+So, when [this link](https://austinhenley.com/blog/morechallengingprojects.html) on challenging projects for programmers appeared on Hacker News the other day, it just caught my attention something fierce, and of the projects on there writing a ray tracer just jumped out as very interesting.
 
 Sure, I don’t need one of these, and reality is that I’ll make a few photo-realistic images of... well, probably spheres floating above checkerboards.  Whatever.  I'll enjoy it and that's what matters.
 
-In my teens and 20s I was really into [POVRay](http://www.povray.org/), and generated a whole number of scenes from scratch (sadly lost to time), and competed in various rendering competitions.  What if I could build something that gave me those capabilities, except I built it myself!
+In my teens and 20s I was really into [POVRay](https://www.povray.org/), and generated a whole number of scenes from scratch (sadly lost to time), and competed in various rendering competitions.  What if I could build something that gave me those capabilities, except I built it myself!
 
 I quickly set myself a ground rule.  I want to build a ray tracer that can make a photorealistic image *using only the Python standard library*.  Meaning: no numpy for matrix operations, no scipy for anything.  If I need to do a thing, I have to learn the fundamentals and do it myself.  I figure this will be horrendously slow, but might be a fun target for thinking about optimization.
 
 I immediately started researching, finding a few really good resources:
 
-* [Very Gentle Introduction to Computer Graphics Programming](https://www.scratchapixel.com/lessons/3d-basic-rendering/get-started)
+* [Very Gentle Introduction to Computer Graphics Programming](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work.html)
 * [Ray Tracing in One Weekend](https://raytracing.github.io/)
 * [The Ray Tracer Challenge](https://smile.amazon.com/Ray-Tracer-Challenge-Test-Driven-Renderer/dp/1680502719){:data-proofer-ignore=""}
 

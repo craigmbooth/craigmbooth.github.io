@@ -6,7 +6,7 @@ software:
     relative_url: killer-sudoku-calculator/
 
   - title: You Killed a Bear (2020)
-    description: YKAB is a simple maze-escape game written with the micro-framework <a href="https://24a2.routley.io/">24a2</a>.  This is an exercise in seeing if I could create an entertaining game on a simple grid of 24 x 24 pixels.
+    description: YKAB is a simple maze-escape game written with the micro-framework <a href="https://github.com/jamesroutley/24a2">24a2</a>.  This is an exercise in seeing if I could create an entertaining game on a simple grid of 24 x 24 pixels.
     img: /assets/images/projects/ykab.png
     img_alt: Cover for YKAB project
     relative_url: ykab/

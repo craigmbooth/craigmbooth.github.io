@@ -8,6 +8,20 @@ header:
 
 gallery:
 
+- image_path: /assets/images/pages/hotsauce/hotsauce138.jpg
+  title: Karma Sauce Splashdown
+- image_path: /assets/images/pages/hotsauce/hotsauce137.jpg
+  title: Hank Sauce Cilanktro
+- image_path: /assets/images/pages/hotsauce/hotsauce136.jpg
+  title: Melinda's Bhut Jolokia Ghost Pepper
+- image_path: /assets/images/pages/hotsauce/hotsauce135.jpg
+  title: Don Fuego Original
+- image_path: /assets/images/pages/hotsauce/hotsauce134.jpg
+  title: Hellfire Extra Spicy Red
+- image_path: /assets/images/pages/hotsauce/hotsauce133.jpg
+  title: Zab's Datil Pepper St. Augustine Style
+- image_path: /assets/images/pages/hotsauce/hotsauce132.jpg
+  title: Peepal People Hara Bhara
 - image_path: /assets/images/pages/hotsauce/hotsauce131.jpg
   title: Italian Firelli Hot Sauce
 - image_path: /assets/images/pages/hotsauce/hotsauce130.jpg

@@ -18,7 +18,7 @@ gallery:
 
 I have always wanted to try my hand at building a game, but have never seriously gotten around to it.  A big part of the reason for this is that I have precisely no artistic abilities and know that no matter how long I spend building pieces of logic that I'll inevitably struggle and get frustrated when dealing with music, graphics, etc.
 
-For this reason, I was super delighted when I saw [24a2](https://24a2.routley.io/) appear on Hacker News.  24a2 is
+For this reason, I was super delighted when I saw [24a2](https://github.com/jamesroutley/24a2) appear on Hacker News.  24a2 is
 
 > 24a2 is a simple game engine that lets you to build a game in a few hours. It has a very limited set of features which makes it easy to learn, and encourages you to solve problems creatively.
 

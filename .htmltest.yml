@@ -16,7 +16,7 @@ CheckImages: true
 CheckScripts: true
 
 # Fails when encountering an http:// link. Useful to prevent mixed content errors when serving over HTTPS.
-EnforceHTTPS: false
+EnforceHTTPS: true
 
 HTTPHeaders:
   User-Agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36"
@@ -27,6 +27,7 @@ IgnoreInternalEmptyHash: true
 
 IgnoreURLs:
   - "linkedin.com"
+  - "packback.co"
 
 HTTPConcurrencyLimit: 4
 
