@@ -34,8 +34,8 @@ The same plot for punters and kickers is [here](/assets/images/blog/height-weigh
 After posting these visualizations to Reddit they got picked up by the websites of a whole lot of places:
 
 * [Deadspin](https://regressing.deadspin.com/chart-the-height-and-weight-of-every-nfl-player-by-po-1445608274)
-* Bleacher Report (dead link to https://bleacherreport.com/articles/1812211-awesome-graphic-visualizes-the-height-and-weight-of-every-nfl-player)
-* Sports Illustrated (dead link to https://extramustard.si.com/2013/10/15/infographic-the-size-of-nfl-players-by-position/)
+* Bleacher Report (dead link to https://bleacherreport.com/articles/1812211-awesome-graphic-visualizes-the-height-and-weight-of-every-nfl-player) <!-- markdownlint-disable MD034 -->
+* Sports Illustrated (dead link to https://extramustard.si.com/2013/10/15/infographic-the-size-of-nfl-players-by-position/) <!-- markdownlint-disable MD034 -->
 * [USA Today](https://ftw.usatoday.com/2013/10/nfl-heights-weights-tallest-fattest/)
 * [Next Impulse Sport](https://nextimpulsesports.com/2013/10/16/check-chart-every-nfl-players-size/)
 * [Business Insider](https://www.businessinsider.com/awesome-visualization-shows-height-and-weight-of-nfl-players-by-position-2013-10)
