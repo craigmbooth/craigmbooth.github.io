@@ -7,6 +7,7 @@ header:
   overlay_filter: 0.5
 
 gallery:
+
 - image_path: /assets/images/pages/hotsauce/hotsauce138.jpg
   title: Karma Sauce Splashdown
 - image_path: /assets/images/pages/hotsauce/hotsauce137.jpg
