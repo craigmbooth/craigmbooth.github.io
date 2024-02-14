@@ -239,8 +239,8 @@ It took me a long time to get slashing correct.  Here is what worked for me:
 - The depth of the cut should be ¼ to ½ of an inch
 - Give the blade a quick spritz with spray oil before slashing the dough “Slash”, don’t “hack” at the dough.  This should be a single cut, not a sawing motion.  If the blade is sticking and you are working it through the dough, that’s a cue to change something up.  With me it was generally that I was cutting too deep.
 - The angle of the blade is important in two directions:
-  - Slash at an angle.  You’re trying to make a “flap” so that it can raise up into a lovely ear on the loaf.  Keep the razor shallow against the bread
-  - Allow the razor to “drag behind” your hand.  Don’t thrust it in there at right angles and drag it around, let it lag a bit behind your hand and let the blade do the work of slicing the dough.
+   - Slash at an angle.  You’re trying to make a “flap” so that it can raise up into a lovely ear on the loaf.  Keep the razor shallow against the bread
+   - Allow the razor to “drag behind” your hand.  Don’t thrust it in there at right angles and drag it around, let it lag a bit behind your hand and let the blade do the work of slicing the dough.
 
 I tend to do a single cut around the edge of the loaf, but many people do very fancy designs.
 
@@ -276,10 +276,10 @@ A loaf of bread can be "de-staled" one time in a low temperature oven.  I do thi
 ## Bread Debugging
 
 - Signs of overproofing.  Decrease proof time.
-  - You see good rise in your dough through the process but no rise in the oven.
-  - Big bubbles collapsed, leaving only smaller ones.
+   - You see good rise in your dough through the process but no rise in the oven.
+   - Big bubbles collapsed, leaving only smaller ones.
 - Signs of underproofing.  Increase proof time.
-  - Your bread has a bew big bubbles, but outside of them is very dense, it is underproofed.
+   - Your bread has a bew big bubbles, but outside of them is very dense, it is underproofed.
 
 <script src="https://unpkg.com/vue@next"></script>
 <script src="app.js"></script>

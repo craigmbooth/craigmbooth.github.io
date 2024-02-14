@@ -40,4 +40,3 @@ We are finalists in the 2015 data challenge, in the Most Creative category. [I'd
 # Update:  We won.  Here is the page that was published in the Red Eye
 
 {% include figure image_path="/assets/images/blog/divvy-stories/newspaper.jpg" caption="Picture from the Red Eye announcing the winners of the competition" %}
-
