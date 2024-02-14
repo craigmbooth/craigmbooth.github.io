@@ -127,4 +127,3 @@ genuinely proud to be an American.
 Thanks, America.
 
 {% include gallery caption="Photographs from becoming a US citizen" layout="half" %}
-

@@ -86,5 +86,3 @@ A few days later, I got back the "We are happy to inform you that you have succe
 # Concluding Thoughts
 
 Yeah the OSWP is maybe out of date, yeah it’s not the most challenging exam in the world, but I had fun, and I learned a lot about how WiFi works, and in a pinch I feel like I could apply what I learned.  Given that, this course totally met my expectations, and now I have a nifty little Offensive Security Wireless Professional certification.
-
-

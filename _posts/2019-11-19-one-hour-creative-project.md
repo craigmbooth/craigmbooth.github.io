@@ -25,5 +25,3 @@ Tonight I set a timer for 60 minutes and started copy-pasting [Pantone colors](h
 {% include figure image_path="/assets/images/blog/one_hour/without_text.png" caption="Pantone color arrangement without text" %}
 
 {% include figure image_path="/assets/images/blog/one_hour/with_text.png" caption="Pantone color arrangement with text" %}
-
-

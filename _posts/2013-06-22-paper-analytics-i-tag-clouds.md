@@ -24,4 +24,3 @@ I find it interesting that I can so easily identify how my scientific interests 
 {% include figure image_path="/assets/images/blog/wordclouds/Booth2012.png" caption="Booth C. M., Schaye J., Delgado J. D., Dalla Vecchia C., 2012, MNRAS, 420, 1053" %}
 
 {% include figure image_path="/assets/images/blog/wordclouds/Booth2013.png" caption="Booth, C. M., Schaye J., 2013, Nature Scientific Reports, Volume , id. 1738 (2013)" %}
-

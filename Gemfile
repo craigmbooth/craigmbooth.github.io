@@ -1,6 +1,8 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+# n..b. this is pinned to an old version as of Feb 13th 2024 because of this
+# https://github.com/jekyll/jekyll/issues/9544
+gem "github-pages", "=228", group: :jekyll_plugins
 gem "mdl"
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
@@ -14,4 +16,5 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
+  gem "jekyll-relative-links"
 end

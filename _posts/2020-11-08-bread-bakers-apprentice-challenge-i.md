@@ -21,4 +21,3 @@ If you want to follow along then [here is my page about it](/pages/bread-bakers-
 # Progress So Far
 
 {% include figure image_path="/assets/images/blog/bba_challenge_1/montage.jpg" caption="Montage of the breads bakes so far.  From top-left to bottom-right: Anadama, Greek celebration bread, bagels, brioche, casatiello, challah, ciabatta, cinnamon-raisin bread, cinnamon buns, corn bread, cranberry-walnut celebration loaf, english muffins, foccacia, French bread, Italian bread, Kaiser rolls, lavash crackers, light wheat bread, marbled rye bread, multigrain bread" %}
-

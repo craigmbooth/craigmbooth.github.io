@@ -22,8 +22,8 @@ Now, I'm not an expert on a lot of these things (specifically accessibility), bu
 
 * [markdownlint](https://github.com/markdownlint/markdownlint):  Checks the markdown files that are compiled into this site for good style
 * [htmltest](https://github.com/wjdp/htmltest)
-  * Checks the generated HTML for all manner of bad practices related to security, accessibility, etc.
-  * Checks that each link in a page is actually valid and working.
+   * Checks the generated HTML for all manner of bad practices related to security, accessibility, etc.
+   * Checks that each link in a page is actually valid and working.
 
 ## How Was CI Deployed?
 

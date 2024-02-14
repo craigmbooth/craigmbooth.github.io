@@ -18,3 +18,8 @@ exclude_rule 'MD033'
 # MD041 First line in file should be a top level header
 # Excluded because Jekyll files have a preamble
 exclude_rule 'MD041'
+
+# markdownlint has trouble with templating that includes pipes and
+# will think they're tables. **{{page.gallery|size}}**
+exclude_rule 'MD055'
+exclude_rule 'MD057'
