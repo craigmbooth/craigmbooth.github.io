@@ -306,4 +306,4 @@ I have always loved hot sauce, and end up adding some to most (if not all) of th
 
 Current number of sauces:  **{{page.gallery|size}}**
 
-{% include gallery %}
+{% include gallery use_thumbnails='true' %}
