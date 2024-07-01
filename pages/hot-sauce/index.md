@@ -7,6 +7,7 @@ header:
   overlay_filter: 0.5
 
 gallery:
+
 - image_path: /assets/images/pages/hotsauce/hotsauce146.jpg
   title: Stacey King's Gimme the Hot Sauce
 - image_path: /assets/images/pages/hotsauce/hotsauce145.jpg
