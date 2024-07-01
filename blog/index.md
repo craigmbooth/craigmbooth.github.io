@@ -5,4 +5,4 @@ author_profile: true
 
 # Blog Posts
 
-Occasionally, I write things.  Here's a chronological list.
+Occasionally I write things.  Here's a chronological list.

@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# Loop over all files in the directory
+for file in *; do
+    # Check if the file is an image and does not start with "t_"
+    if [[ -f $file && $(file -b --mime-type "$file") == image/* && ${file:0:2} != "t_" ]]; then
+        thumbnail="t_$file"
+        # Check if a thumbnail already exists
+        if [ ! -f "$thumbnail" ]; then
+            # Generate thumbnail at 25% size
+            convert "$file" -resize 25% "$thumbnail"
+            echo "Thumbnail generated for $file"
+        else
+            echo "Thumbnail already exists for $file"
+        fi
+    fi
+done

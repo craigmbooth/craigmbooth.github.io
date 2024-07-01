@@ -7,7 +7,22 @@ header:
   overlay_filter: 0.5
 
 gallery:
-
+- image_path: /assets/images/pages/hotsauce/hotsauce146.jpg
+  title: Stacey King's Gimme the Hot Sauce
+- image_path: /assets/images/pages/hotsauce/hotsauce145.jpg
+  title: Da Bomb Beyond Insanity
+- image_path: /assets/images/pages/hotsauce/hotsauce144.jpg
+  title: Mark's Barbados Style Hot Sauce
+- image_path: /assets/images/pages/hotsauce/hotsauce143.jpg
+  title: Hook & Arrow Cayenne, Habanero
+- image_path: /assets/images/pages/hotsauce/hotsauce142.jpg
+  title: Underground Owl Signature Fresno
+- image_path: /assets/images/pages/hotsauce/hotsauce141.jpg
+  title: Ginger Goat Hop't Sauce
+- image_path: /assets/images/pages/hotsauce/hotsauce140.jpg
+  title: B-Sides by Double Take Barrel Aged Habanero
+- image_path: /assets/images/pages/hotsauce/hotsauce139.jpg
+  title: African Dream African Ghost Pepper
 - image_path: /assets/images/pages/hotsauce/hotsauce138.jpg
   title: Karma Sauce Splashdown
 - image_path: /assets/images/pages/hotsauce/hotsauce137.jpg

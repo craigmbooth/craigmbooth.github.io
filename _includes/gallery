@@ -18,13 +18,18 @@
 
 <figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
-    <a href="{% if img.url%}{{ img.url | relative_url }}{% else %}{{ img.image_path | relative_url }}{% endif%}"
-      {% if img.title %}title="{{ img.title }}"{% endif %}>
-        <img src="{{ img.image_path | relative_url }}"
-             alt="{% if img.alt %}{{ img.alt }}{% else %}{{img.title}}{% endif %}">
-    </a>
-  {% endfor %}
+  {% assign filename = img.image_path | split: '/' | last %}
+
+  <a href="{% if img.url %}{{ img.url | relative_url }}{% else %}{{ img.image_path | relative_url }}{% endif %}"
+    {% if img.title %}title="{{ img.title }}"{% endif %}>
+    <img src="{{ img.image_path | split: '/' | last | prepend: 't_' | prepend: (img.image_path | remove_first: filename) | relative_url }}"
+     alt="{% if img.alt %}{{ img.alt }}{% else %}{{ img.title }}{% endif %}">
+  </a>
+{% endfor %}
+
+
   {% if include.caption %}
     <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
   {% endif %}
 </figure>
+''
