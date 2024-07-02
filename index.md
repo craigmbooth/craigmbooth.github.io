@@ -7,7 +7,7 @@ header:
 
 intro:
 
-- excerpt: I am a software engineer, data scientist and expat currently living in Chicago, IL.  In the past I was an astrophysicist, working on high performance computing simulations of galaxy formation.  Currently, I am CTO at the EdTech company [Packback](https://packback.co), where I am part of a team that helps inspire the curiosity inside of every student.  I was previously director of engineering at [Narrative Science](https://www.narrativescience.com)
+- excerpt: I am a software engineer, data scientist and expat currently living in Chicago, IL.  In the past I was an astrophysicist, working on high performance computing simulations of galaxy formation.  Currently, I am CTO at the EdTech company [Packback](https://packback.co), where I am part of a team that helps inspire the curiosity inside of every student.  I was previously director of engineering at Narrative Science
 
 whoami:
 

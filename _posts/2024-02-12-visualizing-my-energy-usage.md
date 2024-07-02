@@ -48,4 +48,4 @@ This exercise taught me a lot about our electricity use, and informed what I pla
 
 We already use slightly more than we generate, so I'm going to have to think about increasing our home's efficiency, likely with a home energy audit.  I don't really have the appetite to install more solar panels right now!
 
-Header photo courtesy of [Anders J](https://unsplash.com/@aj5tdt).
+Header photo courtesy of Anders J on Unsplash.

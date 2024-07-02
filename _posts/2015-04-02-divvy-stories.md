@@ -9,7 +9,7 @@ header:
 
 [Divvy](https://www.divvybikes.com) is Chicago's Bike sharing scheme.  For the past two years, Divvy has run a visualization competition, where they open source data on all of the trips from the previous year and invite people to build cool visualizations about that data.  The entrants from 2014 are [here] (link removed because dead)
 
-My friend [Dan Platt](https://www.linkedin.com/pub/daniel-platt/18/bab/3a1) and I decided to use the platform that we're developing at [Narrative Science](https://www.narrativescience.com), Quill -- an AI platform that turns data into stories written in the English language -- and interpret the structured Divvy data in the form of stories.
+My friend [Dan Platt](https://www.linkedin.com/pub/daniel-platt/18/bab/3a1) and I decided to use the platform that we're developing at Narrative Science, Quill -- an AI platform that turns data into stories written in the English language -- and interpret the structured Divvy data in the form of stories.
 
 In designing the app we decided to build out a simple experience where the user enters a single piece of information about something that they have a personal link to -- a place -- and the app tells them something about Divvy use in that place that they may not already know.  We did this by calculating the most interesting Divvy related facts about each station, and then comparing the properties of that station to others.
 
@@ -35,7 +35,7 @@ In order to make the app more dynamic, we designed the left-side of the page to 
 
 I really think that our app showcases the Divvy data in a unique way, and by using the English language, we're able to communicate a lot of insight in a single page.  You can try out the app here (link removed because dead)
 
-We are finalists in the 2015 data challenge, in the Most Creative category. [I'd love it if you voted for us here](https://redeyechicago.com/news/redeye-divvy-data-challenge-2015-voting-20150330-htmlstory.html)!
+We are finalists in the 2015 data challenge, in the Most Creative category.
 
 # Update:  We won.  Here is the page that was published in the Red Eye
 

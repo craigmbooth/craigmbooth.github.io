@@ -29,7 +29,7 @@ However, a few weeks ago I received one of these emails from a recruiter on beha
 
 * [In Case You Wondered, a Real Human Wrote This Column](https://www.nytimes.com/2011/09/11/business/computer-generated-articles-are-gaining-traction.html?pagewanted=all&_r=0) (The New York Times)
 * [Can the Computers at Narrative Science Replace Paid Writers?](https://www.theatlantic.com/entertainment/archive/2012/04/can-the-computers-at-narrative-science-replace-paid-writers/255631/) (The Atlantic)
-* [Can an Algorithm Write a Better News Story Than a Human Reporter?](https://www.wired.com/gadgetlab/2012/04/can-an-algorithm-write-a-better-news-story-than-a-human-reporter/all/) (Wired){:data-proofer-ignore=""}
+* <a href="https://www.wired.com/gadgetlab/2012/04/can-an-algorithm-write-a-better-news-story-than-a-human-reporter/all/" data-proofer-ignore>Can an Algorithm Write a Better News Story Than a Human Reporter?</a>
 * [Can an Algorithm Replace Stock Analysts?](https://www.businessweek.com/articles/2013-07-12/can-an-algorithm-replace-stock-analysts?__hstc=173523388.7373ae052586e7038d56528c60e34926.1374014113522.1374531684733.1374534068177.5&__hssc=173523388.3.1374534068177#r=hpt-ls) (Businessweek)
 
 They have since widened scope to try and write stories in a huge number of subject domains, and the problems they're trying to solve in changing _'data'_ into _'stories'_ sounded both challenging and incredibly interesting.  I agreed to an interview.

@@ -281,5 +281,5 @@ A loaf of bread can be "de-staled" one time in a low temperature oven.  I do thi
 - Signs of underproofing.  Increase proof time.
    - Your bread has a bew big bubbles, but outside of them is very dense, it is underproofed.
 
-<script src="https://unpkg.com/vue@next"></script>
+<script src="https://unpkg.com/vue@^3.4.0"></script>
 <script src="app.js"></script>

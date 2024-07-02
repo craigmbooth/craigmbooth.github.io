@@ -6,8 +6,9 @@ gem "github-pages", "=228", group: :jekyll_plugins
 gem "mdl"
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "faraday", "1.8.0"
 
-# If you have any plugins, put them here!
+# Jekyll plugins
 group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
