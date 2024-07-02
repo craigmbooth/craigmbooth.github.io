@@ -1,8 +1,5 @@
 source "https://rubygems.org"
 
-# n..b. this is pinned to an old version as of Feb 13th 2024 because of this
-# https://github.com/jekyll/jekyll/issues/9544
-gem "github-pages", "=228", group: :jekyll_plugins
 gem "mdl"
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
