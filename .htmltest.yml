@@ -33,3 +33,6 @@ HTTPConcurrencyLimit: 4
 
 # Turns off x509 errors for self-signed certificates.
 IgnoreSSLVerify: true
+
+# Print warnings for 404s, there are just enough links on the site to old websites that resolving every one makes no sense.
+IgnoreExternalBrokenLinks: true
