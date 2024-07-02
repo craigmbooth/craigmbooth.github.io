@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html>
 <html>
  <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -46,19 +46,19 @@ $.getJSON("hubble.json", function(data) {
     var placeholder = $("#placeholder");
     var hubPlot = $.plot(placeholder, data,
         { /* Beginning of options */
-        
+
          series: { lines:  {show: false},
-                   points: {show: true}, 
-                   shadowSize: 0 
+                   points: {show: true},
+                   shadowSize: 0
                  },
-        
-         xaxis: { zoomRange: [0.1, 100], 
+
+         xaxis: { zoomRange: [0.1, 100],
                   panRange: [1930, 2014],
                   min: 1970,
                   max: 2014,
 		  axisLabel: "Year"
                 },
-        		 
+
          yaxis: { zoomRange: [10, 1000],
                   panRange: [10, 1000],
                   min: 20,
@@ -69,13 +69,13 @@ $.getJSON("hubble.json", function(data) {
 
          grid: { clickable: true,
                },
-        
+
          zoom: { interactive: true
                },
-        
+
          pan: { interactive: true
               },
-        
+
          legend: { show: true,
                    noColumns: 2,
 		   toggle: true,
@@ -98,7 +98,7 @@ $.getJSON("hubble.json", function(data) {
        }
     });
 
-    }); /* End of getJSON */	
+    }); /* End of getJSON */
 </script>
 
 <script>
