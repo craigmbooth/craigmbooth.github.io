@@ -7,6 +7,7 @@ header:
   overlay_filter: 0.5
 
 gallery:
+
 - image_path: /assets/images/pages/hotsauce/hotsauce150.jpg
   title: Howler Monkey Amarillo
 - image_path: /assets/images/pages/hotsauce/hotsauce149.jpg
