@@ -7,7 +7,14 @@ header:
   overlay_filter: 0.5
 
 gallery:
-
+- image_path: /assets/images/pages/hotsauce/hotsauce150.jpg
+  title: Howler Monkey Amarillo
+- image_path: /assets/images/pages/hotsauce/hotsauce149.jpg
+  title: Howler Monkey Hot
+- image_path: /assets/images/pages/hotsauce/hotsauce148.jpg
+  title: Howler Monkey Verde
+- image_path: /assets/images/pages/hotsauce/hotsauce147.jpg
+  title: Walkerswood Firestick
 - image_path: /assets/images/pages/hotsauce/hotsauce146.jpg
   title: Stacey King's Gimme the Hot Sauce
 - image_path: /assets/images/pages/hotsauce/hotsauce145.jpg
