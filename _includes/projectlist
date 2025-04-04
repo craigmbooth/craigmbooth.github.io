@@ -1,12 +1,15 @@
-{% for project in site.data.projects[include.id] %}
+{% assign projects = site.data.projects[include.id] %}
+{% assign shuffled_projects = projects | sample: projects.size %}
 
-## {{ project.title }}
+{% for project in shuffled_projects %}
+<div class="project-item" data-category="{{ include.id }}">
+  <h2>{{ project.title }}</h2>
 
-![{{project.img_alt}}]({{project.img}}){: .align-center }
+  <img src="{{project.img}}" alt="{{project.img_alt}}" class="align-center">
 
-{{project.description}}
+  <p>{{project.description}}</p>
 
-[Link]({{project.relative_url}})
-
+  <p><a href="{{project.relative_url}}">Link</a></p>
+</div>
 {% endfor %}
 
