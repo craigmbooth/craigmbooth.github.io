@@ -24,7 +24,7 @@ Or more accurately, a friend shared a link to one of Rob's jhāna retreats. I cl
 
 There was something in the way he spoke—unhurried, lyrical, precise—that bypassed the usual filters. He didn't talk like a man trying to explain something. He talked like someone inviting me to look again. I trusted him immediately.
 
-So I started practicing again. First samādhi, then some gentle jhāna work. His talks became part of my days—guiding walks, anchoring mornings, accompanying moments of friction. Titles like *Selflessness and a Life of Love*, *Unbinding the World*, *Attitude, Effort, Achievement, and View* became familiar companions.
+So I started practicing again. First samādhi, then some gentle jhāna work. His talks became part of my days—guiding walks, anchoring mornings, accompanying moments of friction. Titles like [*Selflessness and a Life of Love*](https://dharmaseed.org/talks/9989/), [*Unbinding the World*](https://dharmaseed.org/talks/17960/), [*Attitude, Effort, Achievement, and View*](https://dharmaseed.org/talks/60861/) became familiar companions.
 
 Eventually, I picked up *Seeing That Frees*. I wanted more of this—more of *that*.
 

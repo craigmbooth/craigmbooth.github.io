@@ -61,6 +61,12 @@ food:
 
 other:
 
+  - title: Unbuilding the Self (2025)
+    description: A yearlong study of emptiness, perception, and freedom through meditation
+    img: /assets/images/projects/unbuilding.jpg
+    img_alt: Cover for meditation series
+    relative_url: /pages/unbuilding-the-self/
+
   - title: Homebrew Infra-red Photography (2010)
     description: I converted my digital camera into an IR camera using some old over-exposed film negatives
     img: /assets/images/blog/ir_photography/irp4.jpg

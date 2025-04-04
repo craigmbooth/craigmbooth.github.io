@@ -8,8 +8,6 @@ header:
 classes: wide
 ---
 
-# Glossary: A Skeptic-Friendly Guide to the Dharma Terms I Use
-
 This isn't a formal glossary. It's more like a set of working definitions—the kind I wish I'd had when I first started reading about emptiness and practice. The terms below show up throughout the blog series, often without much explanation. Here's a little orientation in case you want it.
 
 ### **Emptiness (suññatā)**
