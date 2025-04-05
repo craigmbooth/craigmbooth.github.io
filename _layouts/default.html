@@ -19,18 +19,18 @@
     {% include_cached browser-upgrade.html %}
     {% include_cached masthead.html %}
 
-    <div class="initial-content">
+    <div class="initial-content" role="main">
       {{ content }}
     </div>
 
     {% if site.search == true %}
-      <div class="search-content">
+      <div class="search-content" id="search-content" aria-label="Search">
         {% include_cached search/search_form.html %}
       </div>
     {% endif %}
 
     <div id="footer" class="page__footer">
-      <footer>
+      <footer role="contentinfo">
         {% include footer/custom.html %}
         {% include_cached footer.html %}
       </footer>

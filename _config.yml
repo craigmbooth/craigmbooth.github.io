@@ -1,5 +1,5 @@
 # Theme Settings
-minimal_mistakes_skin    : "default"
+minimal_mistakes_skin    : "air"
 
 # Site Settings
 locale                   : "en-US"
@@ -70,7 +70,7 @@ analytics:
 author:
   name             : "Craig Booth"
   avatar           : /assets/images/avatar.png
-  bio              : "Computer janitor, Ex-astrophysicist, Recovered? academic, UK Expat, Data liker, World famous super handsome cool guy* (*pending)"
+  bio              : "EdTech CTO. Also growing vegetables, sitting still, and building AI I can live with."
   location         : "Chicago, IL"
   email            :
   links:

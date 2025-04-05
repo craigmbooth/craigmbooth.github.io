@@ -2,4 +2,92 @@
 
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
+<!-- Import Inter font -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<!-- Custom styling overrides -->
+<style>
+  /* Modern typography */
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 17px;
+    line-height: 1.65;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+  }
+  
+  /* Enhanced links */
+  a {
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+  
+  /* Better spacing */
+  .page__content p, 
+  .page__content li {
+    margin-bottom: 1.2em;
+  }
+  
+  /* Code styling */
+  code {
+    padding: 0.2em 0.4em;
+    font-size: 0.9em;
+  }
+  
+  pre.highlight {
+    padding: 1em;
+    margin: 1.5em 0;
+    font-size: 0.85em;
+    line-height: 1.6;
+  }
+  
+  /* Accessibility improvements */
+  :focus {
+    outline: 3px solid #0092ca;
+    outline-offset: 2px;
+  }
+  
+  .screen-reader-text, 
+  .sr-only {
+    border: 0;
+    clip: rect(1px, 1px, 1px, 1px);
+    clip-path: inset(50%);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    word-wrap: normal !important;
+  }
+  
+  .skip-links a:focus {
+    clip: auto !important;
+    clip-path: none;
+    height: auto;
+    width: auto;
+    display: block;
+    padding: 1em;
+    background-color: #f1f1f1;
+    text-align: center;
+    z-index: 999;
+    font-weight: bold;
+  }
+  
+  /* Improved mobile experience */
+  @media (max-width: 768px) {
+    body {
+      font-size: 16px;
+    }
+  }
+</style>
+
 <!-- end custom head snippets -->
