@@ -1,6 +1,10 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
 
-<div class="masthead" role="banner">
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  <div class="masthead" role="banner">
+{% else %}
+  <div class="masthead border-bottom" role="banner">
+{% endif %}
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav" role="navigation" aria-label="Main navigation">

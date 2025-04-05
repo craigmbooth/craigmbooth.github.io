@@ -1,3 +1,15 @@
 <!-- start custom footer snippets -->
-
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Select a random profile image number between 1 and 7
+  const profileNumber = Math.floor(Math.random() * 7) + 1;
+  // Find the profile image in the intro section
+  const profileImages = document.querySelectorAll('.feature__item--left .archive__item-teaser img');
+  
+  // Apply to the intro section profile image
+  if (profileImages.length > 0) {
+    profileImages[0].src = `/assets/images/profiles/profile${profileNumber}.jpg`;
+  }
+});
+</script>
 <!-- end custom footer snippets -->
