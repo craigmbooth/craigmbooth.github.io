@@ -7,11 +7,6 @@ header:
   overlay_filter: 0.5
 classes: wide
 ---
-
-# Letters to a Skeptic
-
-*What I'd say to the part of me that needed proof*
-
 This is the letter I would have written to myself ten years ago.
 
 Back then, I was curious about meditation—but skeptical. I'd tried it a little, read a few things, maybe even felt a flicker of something during a sit. But mostly, I didn't understand what the big deal was. I thought it might be a nice way to relax. Or a tool to focus better at work. I certainly didn't think it would change the way I understood the world.
@@ -100,5 +95,7 @@ The part of you that needs proof won't be exiled. It'll be invited into the lab.
 
 And in that field, there's so much left to discover.
 
-Sincerely,  
+Sincerely,
 Craig (but a little quieter inside)
+
+*This is part of the "Unbuilding the Self" series. View the [series overview](/pages/unbuilding-the-self/)*
