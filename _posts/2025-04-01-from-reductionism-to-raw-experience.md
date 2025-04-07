@@ -11,45 +11,24 @@ classes: wide
 
 *This is Part I of a series exploring meditation and emptiness. For context, you may want to read the [series introduction](/pages/unbuilding-the-self/) first.*
 
-> *"Everything, all the way down, is models."*  
+> *"Everything, all the way down, is models."*
 > — a sentence I wrote in my journal that I'm still unpacking
 
-I didn't come to meditation looking for emptiness.
+I didn't come to meditation looking for [emptiness](/pages/unbuilding-the-self/glossary#emptiness-suññatā).
 
 I've actually been meditating since 2014. It's been a part of my life for over a decade now—but in the time leading up to this journey, my practice had gone a little stagnant. What had once been intimate and curious had become mechanical. Full of dead inertia. Sit, breathe, hope something shifts. Nothing really did.
 
 Then I found Rob Burbea.
 
-Or more accurately, a friend shared a link to one of Rob's jhāna retreats. I clicked play while folding laundry. And within minutes, I was completely taken.
+Or more accurately, a friend shared a link to one of Rob's [jhāna](/pages/unbuilding-the-self/glossary#jhāna-meditative-absorption) retreats. I clicked play while folding laundry. And within minutes, I was completely taken.
 
 There was something in the way he spoke—unhurried, lyrical, precise—that bypassed the usual filters. He didn't talk like a man trying to explain something. He talked like someone inviting me to look again. I trusted him immediately.
 
-So I started practicing again. First samādhi, then some gentle jhāna work. His talks became part of my days—guiding walks, anchoring mornings, accompanying moments of friction. Titles like [*Selflessness and a Life of Love*](https://dharmaseed.org/talks/9989/), [*Unbinding the World*](https://dharmaseed.org/talks/17960/), [*Attitude, Effort, Achievement, and View*](https://dharmaseed.org/talks/60861/) became familiar companions.
+So I started practicing again. First [samādhi](/pages/unbuilding-the-self/glossary#samādhi-collectedness-absorption), then some gentle jhāna work. His talks became part of my days—guiding walks, anchoring mornings, accompanying moments of friction. Titles like [*Selflessness and a Life of Love*](https://dharmaseed.org/talks/9989/), [*Unbinding the World*](https://dharmaseed.org/talks/17960/), [*Attitude, Effort, Attainment, and View*](https://dharmaseed.org/talks/60861/) became familiar companions.
 
-Eventually, I picked up *Seeing That Frees*. I wanted more of this—more of *that*.
+Eventually, I picked up *Seeing That Frees*, the one book Rob wrote before he died. I wanted more of this—more of *that*.
 
 But when I started reading, I hit a wall.
-
-## A Spark on the Body, a Grain in the Eye
-
-There's a line from Düdjom Lingpa's *The Foolish Dharma of an Idiot Clothed in Mud and Feathers* that struck me like lightning:
-
-*"Without procrastinating until tomorrow and the next day, arouse a sense of urgency, as if a spark landed on your body or a grain of sand fell in your eye."*
-
-It stopped me cold.
-
-Because the truth is: it's a miracle I'm even here. That I have a mind capable of reflection, a life that supports practice, teachings I can access, and a sangha I can learn with.
-
-This doesn't happen by accident.
-
-And it won't last forever.
-
-This moment—*this exact moment*—might be the only chance I get. That realization didn't make me panic. It made me still.
-
-A kind of quiet resolve settled in:  
-Don't wait.  
-Don't squander this.  
-Practice like something matters.
 
 ## The Book That Bounced Off Me
 
@@ -65,7 +44,28 @@ So when I came across a yearlong study program based around *Seeing That Frees*�
 
 The idea was simple: sit with the teachings over twelve months, and reflect. Slowly, deliberately. Let the thing sink in.
 
-This post is the first of those reflections—the beginning of a process I could already feel was going to change me in ways I didn't understand yet.
+## A Spark on the Body, a Grain in the Eye
+
+There's a line from Düdjom Lingpa's *The Foolish Dharma of an Idiot Clothed in Mud and Feathers* that struck me like lightning:
+
+*"Without procrastinating until tomorrow and the next day, arouse a sense of urgency, as if a spark landed on your body or a grain of sand fell in your eye."*
+
+It stopped me cold.
+
+Because the truth is: it's a miracle I'm even here. That I have a mind capable of reflection, a life that supports practice, teachings I can access, and a [sangha](/pages/unbuilding-the-self/glossary#sangha) I can learn with.
+
+This doesn't happen by accident.
+
+And it won't last forever.
+
+This moment—*this exact moment*—might be the only chance I get. That realization didn't make me panic. It made me still.
+
+A kind of quiet resolve settled in:
+Don't wait.
+Don't squander this.
+Practice like something matters.
+
+Armed with this urgency, I began the program. This post is the first of those reflections—the beginning of a process I could already feel was going to change me in ways I didn't understand yet.
 
 ## Everything is Models (Even That Statement)
 

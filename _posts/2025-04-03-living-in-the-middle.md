@@ -18,7 +18,7 @@ When the self started to flicker, something else stepped forward: the ordinary.
 
 Not the dull or the boring, but the background hum of daily life. The fan in the room. The shape of my shadow in the corner of my eye. The way my daughter says "just a little bit" when she wants something very much. These things had always been there, but now they glowed. Not because they were more meaningful—but because they weren't trying to be anything at all.
 
-In the months that followed, I found myself drawn to what I now think of as the grace of ordinary emptiness. Not grand insights, not fireworks, but the way things soften when you stop needing them to stand for something.
+In the months that followed, I found myself drawn to what I now think of as the grace of ordinary [emptiness](/pages/unbuilding-the-self/glossary#emptiness-suññatā). Not grand insights, not fireworks, but the way things soften when you stop needing them to stand for something.
 
 ## Everything Fades (Even the Toaster)
 
@@ -42,11 +42,11 @@ And that's enough for freedom.
 
 ## The View Builds the World
 
-Throughout this process, one thing kept ringing true: view is generative.
+Throughout this process, one thing kept ringing true: [view](/pages/unbuilding-the-self/glossary#view) is generative.
 
 It doesn't just interpret experience. It *creates* it.
 
-When I sat with the view of impermanence, things flickered. When I sat with the view of not-self, identity collapsed. When I sat with the view of awareness, space opened up. Each view brought forward a different world. Not in theory—in direct perception.
+When I sat with the view of impermanence, things flickered. When I sat with the view of [not-self](/pages/unbuilding-the-self/glossary#anattā-not-self), identity collapsed. When I sat with the view of awareness, space opened up. Each view brought forward a different world. Not in theory—in direct perception.
 
 This changed how I approached practice. I stopped looking for the "right" view and started asking: what view serves here? What loosens clinging? What reveals possibility?
 
