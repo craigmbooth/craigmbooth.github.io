@@ -37,8 +37,8 @@
         </li>
       {% endif %}
 
-      {% if author.links %}
-        {% for link in author.links %}
+      {% if site.data.social_links.links %}
+        {% for link in site.data.social_links.links %}
           {% if link.label and link.url %}
             <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i><span class="label">{{ link.label }}</span></a></li>
           {% endif %}

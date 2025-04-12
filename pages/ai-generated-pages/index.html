@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Quiet Horizon | Craig Booth</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Cormorant+Garamond:ital,wght@0,300;0,400;1,300;1,400&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --background-color: #fbfaf9;
+            --text-color: #2a2a2a;
+            --accent-primary: #8a759c;
+            --accent-secondary: #7a9795;
+            --accent-primary-light: rgba(138, 117, 156, 0.08);
+            --accent-secondary-light: rgba(122, 151, 149, 0.08);
+            --link-hover-primary: #9d85b2;
+            --link-hover-secondary: #8baba9;
+            --soft-shadow: 0 4px 20px rgba(0,0,0,0.04);
+            --transition-slow: all 0.8s cubic-bezier(0.19, 1, 0.22, 1);
+            --spacing: clamp(1.5rem, 5vw, 3.5rem);
+            --border-radius: 3px;
+        }
+        
+        @keyframes fadeIn {
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        @keyframes floatSlow {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+        
+        @keyframes fadeInGlow {
+            0% { opacity: 0; box-shadow: 0 0 0 rgba(0,0,0,0); }
+            100% { opacity: 1; box-shadow: var(--soft-shadow); }
+        }
+        
+        @keyframes borderFadeIn {
+            from { border-color: transparent; }
+            to { border-color: rgba(138, 117, 156, 0.2); }
+        }
+        
+        @keyframes subtleGradient {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        html {
+            scroll-behavior: smooth;
+        }
+        
+        body {
+            font-family: 'Cormorant Garamond', 'Garamond', serif;
+            background-color: var(--background-color);
+            background-image: 
+                radial-gradient(circle at 15% 35%, rgba(138, 117, 156, 0.03) 0%, transparent 25%),
+                radial-gradient(circle at 85% 75%, rgba(122, 151, 149, 0.03) 0%, transparent 25%);
+            color: var(--text-color);
+            line-height: 1.6;
+            padding: 0 clamp(1.5rem, 8%, 5rem);
+            overflow-x: hidden;
+            font-size: 1.125rem;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: calc(var(--spacing) * 1.5) 0;
+            width: 100%;
+        }
+        
+        .ornament {
+            position: relative;
+            display: flex;
+            justify-content: center;
+            margin-bottom: 2rem;
+        }
+        
+        .ornament::before,
+        .ornament::after {
+            content: "✧";
+            color: var(--accent-primary);
+            opacity: 0.6;
+            font-size: 1.2rem;
+            margin: 0 0.8rem;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: var(--spacing);
+            position: relative;
+        }
+        
+        header::after {
+            content: "";
+            display: block;
+            width: 4rem;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, var(--accent-primary), transparent);
+            margin: 2.5rem auto 0;
+            opacity: 0.4;
+        }
+        
+        h1, h2, h3 {
+            font-family: 'Playfair Display', 'Times New Roman', serif;
+            font-weight: 500;
+            letter-spacing: 0.02em;
+        }
+        
+        h1 {
+            font-size: clamp(2.2rem, 5vw, 3.7rem);
+            margin-bottom: 1.5rem;
+            font-style: italic;
+            line-height: 1.2;
+            color: transparent;
+            background: linear-gradient(135deg, var(--text-color) 0%, var(--accent-primary) 80%, var(--accent-secondary) 100%);
+            -webkit-background-clip: text;
+            background-clip: text;
+        }
+        
+        .intro {
+            max-width: 42rem;
+            margin: 0 auto 4rem;
+            font-size: 1.25rem;
+            line-height: 1.8;
+            font-style: italic;
+            position: relative;
+            color: rgba(42, 42, 42, 0.85);
+            text-align: center;
+        }
+        
+        .intro::first-letter {
+            font-size: 1.8em;
+            font-family: 'Playfair Display', serif;
+            line-height: 0;
+            vertical-align: -0.05em;
+            color: var(--accent-primary);
+        }
+        
+        .projects {
+            display: flex;
+            gap: clamp(2.5rem, 6vw, 5rem);
+            align-items: stretch;
+            perspective: 1000px;
+        }
+        
+        .project {
+            flex: 1;
+            padding: clamp(2rem, 4vw, 3.5rem);
+            border-radius: var(--border-radius);
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 28rem;
+            background-color: rgba(255, 255, 255, 0.5);
+            backdrop-filter: blur(15px);
+            -webkit-backdrop-filter: blur(15px);
+            box-shadow: var(--soft-shadow);
+            transition: var(--transition-slow);
+            opacity: 1;
+            transform: translateY(0) scale(1);
+            text-decoration: none;
+            position: relative;
+            border: 1px solid transparent;
+            overflow: hidden;
+        }
+        
+        .project::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: 
+                radial-gradient(
+                    circle at 30% 20%, 
+                    var(--gradient-color-light) 0%,
+                    transparent 60%
+                );
+            opacity: 0.4;
+            z-index: -1;
+        }
+        
+        .project::after {
+            content: none;
+        }
+        
+        .project:hover {
+            border-color: var(--border-color);
+        }
+        
+        .project:hover::after {
+            opacity: 0;
+        }
+        
+        .project-icon {
+            font-size: 2.5rem;
+            margin-bottom: 2rem;
+            opacity: 0.7;
+            transition: var(--transition-slow);
+        }
+        
+        .project h2 {
+            font-size: clamp(1.6rem, 3vw, 2.3rem);
+            margin-bottom: 1.2rem;
+            font-weight: 500;
+            color: var(--text-color);
+            transition: var(--transition-slow);
+        }
+        
+        .project-date {
+            font-family: 'Playfair Display', serif;
+            font-size: 0.95rem;
+            letter-spacing: 0.05em;
+            margin-bottom: 0.7rem;
+            color: var(--link-color);
+            opacity: 0.85;
+        }
+        
+        .project-subtitle {
+            font-style: italic;
+            margin-bottom: 1.8rem;
+            line-height: 1.5;
+            max-width: 25rem;
+            color: rgba(42, 42, 42, 0.75);
+        }
+        
+        .project-credits {
+            font-size: 0.85rem;
+            line-height: 1.5;
+            margin-bottom: 2rem;
+            text-align: left;
+            max-width: 24rem;
+            margin-left: auto;
+            margin-right: auto;
+            color: rgba(42, 42, 42, 0.7);
+        }
+        
+        .project-credits p {
+            margin-bottom: 0.2rem;
+            display: flex;
+            justify-content: space-between;
+        }
+        
+        .project-credits span {
+            font-weight: 400;
+            color: var(--link-color);
+            margin-right: 0.5rem;
+            opacity: 0.9;
+        }
+        
+        .project-link-container {
+            margin-top: auto;
+            position: relative;
+        }
+        
+        .project-link {
+            font-family: 'Playfair Display', serif;
+            font-weight: 400;
+            color: var(--link-color);
+            text-decoration: none;
+            display: inline-block;
+            padding: 0.5rem 1.2rem;
+            position: relative;
+            transition: var(--transition-slow);
+            letter-spacing: 0.05em;
+            border: 1px solid var(--link-color);
+            border-radius: var(--border-radius);
+            font-size: 1.05rem;
+            backdrop-filter: blur(5px);
+            -webkit-backdrop-filter: blur(5px);
+        }
+        
+        .project-link:hover {
+            color: var(--link-hover);
+            background-color: rgba(255, 255, 255, 0.1);
+            border-color: var(--link-hover);
+        }
+        
+        #project-one {
+            --order: 1;
+            --gradient-color-light: var(--accent-primary-light);
+            --border-color: rgba(138, 117, 156, 0.2);
+            --link-color: var(--accent-primary);
+            --link-hover: var(--link-hover-primary);
+        }
+        
+        #project-two {
+            --order: 2;
+            --gradient-color-light: var(--accent-secondary-light);
+            --border-color: rgba(122, 151, 149, 0.2);
+            --link-color: var(--accent-secondary);
+            --link-hover: var(--link-hover-secondary);
+        }
+        
+        .subtle-particles {
+            display: none;
+        }
+        
+        footer {
+            text-align: center;
+            padding: calc(var(--spacing) * 1.5) 0 1rem;
+            font-size: 0.9rem;
+            color: rgba(42, 42, 42, 0.6);
+            font-style: italic;
+            letter-spacing: 0.02em;
+            margin-top: auto;
+            position: relative;
+        }
+        
+        .footer-link {
+            color: inherit;
+            text-decoration: none;
+            border-bottom: 1px solid rgba(42, 42, 42, 0.3);
+            transition: border-color 0.3s ease;
+        }
+        
+        .footer-link:hover {
+            border-color: var(--accent-primary);
+        }
+        
+        footer::before {
+            content: "";
+            display: block;
+            width: 4rem;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, var(--accent-primary), transparent);
+            margin: 0 auto 1.5rem;
+            opacity: 0.4;
+        }
+        
+        .visually-hidden {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border: 0;
+        }
+        
+        @media (prefers-reduced-motion: reduce) {
+            html {
+                scroll-behavior: auto !important;
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .projects {
+                flex-direction: column;
+            }
+            
+            .project {
+                min-height: 22rem;
+                animation-delay: calc(var(--order) * 0.3s + 0.6s);
+            }
+            
+            .intro {
+                font-size: 1.15rem;
+                margin-bottom: 3rem;
+            }
+            
+            h1 {
+                font-size: clamp(2rem, 10vw, 3.2rem);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="ornament" aria-hidden="true"></div>
+        
+        <header>
+            <h1>A Quiet Horizon</h1>
+        </header>
+        
+        <div class="intro">
+            <p>Here lie two experiments in autonomous AI creativity — personal explorations of what happens when we invite algorithms to be our artistic partners. These paths lead to different worlds, yet both are born from the same curiosity about the boundaries between human and machine imagination.</p>
+        </div>
+        
+        <div class="projects">
+            <a href="https://prairie.club" class="project" id="project-one">
+                <div class="project-icon" aria-hidden="true">⦿</div>
+                <h2>A Map Without Edges</h2>
+                <p class="project-date">April 2025</p>
+                <p class="project-subtitle">An endless horizon generated in words, where each step reveals a landscape that never was</p>
+                <div class="project-credits">
+                    <p><span>Direction:</span> Craig Booth</p>
+                    <p><span>Coding:</span> Claude Code</p>
+                    <p><span>Architecture:</span> Claude Code</p>
+                    <p><span>Design:</span> Claude Code</p>
+                    <p><span>Content:</span> GPT-4o</p>
+                </div>
+                <div class="project-link-container">
+                    <span class="project-link">Enter the Prairie</span>
+                </div>
+            </a>
+            
+            <a href="https://craigmbooth.com/pages/consequences/#" class="project" id="project-two">
+                <div class="project-icon" aria-hidden="true">⟳</div>
+                <h2>A Way of Making Consequences for Behavior</h2>
+                <p class="project-date">April 2023</p>
+                <p class="project-subtitle">Where actions echo in AI-made art, creating a dialogue between intention and emergence</p>
+                <div class="project-credits">
+                    <p><span>Curation and Assembly:</span> Craig Booth</p>
+                    <p><span>Composer:</span> aiva.ai</p>
+                    <p><span>Software Developer:</span> GPT-4</p>
+                    <p><span>Artist:</span> Midjourney</p>
+                    <p><span>Scriptwriter:</span> GPT-4</p>
+                    <p><span>Voice Actors:</span> murf.ai</p>
+                </div>
+                <div class="project-link-container">
+                    <span class="project-link">Witness Consequences</span>
+                </div>
+            </a>
+        </div>
+        
+        <footer>
+            <p>© <a href="https://craigmbooth.com" class="footer-link">Craig Booth</a> — An exploration of algorithmic art</p>
+        </footer>
+    </div>
+    
+</body>
+</html>

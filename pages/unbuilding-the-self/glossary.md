@@ -53,14 +53,10 @@ In insight practice, you can *deliberately* take on a view—like impermanence, 
 A classical Buddhist breakdown of what we think of as a "self," divided into five interacting parts:
 
 1. **Form** (your body and senses)
-
-2. **Feeling tone** (pleasant, unpleasant, neutral)
-
-3. **Perception** (labels and pattern recognition)
-
-4. **Mental formations** (intentions, reactions, habits)
-
-5. **Consciousness** (awareness itself)
+1. **Feeling tone** (pleasant, unpleasant, neutral)
+1. **Perception** (labels and pattern recognition)
+1. **Mental formations** (intentions, reactions, habits)
+1. **Consciousness** (awareness itself)
 
 You don't need to memorize these. Just know: the "self" is made of parts, and those parts can be watched. When you do, the illusion of a solid "me" starts to soften.
 

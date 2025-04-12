@@ -16,3 +16,5 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
   gem "jekyll-relative-links"
 end
+
+gem "rexml", "= 3.3.9"

@@ -1,5 +1,6 @@
-{% assign projects = site.data.projects[include.id] %}
-{% assign sorted_projects = projects | sort: "date" | reverse %}
+{% assign all_projects = site.data.projects.projects %}
+{% assign category_projects = all_projects | where: "category", include.id %}
+{% assign sorted_projects = category_projects | sort: "date" | reverse %}
 
 {% for project in sorted_projects %}
 <div class="project-item" data-category="{{ include.id }}">

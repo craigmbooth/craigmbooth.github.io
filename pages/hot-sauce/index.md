@@ -8,6 +8,12 @@ header:
 
 gallery:
 
+- image_path: /assets/images/pages/hotsauce/hotsauce153.jpg
+  title: Hot Ones Original Classic
+- image_path: /assets/images/pages/hotsauce/hotsauce152.jpg
+  title: Cloud 23 Hot Habanero
+- image_path: /assets/images/pages/hotsauce/hotsauce151.jpg
+  title: O'Brothers Organic Habanero
 - image_path: /assets/images/pages/hotsauce/hotsauce150.jpg
   title: Howler Monkey Amarillo
 - image_path: /assets/images/pages/hotsauce/hotsauce149.jpg

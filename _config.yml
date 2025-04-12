@@ -73,35 +73,9 @@ author:
   bio              : "EdTech CTO. Also growing vegetables, sitting still, and building AI I can live with."
   location         : "Chicago, IL"
   email            :
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/cmb"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/craigmbooth"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/craigmbooth"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/craigmbooth/"
 
 # Site Footer
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: https://x.com/cmb
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/craigmbooth"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/craigmbooth"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/craigmbooth/"
 
 # Reading Files
 include:

@@ -173,6 +173,7 @@ DEPENDENCIES
   jekyll-sitemap
   jemoji
   mdl
+  rexml (= 3.3.9)
   tzinfo-data
 
 BUNDLED WITH

@@ -98,4 +98,6 @@ And in that field, there's so much left to discover.
 Sincerely,
 Craig (but a little quieter inside)
 
-*This is part of the "Unbuilding the Self" series. View the [series overview](/pages/unbuilding-the-self/)*
+---
+
+This is part of the "Unbuilding the Self" series. View the [series overview](/pages/unbuilding-the-self/)

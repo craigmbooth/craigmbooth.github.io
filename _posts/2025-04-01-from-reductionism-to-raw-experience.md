@@ -14,17 +14,17 @@ classes: wide
 > *"Everything, all the way down, is models."*
 > — a sentence I wrote in my journal that I'm still unpacking
 
-I didn't come to meditation looking for [emptiness](/pages/unbuilding-the-self/glossary#emptiness-suññatā).
+I didn't come to meditation looking for [emptiness](/pages/unbuilding-the-self/glossary/#emptiness-suññatā).
 
 I've actually been meditating since 2014. It's been a part of my life for over a decade now—but in the time leading up to this journey, my practice had gone a little stagnant. What had once been intimate and curious had become mechanical. Full of dead inertia. Sit, breathe, hope something shifts. Nothing really did.
 
 Then I found Rob Burbea.
 
-Or more accurately, a friend shared a link to one of Rob's [jhāna](/pages/unbuilding-the-self/glossary#jhāna-meditative-absorption) retreats. I clicked play while folding laundry. And within minutes, I was completely taken.
+Or more accurately, a friend shared a link to one of Rob's [jhāna](/pages/unbuilding-the-self/glossary/#jhāna-meditative-absorption) retreats. I clicked play while folding laundry. And within minutes, I was completely taken.
 
 There was something in the way he spoke—unhurried, lyrical, precise—that bypassed the usual filters. He didn't talk like a man trying to explain something. He talked like someone inviting me to look again. I trusted him immediately.
 
-So I started practicing again. First [samādhi](/pages/unbuilding-the-self/glossary#samādhi-collectedness-absorption), then some gentle jhāna work. His talks became part of my days—guiding walks, anchoring mornings, accompanying moments of friction. Titles like [*Selflessness and a Life of Love*](https://dharmaseed.org/talks/9989/), [*Unbinding the World*](https://dharmaseed.org/talks/17960/), [*Attitude, Effort, Attainment, and View*](https://dharmaseed.org/talks/60861/) became familiar companions.
+So I started practicing again. First [samādhi](/pages/unbuilding-the-self/glossary/#samādhi-collectedness-absorption), then some gentle jhāna work. His talks became part of my days—guiding walks, anchoring mornings, accompanying moments of friction. Titles like [*Selflessness and a Life of Love*](https://dharmaseed.org/talks/9989/), [*Unbinding the World*](https://dharmaseed.org/talks/17960/), [*Attitude, Effort, Attainment, and View*](https://dharmaseed.org/talks/60861/) became familiar companions.
 
 Eventually, I picked up *Seeing That Frees*, the one book Rob wrote before he died. I wanted more of this—more of *that*.
 
@@ -48,11 +48,11 @@ The idea was simple: sit with the teachings over twelve months, and reflect. Slo
 
 There's a line from Düdjom Lingpa's *The Foolish Dharma of an Idiot Clothed in Mud and Feathers* that struck me like lightning:
 
-*"Without procrastinating until tomorrow and the next day, arouse a sense of urgency, as if a spark landed on your body or a grain of sand fell in your eye."*
+> "Without procrastinating until tomorrow and the next day, arouse a sense of urgency, as if a spark landed on your body or a grain of sand fell in your eye."
 
 It stopped me cold.
 
-Because the truth is: it's a miracle I'm even here. That I have a mind capable of reflection, a life that supports practice, teachings I can access, and a [sangha](/pages/unbuilding-the-self/glossary#sangha) I can learn with.
+Because the truth is: it's a miracle I'm even here. That I have a mind capable of reflection, a life that supports practice, teachings I can access, and a [sangha](/pages/unbuilding-the-self/glossary/#sangha) I can learn with.
 
 This doesn't happen by accident.
 
@@ -85,11 +85,11 @@ I still remember the moment from *Seeing That Frees*—a line that casually poin
 
 It broke something open.
 
-*"Everything, all the way down, is models."*
+> "Everything, all the way down, is models."
 
 I remember writing that line in my journal and then staring at it for a long time.
 
-*"There is no magical level below which the models are any more real than what I was building. Protons? Models. Quarks? Models. Gravity? A model."*
+> "There is no magical level below which the models are any more real than what I was building. Protons? Models. Quarks? Models. Gravity? A model."
 
 The thought didn't frighten me. It didn't even really surprise me. But it *unhooked* something. Something I hadn't realized was binding me.
 

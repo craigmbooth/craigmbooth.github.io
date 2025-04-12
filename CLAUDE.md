@@ -60,8 +60,8 @@ header:
 ### Creating New Projects
 
 1. Add project details to `_data/projects.yml`
-2. Create a new directory in `projects/` if needed
-3. Add project assets to `assets/images/projects/`
+1. Create a new directory in `projects/` if needed
+1. Add project assets to `assets/images/projects/`
 
 ### Adding Images
 
@@ -82,9 +82,10 @@ Current branch: `meditation` - Adding new meditation-related content
 The site automatically deploys from the `master` branch via GitHub Pages.
 
 To deploy changes:
+
 1. Create a PR from your feature branch to `master`
-2. Merge the PR after CI passes
-3. GitHub Pages will build and deploy the site
+1. Merge the PR after CI passes
+1. GitHub Pages will build and deploy the site
 
 ## Reference Commands
 

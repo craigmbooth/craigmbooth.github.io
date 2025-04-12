@@ -11,7 +11,7 @@ classes: wide
 > *"I used to think clarity was a narrowing. Now I think it's a widening."*  
 > — from my journal
 
-I've spent most of my life chasing reality through equations. If you're someone who leans on logic, skepticism, or scientific rigor—and you're not sure where meditation fits in—I get it. I was that person too. That's why I wrote a separate piece called [Letters to a Skeptic](letters-to-a-skeptic): it's the letter I wish I'd had when I started this journey. You don't need it to follow the rest of the series, but if you're on the fence, it's there.
+I've spent most of my life chasing reality through equations. If you're someone who leans on logic, skepticism, or scientific rigor—and you're not sure where meditation fits in—I get it. I was that person too. That's why I wrote a separate piece called [Letters to a Skeptic](letters-to-a-skeptic/): it's the letter I wish I'd had when I started this journey. You don't need it to follow the rest of the series, but if you're on the fence, it's there.
 
 For most of my adult life, I've been trained to look for reality by reducing things—galaxies into star populations, stars into particles, particles into quantum fields. My background is in astrophysics. I spent years building mathematical models of the universe, trying to get as close as I could to how things really work. And in that world, you learn that truth is always downstream of complexity, always hidden somewhere deeper.
 
@@ -59,5 +59,5 @@ Thanks for reading.
 
 ## Resources
 
-- [Letters to a Skeptic](letters-to-a-skeptic) - What I'd say to the part of me that needed proof
-- [Glossary](glossary) - A skeptic-friendly guide to the dharma terms I use
+- [Letters to a Skeptic](letters-to-a-skeptic/) - What I'd say to the part of me that needed proof
+- [Glossary](glossary/) - A skeptic-friendly guide to the dharma terms I use

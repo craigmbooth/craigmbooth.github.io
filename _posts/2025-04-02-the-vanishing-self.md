@@ -14,7 +14,7 @@ classes: wide
 > *"Are you good with bad habits, or are you bad with good habits?"*  
 > — Shel Silverstein
 
-When I started this study of [emptiness](/pages/unbuilding-the-self/glossary#emptiness-suññatā), I didn't expect to run directly into myself.
+When I started this study of [emptiness](/pages/unbuilding-the-self/glossary/#emptiness-suññatā), I didn't expect to run directly into myself.
 
 Not the poetic, capital-S Self. I mean the messy, cobbled-together identity I wear every day without really noticing: smart, competent, kind (mostly), quietly judgmental, a little anxious, ambitious-but-humble, grounded-but-dreamy. The whole contradictory kit.
 
@@ -63,7 +63,7 @@ I started tracking these shifts. Morning to evening. Calm to tense. Spacious to 
 
 Every day held a thousand selves. And not one of them stuck around for long.
 
-This was more than just noticing impermanence. It was the beginning of understanding [*anattā*](/pages/unbuilding-the-self/glossary#anattā-not-self)—that none of these self-states could rightly be called me or mine. They were arising and passing with conditions. And if that was true… who, exactly, was watching all this happen?
+This was more than just noticing impermanence. It was the beginning of understanding [*anattā*](/pages/unbuilding-the-self/glossary/#anattā-not-self)—that none of these self-states could rightly be called me or mine. They were arising and passing with conditions. And if that was true… who, exactly, was watching all this happen?
 
 ## The Little Guy in My Head
 
@@ -95,9 +95,9 @@ One technique that helped open this up was deceptively simple: *let it be.*
 
 When I noticed contraction or aversion in meditation, instead of analyzing it or trying to make it go away, I just allowed it. Stayed with it. Let it be part of the landscape.
 
-This opened into deeper states of [samādhi](/pages/unbuilding-the-self/glossary#samādhi-collectedness-absorption) than I'd experienced before. And more interestingly, it gave me a way to *feel* into the characteristic of [dukkha](/pages/unbuilding-the-self/glossary#dukkha-unsatisfactoriness-friction-suffering).
+This opened into deeper states of [samādhi](/pages/unbuilding-the-self/glossary/#samādhi-collectedness-absorption) than I'd experienced before. And more interestingly, it gave me a way to *feel* into the characteristic of [dukkha](/pages/unbuilding-the-self/glossary/#dukkha-unsatisfactoriness-friction-suffering).
 
-Dukkha started to show up not just as pain or dissatisfaction, but as contraction. As narrowing. As collapse around an identity or a [view](/pages/unbuilding-the-self/glossary#view). And letting it be—not fixing it, not transcending it, just making space for it—gave it room to breathe. Sometimes that was all it needed to release.
+Dukkha started to show up not just as pain or dissatisfaction, but as contraction. As narrowing. As collapse around an identity or a [view](/pages/unbuilding-the-self/glossary/#view). And letting it be—not fixing it, not transcending it, just making space for it—gave it room to breathe. Sometimes that was all it needed to release.
 
 This isn't a glamorous insight. It's not something to write down in a notebook and underline. But it's *practice*. And it works.
 
@@ -105,7 +105,7 @@ This isn't a glamorous insight. It's not something to write down in a notebook a
 
 One last realization from this phase:
 
-So much of what I had thought of as "me" was actually just the [aggregates](/pages/unbuilding-the-self/glossary#the-aggregates-skandhas) doing their thing.
+So much of what I had thought of as "me" was actually just the [aggregates](/pages/unbuilding-the-self/glossary/#the-aggregates-skandhas) doing their thing.
 
 In one sit, I watched an itch appear.
 
