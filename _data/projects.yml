@@ -1,4 +1,12 @@
 projects:
+  - title: AI Generated Experiments (2025)
+    category: software
+    description: Explorations of AI-generated creative content and interfaces
+    img: /assets/images/projects/ai-generated-header.png
+    img_alt: Cover for AI generated experiments
+    relative_url: /pages/ai-generated-pages/
+    date: 2025
+
   - title: Killer Sudoku Combo Calculator (2021)
     category: software
     description: A simple Vue app that calculates possible combinations in killer Sudoku puzzles
