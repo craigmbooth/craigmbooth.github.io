@@ -2,8 +2,6 @@
 layout: single
 title: "Alienation, Autonomy, and AI Art"
 excerpt: "Exploring the blurry line between human and machine creativity"
-categories:
-  - Blog
 tags:
   - ai
   - art
