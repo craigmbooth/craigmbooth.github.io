@@ -55,4 +55,6 @@ feature_row:
 
 {% include feature_row id="intro" type="left" %}
 
-{% include feature_row  %}
+{% include feature_row %}
+
+{% include recent-posts.html title="Latest Writings" %}

@@ -1,4 +1,12 @@
 projects:
+  - title: Contemplative Neuroscience (2024-)
+    category: other
+    description: Summaries of academic research in the field of contemplative neuroscience, exploring how meditation affects the brain and mind
+    img: /assets/images/projects/contemplative_neuroscience.png
+    img_alt: Contemplative Neuroscience logo
+    relative_url: https://contemplativeneuroscience.com/
+    date: 2024
+
   - title: AI Generated Experiments (2025)
     category: software
     description: Explorations of AI-generated creative content and interfaces

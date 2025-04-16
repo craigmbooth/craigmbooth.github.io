@@ -1,0 +1,22 @@
+<h2 class="no-underline">{{ include.title | default: "Recent Posts" }}</h2>
+<div class="feature__wrapper recent-posts-wrapper">
+  {% for post in site.posts limit:3 %}
+    <div class="feature__item">
+      <div class="archive__item post-panel">
+        {% if post.header.overlay_image or post.header.image %}
+          {% assign header_image = post.header.overlay_image | default: post.header.image %}
+          <div class="post-panel__bg" style="background-image: url({{ header_image | relative_url }});"></div>
+        {% endif %}
+        <div class="archive__item-body">
+          <h3 class="archive__item-title">
+            <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
+          </h3>
+          <div class="archive__item-meta date-subtle">{{ post.date | date: "%B %d, %Y" }}</div>
+          <div class="archive__item-excerpt">
+            {{ post.excerpt | markdownify | strip_html | truncate: 160 }}
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
