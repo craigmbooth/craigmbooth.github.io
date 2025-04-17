@@ -3,9 +3,11 @@ layout: single
 title: "The Quiet Architecture of Trust"
 excerpt: "Exploring ethical and pedagogical AI in education"
 tags:
-  - ai
-  - education
-  - ethics
+
+- ai
+- education
+- ethics
+
 header:
   overlay_image: /assets/images/blog/pulling-back-the-curtains/curtains_header.png
   overlay_filter: 0.5

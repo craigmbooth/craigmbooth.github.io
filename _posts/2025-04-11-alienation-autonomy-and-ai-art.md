@@ -3,9 +3,11 @@ layout: single
 title: "Alienation, Autonomy, and AI Art"
 excerpt: "Exploring the blurry line between human and machine creativity"
 tags:
-  - ai
-  - art
-  - projects
+
+- ai
+- art
+- projects
+
 header:
   overlay_image: /assets/images/blog/ai-art/ai_art_header.png
   overlay_filter: 0.5

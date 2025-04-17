@@ -1,6 +1,15 @@
 projects:
+  - title: alienation.online (2015-)
+    tags: art,technology
+    description: >-
+      This is a quiet archive.<br><br>alienation.online collects fragments—articles, essays, images, artifacts—that capture a particular kind of discomfort. Most are about technology. Some are about the future. Others are about the strange feeling that something is slipping sideways beneath the surface of everyday life.<br><br>I don't update it on a schedule. There's no grand thesis. Just a slow accumulation of moments where the digital world feels too slick, too hollow, too fast—or just too much. These aren't always dramatic. Often they're small things: a glitch, a headline, a product pitch that feels slightly inhuman.<br><br>This site is where I hold onto those moments. Not to solve them, but to notice them.
+    img: /assets/images/projects/alienation_header.png
+    img_alt: alienation.online
+    relative_url: https://alienation.online
+    date: 2015
+
   - title: Contemplative Neuroscience (2024-)
-    category: other
+    tags: meditation,science
     description: Summaries of academic research in the field of contemplative neuroscience, exploring how meditation affects the brain and mind
     img: /assets/images/projects/contemplative_neuroscience.png
     img_alt: Contemplative Neuroscience logo
@@ -8,15 +17,16 @@ projects:
     date: 2024
 
   - title: AI Generated Experiments (2025)
-    category: software
-    description: Explorations of AI-generated creative content and interfaces
+    tags: software,art,visualization
+    description: >-
+      This is a space for exploring what happens when machines try to make things.<br><br>Every piece on this page is generated entirely by AI—not just images, but interactive works, small systems, strange little exhibits. I'm not curating for polish or perfection. I'm watching for signs: how fast it's improving, how weird it gets, and where it still falls short.<br><br>Think of this as a live sketchbook for something shifting. I'm trying to track the shape of what's coming.
     img: /assets/images/projects/ai-generated-header.png
     img_alt: Cover for AI generated experiments
     relative_url: /pages/ai-generated-pages/
     date: 2025
 
   - title: Killer Sudoku Combo Calculator (2021)
-    category: software
+    tags: software,game
     description: A simple Vue app that calculates possible combinations in killer Sudoku puzzles
     img: /assets/images/projects/killer.png
     img_alt: An empty killer Sudoku puzzle grid.
@@ -24,7 +34,7 @@ projects:
     date: 2021
 
   - title: You Killed a Bear (2020)
-    category: software
+    tags: software,game
     description: YKAB is a simple maze-escape game written with the micro-framework <a href="https://github.com/jamesroutley/24a2">24a2</a>.  This is an exercise in seeing if I could create an entertaining game on a simple grid of 24 x 24 pixels.
     img: /assets/images/projects/ykab.png
     img_alt: Cover for YKAB project
@@ -32,7 +42,7 @@ projects:
     date: 2020
 
   - title: HP7475A Pen Plotter Art (2019)
-    category: software
+    tags: software,art
     description: I figured out how to drive an old-school pen plotter from the 1980s and used to make various pieces of algorithmic art.
     img: /assets/images/projects/plotter.jpg
     img_alt: Cover for pen plotter project
@@ -40,7 +50,7 @@ projects:
     date: 2019
 
   - title: NFL Statsalyzer (2018)
-    category: software
+    tags: software,visualization
     description: I combined tables of NFL data with Google's chart API to produce a Gapminder style interactive visualization of how every team in the NFL has performed since the year 2000.
     img: /assets/images/projects/statsalyzer.png
     img_alt: Cover for NFL project
@@ -48,7 +58,7 @@ projects:
     date: 2018
 
   - title: Nix Dependency Visualizer (2016)
-    category: software
+    tags: software,visualization
     description: I wrote a tool for software developers who use the <a href="https://nixos.org/nix">Nix</a> package manager, <i>nix-visualize</i>.  This tool looks at your software and draws a tree of its dependencies, its dependencies dependencies, its dependencies dependencies dependencies, and so on, all the way down to the operating system.
     img: /assets/images/projects/nv.png
     img_alt: Cover for Nix Visualizer project
@@ -56,7 +66,7 @@ projects:
     date: 2016
 
   - title: Map of Software (2014)
-    category: software
+    tags: software,visualization
     description: I used a web spider to crawl stack overflow for every tagged question. I then used this data to construct a huge graph showing how all of the different tags are related. In essence forming a topographical map of how all of computing is interrelated.
     img: /assets/images/projects/mapofsoftware.png
     img_alt: Cover for map project
@@ -64,7 +74,7 @@ projects:
     date: 2014
 
   - title: Measurement of the Hubble Parameter (2013)
-    category: software
+    tags: software,visualization,science
     description: I did a literature survey of measurements of the Hubble constant (the number that describes how fast the Universe is expanding) and plotted the results on an interactive graph to show how our understanding of the Universe has evolved.
     img: /assets/images/projects/hubble.png
     img_alt: Cover for hubble project
@@ -72,7 +82,7 @@ projects:
     date: 2013
 
   - title: How I Bake Sourdough (2020-)
-    category: food
+    tags: food
     description: I bake a lot of sourdough.  Here are my collected learnings.
     img: /assets/images/pages/sourdough/header.jpg
     img_alt: A closeup shot of some sourdough
@@ -80,7 +90,7 @@ projects:
     date: 2020
 
   - title: The Bread Baker's Apprentice Challenge (2020)
-    category: food
+    tags: food
     description:  I'm baking every bread in the textbook "The Bread Baker's Apprentice", alphabetically.
     img: /assets/images/projects/bread_bakers_apprentice.jpg
     img_alt: Cover for the bread baker's apprentice challenge page
@@ -88,7 +98,7 @@ projects:
     date: 2020
 
   - title: Hot sauce collection (2010-)
-    category: food
+    tags: food
     description:  I love hot sauce, and I keep track of all of it that I buy.
     img: /assets/images/projects/hot_peppers.png
     img_alt: Cover for the hot sauce list
@@ -96,7 +106,7 @@ projects:
     date: 2010
 
   - title: Unbuilding the Self (2025)
-    category: other
+    tags: meditation
     description: A yearlong study of emptiness, perception, and freedom through meditation
     img: /assets/images/projects/unbuilding.jpg
     img_alt: Cover for meditation series
@@ -104,7 +114,7 @@ projects:
     date: 2025
 
   - title: Homebrew Infra-red Photography (2010)
-    category: other
+    tags: art,technology
     description: I converted my digital camera into an IR camera using some old over-exposed film negatives
     img: /assets/images/blog/ir_photography/irp4.jpg
     img_alt: Cover for IR photography project

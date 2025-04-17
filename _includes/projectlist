@@ -1,10 +1,16 @@
 {% assign all_projects = site.data.projects.projects %}
-{% assign category_projects = all_projects | where: "category", include.id %}
-{% assign sorted_projects = category_projects | sort: "date" | reverse %}
+{% assign sorted_projects = all_projects | sort: "date" | reverse %}
 
 {% for project in sorted_projects %}
-<div class="project-item" data-category="{{ include.id }}">
-  <h2>{{ project.title }}</h2>
+{% assign tags = project.tags | default: project.category | split: "," %}
+<div class="project-item" data-tags="{{ tags | join: ',' }}" data-date="{{ project.date }}">
+  <h3>{{ project.title }}</h3>
+
+  <div class="project-tags">
+    {% for tag in tags %}
+    <span class="project-tag">{{ tag | strip }}</span>
+    {% endfor %}
+  </div>
 
   <img src="{{project.img}}" alt="{{project.img_alt}}" class="align-center">
 
@@ -13,4 +19,3 @@
   <p><a href="{{project.relative_url}}">Link</a></p>
 </div>
 {% endfor %}
-
