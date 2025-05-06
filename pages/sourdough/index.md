@@ -38,7 +38,7 @@ I started by baking the country bread recipe from Tartine Bread over and over an
 
 #### Must-have
 
-Outside of a work surface and an oven, I don't think much in the way of specialty equipment is required to make a really good loaf of sourdough.  In face, there are only two things I find completely necessary:
+Outside of a work surface and an oven, I don't think much in the way of specialty equipment is required to make a really good loaf of sourdough.  In fact, there are only two things I find completely necessary:
 
 - A 5 quart cast iron dutch oven.  The bread is baked in here.
 - A bench knife to handle dough.  I guess technically this is optional, but the dough on this page is pretty high hydration, and handling it without a bench knife is difficult.
@@ -71,7 +71,7 @@ As much as I would like to be one of those people who enjoys wholegrain bread, I
 
 Flour is one place where it's worth spending a little bit more to get a better quality product.  Depending on what I'm after, I'll generally use King Arthur all-purpose flour, or King Arthur Bread flour.
 
-The difference between these two flours is primarily the protien (gluten) content.  Bread flour contains more protien, so the gluten network in the dough will get more strongly developed.  The difference in the finished loaf is that bread made with bread flour is chewier, and has a more defined structure.
+The difference between these two flours is primarily the protein (gluten) content.  Bread flour contains more protein, so the gluten network in the dough will get more strongly developed.  The difference in the finished loaf is that bread made with bread flour is chewier, and has a more defined structure.
 
 I go back and forth on which I prefer.  Do whatever works for you.
 
@@ -85,13 +85,13 @@ Fermentation is controlled in large part by temperature, and the initial tempera
 
 I use fine-grained sea salt.  Fine grained salt will dissolve faster into the dough than something with larger grains like kosher salt.
 
-Salt [does a lot of things](https://www.kingarthurbaking.com/pro/reference/salt) to bread.  Don’t use iodized salt.  Iodine can impart a flavor to the bread.  If you forget to add salt, the bread will taste noticably "flat".  Because of this, I have not forgotten to add salt a second time.
+Salt [does a lot of things](https://www.kingarthurbaking.com/pro/reference/salt) to bread.  Don’t use iodized salt.  Iodine can impart a flavor to the bread.  If you forget to add salt, the bread will taste noticeably "flat".  Because of this, I have not forgotten to add salt a second time.
 
 #### Yeast (from {% raw %}{{200*fac}}{% endraw %} g leaven)
 
 We don’t use a traditional baker’s yeast, but a levain made from fermented flour and water.  I'm not covering how to make a starter in this document.  I have never actually made one, just asked friends for bits of theirs.
 
-I tend to keep my starter in the fridge during the week, and revivce it on Fridays to bake.  If I skip baking for a week I do tend to feed the starter, although have occasionally forgotten to do so with no real ill effects.
+I tend to keep my starter in the fridge during the week, and revive it on Fridays to bake.  If I skip baking for a week I do tend to feed the starter, although have occasionally forgotten to do so with no real ill effects.
 
 ### My Schedule
 
@@ -180,7 +180,7 @@ Making this call can be difficult. Cutting bulk fermentation short might mean yo
 
 #### Divide, Pre-shape, and Bench Rest
 
-Once you are satisfied that the bulk fermentation is done, gently remove the dough from the plastic container to your bench.  PLease note, your bench should be unfloured.  You’re about to want the dough to stick a little bit to it.
+Once you are satisfied that the bulk fermentation is done, gently remove the dough from the plastic container to your bench.  Please note, your bench should be unfloured.  You’re about to want the dough to stick a little bit to it.
 
 Split the dough into as many pieces as loaves you plan to bake.  Use a bench knife for this and make deliberate, firm movements to cut the dough.  The less you handle the dough the better at this point.
 
@@ -192,7 +192,7 @@ Cover the loaves with a towel, and let them rest for 30 minutes so that the glut
 
 ### Secondary Fermentation
 
-In this phase you’ll do the final shaping of the loaf, building more tension in the outser surface, and then transfer it to a banneton to proof.
+In this phase you’ll do the final shaping of the loaf, building more tension in the outer surface, and then transfer it to a banneton to proof.
 
 #### Banneton Prep
 
