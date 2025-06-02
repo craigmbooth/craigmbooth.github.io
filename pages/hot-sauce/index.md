@@ -8,6 +8,12 @@ header:
 
 gallery:
 
+- image_path: /assets/images/pages/hotsauce/hotsauce156.jpg
+  title: De La Viuda Green Pepper
+- image_path: /assets/images/pages/hotsauce/hotsauce155.jpg
+  title: El Yucateco Habanero & Chiltepin
+- image_path: /assets/images/pages/hotsauce/hotsauce154.jpg
+  title: Mezzetta California Habanero Hot Sauce
 - image_path: /assets/images/pages/hotsauce/hotsauce153.jpg
   title: Hot Ones Original Classic
 - image_path: /assets/images/pages/hotsauce/hotsauce152.jpg
