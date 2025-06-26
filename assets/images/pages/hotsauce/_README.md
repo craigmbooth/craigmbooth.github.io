@@ -13,9 +13,10 @@ All hot sauce images must follow the naming pattern: `hotsauce###.jpg` where `##
 If you have new images that don't follow the naming convention (e.g., photos from your phone like `PXL_20250518_173421106.jpg`), rename them to follow the pattern:
 
 1. Find the highest numbered existing image in this directory
-2. Rename your new images to the next sequential numbers
+1. Rename your new images to the next sequential numbers
 
 **Example:**
+
 ```bash
 # If the highest existing image is hotsauce153.jpg
 mv PXL_20250518_173421106.jpg hotsauce154.jpg
@@ -33,6 +34,7 @@ cd /path/to/assets/images/pages/hotsauce
 ```
 
 This script will:
+
 - Check for existing thumbnails (prefixed with `t_`)
 - Generate thumbnails only for images that don't already have them
 - Create appropriately sized thumbnails for the gallery
@@ -42,10 +44,11 @@ This script will:
 Edit the hot sauce page at `/pages/hot-sauce/index.md` to add entries for the new images:
 
 1. Open `/pages/hot-sauce/index.md`
-2. In the `gallery:` section, add new entries at the top of the list
-3. Use placeholder titles that can be updated later
+1. In the `gallery:` section, add new entries at the top of the list
+1. Use placeholder titles that can be updated later
 
 **Example entry:**
+
 ```yaml
 - image_path: /assets/images/pages/hotsauce/hotsauce156.jpg
   title: Hot Sauce Placeholder 156
@@ -57,7 +60,7 @@ Replace the placeholder titles with the actual hot sauce names by editing the `t
 
 ## Directory Structure
 
-```
+```bash
 hotsauce/
 ├── README.md                    # This file
 ├── generate_thumbnails          # Script to create thumbnails

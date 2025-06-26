@@ -31,10 +31,10 @@ This chart shows some interesting seasonal trends:
 
 * Spring (Apr–May):  Generation outpaces demand by roughly a third—ideal “solar surplus” months.
 * High summer (Jul–Aug): Long days but we use a lot of electricity as the HVAC + dehumidifier fight heat and humidity.
-* Autumn shoulder (Sep–Oct): 	A tight squeeze, shorter days, but also our AC use begins to slow.
+* Autumn shoulder (Sep–Oct): A tight squeeze, shorter days, but also our AC use begins to slow.
 * Deep winter (Dec–Jan):  The familiar crunch: short daylight, low-angle sun, holiday cooking, and little help from the roof.
 
-##  What the Numbers Tell Me
+## What the Numbers Tell Me
 
 A few interesting takeaways from this exercise:
 
